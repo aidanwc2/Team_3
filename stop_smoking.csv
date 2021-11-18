@@ -1,0 +1,775 @@
+﻿Entity,Code,Year,AvgCigarettePriceDollars,AvgTaxesAsPctCigarettePrice,EnforceBansTobaccoAd,HelpToQuit
+Algeria,DZA,2012,1.84,47,4,3
+Algeria,DZA,2014,2.09,40.9,4,4
+Argentina,ARG,2012,2.79,69.9,4,4
+Argentina,ARG,2014,3.47,69.7,4,5
+Armenia,ARM,2012,1.69,38.4,2,4
+Armenia,ARM,2014,1.74,44.1,2,4
+Australia,AUS,2012,8.24,63.1,4,5
+Australia,AUS,2014,10.64,58.4,4,5
+Austria,AUT,2012,4.97,75,4,4
+Austria,AUT,2014,5.34,74.9,4,4
+Azerbaijan,AZE,2012,1.75,19.8,4,3
+Azerbaijan,AZE,2014,2.7,17.6,4,3
+Bahamas,BHS,2014,9.75,41.6,2,4
+Bangladesh,BGD,2012,1.38,63.8,4,3
+Bangladesh,BGD,2014,1.54,75.6,4,3
+Belarus,BLR,2012,1.79,41.2,4,4
+Belarus,BLR,2014,1.77,52.7,4,4
+Belgium,BEL,2012,5.29,76.4,4,4
+Belgium,BEL,2014,6.08,76.4,4,5
+Belize,BLZ,2014,6.75,42.5,2,3
+Bolivia,BOL,2012,2.89,40.4,4,4
+Bolivia,BOL,2014,2.82,40.4,4,4
+Bosnia and Herzegovina,BIH,2012,3.19,75.2,4,4
+Bosnia and Herzegovina,BIH,2014,3.86,86,4,4
+Brazil,BRA,2012,2.33,62.6,5,5
+Brazil,BRA,2014,2.85,64.3,5,5
+Bulgaria,BGR,2012,5.76,86.4,4,4
+Bulgaria,BGR,2014,6.25,84,4,4
+Burundi,BDI,2014,2.26,41.2,2,2
+Cambodia,KHM,2012,0.86,17.1,4,3
+Cambodia,KHM,2014,0.92,22.2,4,3
+Cameroon,CMR,2012,7.54,21.5,4,3
+Cameroon,CMR,2014,2.43,17.9,4,4
+Canada,CAN,2012,6.8,64.5,4,5
+Canada,CAN,2014,6.88,64.5,4,5
+Chile,CHL,2012,3.69,82,4,3
+Chile,CHL,2014,5.21,81.6,4,3
+China,CHN,2012,2.16,47.7,4,3
+China,CHN,2014,2.13,47.8,4,4
+Colombia,COL,2012,1.67,50.9,5,3
+Colombia,COL,2014,1.81,49.5,5,3
+Comoros,COM,2014,1.96,50.8,2,2
+Costa Rica,CRI,2014,3.63,71.8,4,4
+Croatia,HRV,2012,4.81,70.4,4,4
+Croatia,HRV,2014,5.65,74.8,4,4
+Cyprus,CYP,2012,4.9,75.8,4,4
+Cyprus,CYP,2014,5.52,77.3,4,4
+Czechia,CZE,2012,4.91,80,4,4
+Czechia,CZE,2014,5.69,75.6,4,4
+Denmark,DNK,2012,4.66,78.7,4,5
+Denmark,DNK,2014,4.73,78.8,4,5
+Dominican Republic,DOM,2012,5.53,58.3,2,3
+Dominican Republic,DOM,2014,6.25,57.7,2,3
+Ecuador,ECU,2012,5.67,64.2,4,4
+Ecuador,ECU,2014,5.91,62.7,4,4
+Egypt,EGY,2012,2.29,71.5,4,4
+Egypt,EGY,2014,2.69,72,4,4
+Estonia,EST,2012,4.8,79.2,4,4
+Estonia,EST,2014,4.8,81.7,4,4
+Ethiopia,ETH,2014,1.97,18.7,4,4
+Fiji,FJI,2012,4.23,40.6,4,4
+Fiji,FJI,2014,4.57,44,4,4
+Finland,FIN,2012,5.03,79.8,4,4
+Finland,FIN,2014,5.42,81.7,4,4
+France,FRA,2012,6.69,80,4,4
+France,FRA,2014,7.61,80.6,4,4
+Gambia,GMB,2014,4.42,34.4,4,2
+Georgia,GEO,2012,1.57,54.9,2,3
+Georgia,GEO,2014,2.41,47.5,2,4
+Germany,DEU,2012,5.74,74.5,4,4
+Germany,DEU,2014,6.34,73.5,4,4
+Ghana,GHA,2012,2.35,23.1,5,4
+Ghana,GHA,2014,2.41,28.3,5,4
+Greece,GRC,2012,4.71,83.2,4,4
+Greece,GRC,2014,5.75,81.6,4,4
+Guatemala,GTM,2012,2.92,49,2,4
+Guatemala,GTM,2014,3.22,49,2,4
+Honduras,HND,2012,3.18,36.2,4,4
+Honduras,HND,2014,3.38,38.1,4,4
+Hungary,HUN,2012,4.82,84.1,4,4
+Hungary,HUN,2014,6.74,77.4,4,4
+Iceland,ISL,2012,7.42,56.9,4,3
+Iceland,ISL,2014,8.89,56.4,4,3
+India,IND,2012,5.33,33.2,4,4
+India,IND,2014,4.63,66.1,4,4
+Indonesia,IDN,2012,2.2,35.5,2,3
+Indonesia,IDN,2014,2.68,50.8,2,3
+Iran,IRN,2012,2.26,2.7,5,5
+Iran,IRN,2014,2.52,4.3,5,5
+Ireland,IRL,2012,10.59,78.8,4,5
+Ireland,IRL,2014,11.16,77.8,4,5
+Israel,ISR,2014,7.15,85,2,5
+Italy,ITA,2012,5.44,75.5,4,4
+Italy,ITA,2014,5.43,76.1,4,4
+Jamaica,JAM,2012,12.19,46.1,2,4
+Jamaica,JAM,2014,13,42.9,2,4
+Japan,JPN,2012,4.04,63.2,2,4
+Japan,JPN,2014,4.34,62.9,2,4
+Kazakhstan,KAZ,2012,1.26,27,4,4
+Kazakhstan,KAZ,2014,1.45,39.7,4,4
+Kenya,KEN,2012,1.69,48.8,5,4
+Kenya,KEN,2014,1.78,49.3,5,4
+Latvia,LVA,2012,4.58,78.7,4,4
+Latvia,LVA,2014,7.13,77.3,4,4
+Lebanon,LBN,2012,2.35,44.4,4,4
+Lebanon,LBN,2014,2.67,48.3,4,4
+Lithuania,LTU,2012,4.82,75.8,4,4
+Lithuania,LTU,2014,5.11,77.6,4,4
+Luxembourg,LUX,2012,4.26,71.1,4,4
+Luxembourg,LUX,2014,4.47,70.7,4,4
+Malaysia,MYS,2012,5.02,58.4,4,4
+Malaysia,MYS,2014,6.1,59.8,4,4
+Mali,MLI,2014,1.85,38.1,4,3
+Mexico,MEX,2012,4.56,66.5,2,4
+Mexico,MEX,2014,5.15,65.8,2,5
+Moldova,MDA,2012,1.95,44.6,4,3
+Moldova,MDA,2014,2.06,51.6,4,4
+Mongolia,MNG,2012,0,0,4,4
+Mongolia,MNG,2014,2.54,44.2,4,4
+Morocco,MAR,2012,4.08,68,4,3
+Morocco,MAR,2014,4.81,68.4,4,3
+Nepal,NPL,2012,1.78,32.9,4,3
+Nepal,NPL,2014,1.73,46.6,5,3
+Netherlands,NLD,2012,6.17,73.1,4,4
+Netherlands,NLD,2014,7.22,74.8,4,5
+New Zealand,NZL,2012,8.53,73.3,4,5
+New Zealand,NZL,2014,10.61,75,4,5
+Nicaragua,NIC,2012,2.84,30.5,2,3
+Nigeria,NGA,2012,1.75,21.7,2,4
+North Macedonia,MKD,2012,2.81,70.8,4,3
+North Macedonia,MKD,2014,3.05,69.8,4,4
+Norway,NOR,2012,8.33,72.8,4,4
+Norway,NOR,2014,9.31,67.2,4,4
+Oman,OMN,2012,2.6,22.1,2,3
+Oman,OMN,2014,2.86,22.1,2,4
+Pakistan,PAK,2012,0.97,61.6,2,3
+Pakistan,PAK,2014,1.1,60.7,4,4
+Panama,PAN,2012,6.57,56.5,5,5
+Panama,PAN,2014,6.44,56.5,5,5
+Peru,PER,2012,2.96,44.9,2,3
+Peru,PER,2014,3.7,39.5,2,3
+Philippines,PHL,2012,1.23,34.2,4,4
+Philippines,PHL,2014,1.86,53,4,4
+Poland,POL,2012,5.85,79.7,4,4
+Poland,POL,2014,6.45,82.6,4,4
+Portugal,PRT,2012,6.07,76.3,4,4
+Portugal,PRT,2014,5.93,79.6,4,4
+Romania,ROU,2012,5.79,75.3,4,5
+Romania,ROU,2014,6.16,77.3,4,4
+Russia,RUS,2012,1.52,45,2,3
+Russia,RUS,2014,2.18,50.5,5,4
+Rwanda,RWA,2014,2.01,24.1,2,2
+Saint Kitts and Nevis,KNA,2012,3.52,19.9,2,3
+Samoa,WSM,2012,5.96,59.5,4,3
+Saudi Arabia,SAU,2012,2.63,22.9,2,4
+Senegal,SEN,2012,1.61,29,2,3
+Senegal,SEN,2014,1.91,37.9,4,3
+Serbia,SRB,2012,3.25,75.4,4,4
+Serbia,SRB,2014,4.48,73.8,4,4
+Sierra Leone,SLE,2014,1.58,19.7,2,2
+Singapore,SGP,2012,10.58,70.4,4,5
+Singapore,SGP,2014,11.04,73.8,4,5
+Slovakia,SVK,2012,4.66,83.1,4,4
+Slovakia,SVK,2014,4.95,84.6,4,4
+Slovenia,SVN,2012,4.93,78.4,4,4
+Slovenia,SVN,2014,5.84,79.4,4,4
+South Africa,ZAF,2012,5.16,47.6,4,3
+South Africa,ZAF,2014,5.48,48.1,4,4
+South Korea,KOR,2012,3.22,65.3,2,5
+South Korea,KOR,2014,3.24,60.3,2,5
+Spain,ESP,2012,5.65,79.2,5,4
+Spain,ESP,2014,6.39,78.8,5,4
+Sri Lanka,LKA,2012,7.63,74.2,4,3
+Sri Lanka,LKA,2014,8.42,73.5,4,3
+Sweden,SWE,2012,5.6,73.8,4,4
+Sweden,SWE,2014,6.5,68.8,4,4
+Switzerland,CHE,2012,4.59,63.6,2,4
+Switzerland,CHE,2014,5.08,61.9,2,4
+Thailand,THA,2012,2.94,68.7,4,4
+Thailand,THA,2014,3.41,70.2,4,4
+Tonga,TON,2012,7.63,64.3,4,4
+Tunisia,TUN,2012,2.82,84.5,4,4
+Tunisia,TUN,2014,3.26,78.1,4,4
+Turkey,TUR,2012,4.92,80.3,5,5
+Turkey,TUR,2014,5.63,82.2,5,5
+Uganda,UGA,2012,1.79,44.2,2,4
+Uganda,UGA,2014,2.03,40.2,2,4
+Ukraine,UKR,2012,1.76,59.7,4,3
+Ukraine,UKR,2014,2.22,62.4,4,3
+United Arab Emirates,ARE,2012,1.55,24.5,4,5
+United Arab Emirates,ARE,2014,1.82,21.1,5,5
+United Kingdom,GBR,2012,10.78,76.1,4,5
+United Kingdom,GBR,2014,11.2,81.3,4,5
+United States,USA,2012,6.07,42.9,2,5
+United States,USA,2014,6.07,42.9,2,5
+Uruguay,URY,2012,3.98,69,4,5
+Uruguay,URY,2014,3.71,65.6,5,5
+Uzbekistan,UZB,2012,1.64,32.7,4,3
+Uzbekistan,UZB,2014,2.31,31.1,4,4
+Venezuela,VEN,2012,5.95,71,2,4
+Vietnam,VNM,2012,2.49,41.6,4,3
+Vietnam,VNM,2014,2.07,41.6,4,3
+Yemen,YEM,2012,1.71,52.9,4,3
+Yemen,YEM,2014,1.94,53.7,5,3
+Zambia,ZMB,2012,1.68,25.8,2,3
+Zambia,ZMB,2014,1.81,21.3,2,3
+Zimbabwe,ZWE,2012,0.67,57.6,2,3
+Zimbabwe,ZWE,2014,1.07,59.8,2,3
+Liberia,LBR,2014,,17.2,2,3
+Afghanistan,AFG,2007,,,4,3
+Afghanistan,AFG,2010,,,4,3
+Afghanistan,AFG,2012,,,4,3
+Afghanistan,AFG,2014,,,4,3
+Albania,ALB,2007,,,5,2
+Albania,ALB,2010,,,5,3
+Albania,ALB,2012,,,5,4
+Albania,ALB,2014,,,5,4
+Algeria,DZA,2007,,,4,3
+Algeria,DZA,2010,,,4,3
+Andorra,AND,2007,,,2,4
+Andorra,AND,2010,,,2,4
+Andorra,AND,2012,,,2,4
+Andorra,AND,2014,,,2,4
+Angola,AGO,2007,,,2,3
+Angola,AGO,2010,,,2,3
+Angola,AGO,2012,,,2,3
+Angola,AGO,2014,,,2,3
+Antigua and Barbuda,ATG,2007,,,2,3
+Antigua and Barbuda,ATG,2010,,,2,3
+Antigua and Barbuda,ATG,2012,,,2,3
+Antigua and Barbuda,ATG,2014,,,2,3
+Argentina,ARG,2007,,,2,4
+Argentina,ARG,2010,,,2,4
+Armenia,ARM,2007,,,2,3
+Armenia,ARM,2010,,,2,3
+Australia,AUS,2007,,,4,5
+Australia,AUS,2010,,,4,5
+Austria,AUT,2007,,,4,4
+Austria,AUT,2010,,,4,4
+Azerbaijan,AZE,2007,,,4,2
+Azerbaijan,AZE,2010,,,4,3
+Bahamas,BHS,2007,,,2,3
+Bahamas,BHS,2010,,,2,3
+Bahamas,BHS,2012,,,2,4
+Bahrain,BHR,2007,,,2,5
+Bahrain,BHR,2010,,,4,5
+Bahrain,BHR,2012,,,5,4
+Bahrain,BHR,2014,,,5,4
+Bangladesh,BGD,2007,,,4,3
+Bangladesh,BGD,2010,,,4,3
+Barbados,BRB,2007,,,2,3
+Barbados,BRB,2010,,,2,3
+Barbados,BRB,2012,,,2,4
+Barbados,BRB,2014,,,2,4
+Belarus,BLR,2007,,,4,4
+Belarus,BLR,2010,,,4,4
+Belgium,BEL,2007,,,4,5
+Belgium,BEL,2010,,,4,4
+Belize,BLZ,2007,,,2,3
+Belize,BLZ,2010,,,2,3
+Belize,BLZ,2012,,,2,3
+Benin,BEN,2007,,,4,3
+Benin,BEN,2010,,,4,3
+Benin,BEN,2012,,,4,3
+Benin,BEN,2014,,,4,4
+Bhutan,BTN,2007,,,2,2
+Bhutan,BTN,2010,,,4,2
+Bhutan,BTN,2012,,,4,2
+Bhutan,BTN,2014,,,4,4
+Bolivia,BOL,2007,,,4,3
+Bolivia,BOL,2010,,,4,3
+Bosnia and Herzegovina,BIH,2007,,,4,3
+Bosnia and Herzegovina,BIH,2010,,,4,3
+Botswana,BWA,2007,,,4,3
+Botswana,BWA,2010,,,4,3
+Botswana,BWA,2012,,,4,3
+Botswana,BWA,2014,,,4,3
+Brazil,BRA,2007,,,4,5
+Brazil,BRA,2010,,,4,5
+Brunei,BRN,2007,,,4,4
+Brunei,BRN,2010,,,4,4
+Brunei,BRN,2012,,,4,4
+Brunei,BRN,2014,,,4,5
+Bulgaria,BGR,2007,,,4,4
+Bulgaria,BGR,2010,,,4,4
+Burkina Faso,BFA,2007,,,4,3
+Burkina Faso,BFA,2010,,,4,3
+Burkina Faso,BFA,2012,,,4,3
+Burkina Faso,BFA,2014,,,4,4
+Burundi,BDI,2007,,,2,2
+Burundi,BDI,2010,,,2,2
+Burundi,BDI,2012,,,2,2
+Cambodia,KHM,2007,,,2,3
+Cambodia,KHM,2010,,,2,3
+Cameroon,CMR,2007,,,4,3
+Cameroon,CMR,2010,,,4,3
+Canada,CAN,2007,,,2,3
+Canada,CAN,2010,,,4,5
+Cape Verde,CPV,2007,,,2,4
+Cape Verde,CPV,2010,,,2,4
+Cape Verde,CPV,2012,,,2,4
+Cape Verde,CPV,2014,,,2,4
+Central African Republic,CAF,2007,,,2,3
+Central African Republic,CAF,2010,,,2,3
+Central African Republic,CAF,2012,,,2,3
+Central African Republic,CAF,2014,,,2,3
+Chad,TCD,2007,,,3,2
+Chad,TCD,2010,,,5,2
+Chad,TCD,2012,,,5,3
+Chad,TCD,2014,,,5,3
+Chile,CHL,2007,,,4,3
+Chile,CHL,2010,,,4,3
+China,CHN,2007,,,4,3
+China,CHN,2010,,,4,3
+Colombia,COL,2007,,,2,3
+Colombia,COL,2010,,,5,3
+Comoros,COM,2007,,,2,2
+Comoros,COM,2010,,,4,2
+Comoros,COM,2012,,,2,2
+Congo,COG,2007,,,4,3
+Congo,COG,2010,,,4,4
+Congo,COG,2012,,,4,4
+Congo,COG,2014,,,4,4
+Cook Islands,COK,2007,,,4,4
+Cook Islands,COK,2010,,,4,4
+Cook Islands,COK,2012,,,4,4
+Cook Islands,COK,2014,,,4,4
+Costa Rica,CRI,2007,,,2,4
+Costa Rica,CRI,2010,,,2,4
+Costa Rica,CRI,2012,,,4,4
+Cote d'Ivoire,CIV,2007,,,2,3
+Cote d'Ivoire,CIV,2010,,,2,3
+Cote d'Ivoire,CIV,2012,,,2,3
+Cote d'Ivoire,CIV,2014,,,2,4
+Croatia,HRV,2007,,,4,3
+Croatia,HRV,2010,,,4,4
+Cuba,CUB,2007,,,2,4
+Cuba,CUB,2010,,,2,4
+Cuba,CUB,2012,,,2,4
+Cuba,CUB,2014,,,2,4
+Cyprus,CYP,2007,,,4,4
+Cyprus,CYP,2010,,,4,4
+Czechia,CZE,2007,,,4,3
+Czechia,CZE,2010,,,4,4
+Democratic Republic of Congo,COD,2007,,,3,3
+Democratic Republic of Congo,COD,2010,,,3,3
+Democratic Republic of Congo,COD,2012,,,3,3
+Democratic Republic of Congo,COD,2014,,,3,3
+Denmark,DNK,2007,,,4,4
+Denmark,DNK,2010,,,4,4
+Djibouti,DJI,2007,,,5,3
+Djibouti,DJI,2010,,,5,3
+Djibouti,DJI,2012,,,5,3
+Djibouti,DJI,2014,,,5,3
+Dominica,DMA,2007,,,2,3
+Dominica,DMA,2010,,,2,3
+Dominica,DMA,2012,,,2,3
+Dominica,DMA,2014,,,2,3
+Dominican Republic,DOM,2007,,,2,3
+Dominican Republic,DOM,2010,,,2,3
+Ecuador,ECU,2007,,,2,3
+Ecuador,ECU,2010,,,2,4
+Egypt,EGY,2007,,,4,4
+Egypt,EGY,2010,,,4,4
+El Salvador,SLV,2007,,,2,4
+El Salvador,SLV,2010,,,2,4
+El Salvador,SLV,2012,,,4,5
+El Salvador,SLV,2014,,,4,5
+Equatorial Guinea,GNQ,2007,,,2,2
+Equatorial Guinea,GNQ,2010,,,2,2
+Equatorial Guinea,GNQ,2012,,,2,2
+Equatorial Guinea,GNQ,2014,,,2,2
+Eritrea,ERI,2007,,,5,2
+Eritrea,ERI,2010,,,5,2
+Eritrea,ERI,2012,,,5,2
+Eritrea,ERI,2014,,,5,2
+Estonia,EST,2007,,,4,3
+Estonia,EST,2010,,,4,3
+Eswatini,SWZ,2007,,,2,4
+Eswatini,SWZ,2010,,,2,4
+Eswatini,SWZ,2012,,,2,4
+Eswatini,SWZ,2014,,,4,4
+Ethiopia,ETH,2007,,,2,2
+Ethiopia,ETH,2010,,,2,3
+Ethiopia,ETH,2012,,,4,4
+Fiji,FJI,2007,,,4,2
+Fiji,FJI,2010,,,4,2
+Finland,FIN,2007,,,4,4
+Finland,FIN,2010,,,4,4
+France,FRA,2007,,,4,4
+France,FRA,2010,,,4,4
+Gabon,GAB,2007,,,2,3
+Gabon,GAB,2010,,,2,3
+Gabon,GAB,2012,,,2,3
+Gabon,GAB,2014,,,4,3
+Gambia,GMB,2007,,,4,2
+Gambia,GMB,2010,,,4,2
+Gambia,GMB,2012,,,4,2
+Georgia,GEO,2007,,,2,3
+Georgia,GEO,2010,,,2,3
+Germany,DEU,2007,,,3,4
+Germany,DEU,2010,,,4,4
+Ghana,GHA,2007,,,2,3
+Ghana,GHA,2010,,,2,3
+Greece,GRC,2007,,,4,3
+Greece,GRC,2010,,,4,3
+Grenada,GRD,2007,,,2,3
+Grenada,GRD,2010,,,2,3
+Grenada,GRD,2012,,,2,3
+Grenada,GRD,2014,,,2,3
+Guatemala,GTM,2007,,,2,4
+Guatemala,GTM,2010,,,2,4
+Guinea,GIN,2007,,,4,3
+Guinea,GIN,2010,,,4,3
+Guinea,GIN,2012,,,5,3
+Guinea,GIN,2014,,,5,3
+Guinea-Bissau,GNB,2007,,,2,2
+Guinea-Bissau,GNB,2010,,,2,2
+Guinea-Bissau,GNB,2012,,,2,3
+Guinea-Bissau,GNB,2014,,,2,3
+Guyana,GUY,2007,,,2,3
+Guyana,GUY,2010,,,2,4
+Guyana,GUY,2012,,,2,4
+Guyana,GUY,2014,,,2,4
+Haiti,HTI,2007,,,2,3
+Haiti,HTI,2010,,,2,3
+Haiti,HTI,2012,,,2,3
+Haiti,HTI,2014,,,2,3
+Honduras,HND,2007,,,2,3
+Honduras,HND,2010,,,4,3
+Hungary,HUN,2007,,,4,3
+Hungary,HUN,2010,,,4,4
+Iceland,ISL,2007,,,4,3
+Iceland,ISL,2010,,,4,3
+India,IND,2007,,,4,3
+India,IND,2010,,,4,3
+Indonesia,IDN,2007,,,2,3
+Indonesia,IDN,2010,,,2,3
+Iran,IRN,2007,,,5,5
+Iran,IRN,2010,,,5,5
+Iraq,IRQ,2007,,,4,3
+Iraq,IRQ,2010,,,4,3
+Iraq,IRQ,2012,,,4,3
+Iraq,IRQ,2014,,,4,4
+Ireland,IRL,2007,,,4,5
+Ireland,IRL,2010,,,4,5
+Israel,ISR,2007,,,2,4
+Israel,ISR,2010,,,2,5
+Israel,ISR,2012,,,2,5
+Italy,ITA,2007,,,4,4
+Italy,ITA,2010,,,4,4
+Jamaica,JAM,2007,,,2,4
+Jamaica,JAM,2010,,,2,4
+Japan,JPN,2007,,,2,4
+Japan,JPN,2010,,,2,4
+Jordan,JOR,2007,,,4,4
+Jordan,JOR,2010,,,4,4
+Jordan,JOR,2012,,,4,4
+Jordan,JOR,2014,,,4,4
+Kazakhstan,KAZ,2007,,,4,4
+Kazakhstan,KAZ,2010,,,4,4
+Kenya,KEN,2007,,,5,3
+Kenya,KEN,2010,,,5,3
+Kiribati,KIR,2007,,,2,3
+Kiribati,KIR,2010,,,2,3
+Kiribati,KIR,2012,,,2,2
+Kiribati,KIR,2014,,,5,3
+Kuwait,KWT,2007,,,4,4
+Kuwait,KWT,2010,,,4,4
+Kuwait,KWT,2012,,,4,5
+Kuwait,KWT,2014,,,4,5
+Kyrgyzstan,KGZ,2007,,,2,3
+Kyrgyzstan,KGZ,2010,,,4,3
+Kyrgyzstan,KGZ,2012,,,4,4
+Kyrgyzstan,KGZ,2014,,,4,4
+Laos,LAO,2007,,,4,3
+Laos,LAO,2010,,,4,3
+Laos,LAO,2012,,,4,3
+Laos,LAO,2014,,,4,2
+Latvia,LVA,2007,,,4,3
+Latvia,LVA,2010,,,4,4
+Lebanon,LBN,2007,,,2,4
+Lebanon,LBN,2010,,,2,4
+Lesotho,LSO,2007,,,2,3
+Lesotho,LSO,2010,,,2,4
+Lesotho,LSO,2012,,,2,4
+Lesotho,LSO,2014,,,2,4
+Liberia,LBR,2007,,,2,3
+Liberia,LBR,2010,,,2,3
+Liberia,LBR,2012,,,2,3
+Libya,LBY,2007,,,4,2
+Libya,LBY,2010,,,5,3
+Libya,LBY,2012,,,5,4
+Libya,LBY,2014,,,5,4
+Lithuania,LTU,2007,,,4,4
+Lithuania,LTU,2010,,,4,4
+Luxembourg,LUX,2007,,,4,2
+Luxembourg,LUX,2010,,,4,4
+Madagascar,MDG,2007,,,5,3
+Madagascar,MDG,2010,,,5,3
+Madagascar,MDG,2012,,,5,3
+Madagascar,MDG,2014,,,5,3
+Malawi,MWI,2007,,,2,2
+Malawi,MWI,2010,,,2,2
+Malawi,MWI,2012,,,2,2
+Malawi,MWI,2014,,,2,2
+Malaysia,MYS,2007,,,4,4
+Malaysia,MYS,2010,,,4,4
+Maldives,MDV,2007,,,4,3
+Maldives,MDV,2010,,,5,3
+Maldives,MDV,2012,,,5,3
+Maldives,MDV,2014,,,5,2
+Mali,MLI,2007,,,2,3
+Mali,MLI,2010,,,5,3
+Mali,MLI,2012,,,4,3
+Malta,MLT,2007,,,4,4
+Malta,MLT,2010,,,4,4
+Malta,MLT,2012,,,4,4
+Malta,MLT,2014,,,4,5
+Marshall Islands,MHL,2007,,,2,4
+Marshall Islands,MHL,2010,,,2,4
+Marshall Islands,MHL,2012,,,2,4
+Marshall Islands,MHL,2014,,,2,4
+Mauritania,MRT,2007,,,2,2
+Mauritania,MRT,2010,,,2,2
+Mauritania,MRT,2012,,,2,2
+Mauritania,MRT,2014,,,2,2
+Mauritius,MUS,2007,,,4,4
+Mauritius,MUS,2010,,,5,4
+Mauritius,MUS,2012,,,5,4
+Mauritius,MUS,2014,,,5,4
+Mexico,MEX,2007,,,2,4
+Mexico,MEX,2010,,,2,4
+Micronesia (country),FSM,2007,,,2,3
+Micronesia (country),FSM,2010,,,2,3
+Micronesia (country),FSM,2012,,,2,3
+Micronesia (country),FSM,2014,,,2,4
+Moldova,MDA,2007,,,4,3
+Moldova,MDA,2010,,,4,3
+Monaco,MCO,2007,,,2,3
+Monaco,MCO,2010,,,2,4
+Monaco,MCO,2012,,,2,4
+Monaco,MCO,2014,,,2,4
+Mongolia,MNG,2007,,,4,4
+Mongolia,MNG,2010,,,4,4
+Montenegro,MNE,2007,,,4,2
+Montenegro,MNE,2010,,,4,2
+Montenegro,MNE,2012,,,4,4
+Montenegro,MNE,2014,,,4,4
+Morocco,MAR,2007,,,4,3
+Morocco,MAR,2010,,,4,3
+Mozambique,MOZ,2007,,,4,3
+Mozambique,MOZ,2010,,,4,3
+Mozambique,MOZ,2012,,,4,3
+Mozambique,MOZ,2014,,,4,3
+Myanmar,MMR,2007,,,4,3
+Myanmar,MMR,2010,,,4,3
+Myanmar,MMR,2012,,,4,3
+Myanmar,MMR,2014,,,4,4
+Namibia,NAM,2007,,,2,3
+Namibia,NAM,2010,,,4,3
+Namibia,NAM,2012,,,4,4
+Namibia,NAM,2014,,,4,4
+Nauru,NRU,2007,,,2,3
+Nauru,NRU,2010,,,4,3
+Nauru,NRU,2012,,,4,3
+Nauru,NRU,2014,,,4,3
+Nepal,NPL,2007,,,2,2
+Nepal,NPL,2010,,,4,4
+Netherlands,NLD,2007,,,4,3
+Netherlands,NLD,2010,,,4,4
+New Zealand,NZL,2007,,,4,5
+New Zealand,NZL,2010,,,4,5
+Nicaragua,NIC,2007,,,2,3
+Nicaragua,NIC,2010,,,2,3
+Nicaragua,NIC,2014,,,2,3
+Niger,NER,2007,,,5,3
+Niger,NER,2010,,,5,3
+Niger,NER,2012,,,5,3
+Niger,NER,2014,,,5,3
+Nigeria,NGA,2007,,,2,4
+Nigeria,NGA,2010,,,2,4
+Nigeria,NGA,2014,,,2,4
+Niue,NIU,2007,,,2,4
+Niue,NIU,2010,,,2,4
+Niue,NIU,2012,,,2,4
+Niue,NIU,2014,,,2,4
+North Korea,PRK,2007,,,2,4
+North Korea,PRK,2010,,,2,4
+North Korea,PRK,2012,,,2,4
+North Korea,PRK,2014,,,2,4
+North Macedonia,MKD,2007,,,4,3
+North Macedonia,MKD,2010,,,4,3
+Norway,NOR,2007,,,4,4
+Norway,NOR,2010,,,4,4
+Oman,OMN,2007,,,2,3
+Oman,OMN,2010,,,2,3
+Pakistan,PAK,2007,,,2,3
+Pakistan,PAK,2010,,,2,3
+Palau,PLW,2007,,,2,4
+Palau,PLW,2010,,,2,4
+Palau,PLW,2012,,,4,4
+Palau,PLW,2014,,,4,4
+Panama,PAN,2007,,,2,4
+Panama,PAN,2010,,,5,5
+Papua New Guinea,PNG,2007,,,4,2
+Papua New Guinea,PNG,2010,,,4,2
+Papua New Guinea,PNG,2012,,,4,2
+Papua New Guinea,PNG,2014,,,4,2
+Paraguay,PRY,2007,,,2,4
+Paraguay,PRY,2010,,,2,4
+Paraguay,PRY,2012,,,2,4
+Paraguay,PRY,2014,,,2,4
+Peru,PER,2007,,,2,3
+Peru,PER,2010,,,2,3
+Philippines,PHL,2007,,,2,4
+Philippines,PHL,2010,,,4,4
+Poland,POL,2007,,,4,4
+Poland,POL,2010,,,4,4
+Portugal,PRT,2007,,,4,4
+Portugal,PRT,2010,,,4,4
+Qatar,QAT,2007,,,4,4
+Qatar,QAT,2010,,,4,4
+Qatar,QAT,2012,,,4,4
+Qatar,QAT,2014,,,4,4
+Romania,ROU,2007,,,4,4
+Romania,ROU,2010,,,4,5
+Russia,RUS,2007,,,2,3
+Russia,RUS,2010,,,2,3
+Rwanda,RWA,2007,,,2,2
+Rwanda,RWA,2010,,,2,2
+Rwanda,RWA,2012,,,2,2
+Saint Kitts and Nevis,KNA,2007,,,2,3
+Saint Kitts and Nevis,KNA,2010,,,2,3
+Saint Kitts and Nevis,KNA,2014,,,2,3
+Saint Lucia,LCA,2007,,,2,3
+Saint Lucia,LCA,2010,,,2,3
+Saint Lucia,LCA,2012,,,2,3
+Saint Lucia,LCA,2014,,,2,3
+Saint Vincent and the Grenadines,VCT,2007,,,2,3
+Saint Vincent and the Grenadines,VCT,2010,,,2,3
+Saint Vincent and the Grenadines,VCT,2012,,,2,3
+Saint Vincent and the Grenadines,VCT,2014,,,2,3
+Samoa,WSM,2007,,,2,3
+Samoa,WSM,2010,,,4,3
+Samoa,WSM,2014,,,4,3
+San Marino,SMR,2007,,,2,3
+San Marino,SMR,2010,,,4,3
+San Marino,SMR,2012,,,4,3
+San Marino,SMR,2014,,,4,4
+Sao Tome and Principe,STP,2007,,,2,2
+Sao Tome and Principe,STP,2010,,,2,2
+Sao Tome and Principe,STP,2012,,,2,2
+Sao Tome and Principe,STP,2014,,,2,4
+Saudi Arabia,SAU,2007,,,2,4
+Saudi Arabia,SAU,2010,,,2,4
+Saudi Arabia,SAU,2014,,,2,4
+Senegal,SEN,2007,,,2,3
+Senegal,SEN,2010,,,2,3
+Serbia,SRB,2007,,,4,3
+Serbia,SRB,2010,,,4,4
+Seychelles,SYC,2007,,,2,3
+Seychelles,SYC,2010,,,4,3
+Seychelles,SYC,2012,,,4,3
+Seychelles,SYC,2014,,,4,4
+Sierra Leone,SLE,2007,,,2,2
+Sierra Leone,SLE,2010,,,2,2
+Sierra Leone,SLE,2012,,,2,2
+Singapore,SGP,2007,,,4,5
+Singapore,SGP,2010,,,4,5
+Slovakia,SVK,2007,,,4,3
+Slovakia,SVK,2010,,,4,4
+Slovenia,SVN,2007,,,4,4
+Slovenia,SVN,2010,,,4,4
+Solomon Islands,SLB,2007,,,2,3
+Solomon Islands,SLB,2010,,,4,3
+Solomon Islands,SLB,2012,,,4,3
+Solomon Islands,SLB,2014,,,4,4
+Somalia,SOM,2007,,,2,2
+Somalia,SOM,2010,,,2,2
+Somalia,SOM,2012,,,2,2
+Somalia,SOM,2014,,,2,2
+South Africa,ZAF,2007,,,4,3
+South Africa,ZAF,2010,,,4,3
+South Korea,KOR,2007,,,2,5
+South Korea,KOR,2010,,,2,5
+South Sudan,SSD,2012,,,2,1
+South Sudan,SSD,2014,,,2,1
+Spain,ESP,2007,,,4,4
+Spain,ESP,2010,,,5,4
+Sri Lanka,LKA,2007,,,4,3
+Sri Lanka,LKA,2010,,,4,3
+Sudan,SDN,2007,,,4,2
+Sudan,SDN,2010,,,4,2
+Sudan,SDN,2012,,,4,2
+Sudan,SDN,2014,,,4,2
+Suriname,SUR,2007,,,2,3
+Suriname,SUR,2010,,,2,3
+Suriname,SUR,2012,,,2,3
+Suriname,SUR,2014,,,5,4
+Sweden,SWE,2007,,,4,4
+Sweden,SWE,2010,,,4,4
+Switzerland,CHE,2007,,,2,4
+Switzerland,CHE,2010,,,2,4
+Syria,SYR,2007,,,4,4
+Syria,SYR,2010,,,4,4
+Syria,SYR,2012,,,4,4
+Syria,SYR,2014,,,4,4
+Tajikistan,TJK,2007,,,4,3
+Tajikistan,TJK,2010,,,4,3
+Tajikistan,TJK,2012,,,4,3
+Tajikistan,TJK,2014,,,4,3
+Tanzania,TZA,2007,,,4,4
+Tanzania,TZA,2010,,,4,4
+Tanzania,TZA,2012,,,4,4
+Tanzania,TZA,2014,,,4,4
+Thailand,THA,2007,,,4,4
+Thailand,THA,2010,,,4,4
+Timor,TLS,2007,,,2,2
+Timor,TLS,2010,,,2,2
+Timor,TLS,2012,,,2,2
+Timor,TLS,2014,,,2,2
+Togo,TGO,2007,,,2,3
+Togo,TGO,2010,,,2,3
+Togo,TGO,2012,,,5,3
+Togo,TGO,2014,,,5,2
+Tonga,TON,2007,,,4,2
+Tonga,TON,2010,,,4,3
+Tonga,TON,2014,,,4,4
+Trinidad and Tobago,TTO,2007,,,2,3
+Trinidad and Tobago,TTO,2010,,,2,3
+Trinidad and Tobago,TTO,2012,,,2,4
+Trinidad and Tobago,TTO,2014,,,2,4
+Tunisia,TUN,2007,,,4,3
+Tunisia,TUN,2010,,,4,3
+Turkey,TUR,2007,,,2,3
+Turkey,TUR,2010,,,4,5
+Turkmenistan,TKM,2007,,,2,4
+Turkmenistan,TKM,2010,,,2,4
+Turkmenistan,TKM,2012,,,2,4
+Turkmenistan,TKM,2014,,,4,4
+Tuvalu,TUV,2007,,,2,4
+Tuvalu,TUV,2010,,,5,4
+Tuvalu,TUV,2012,,,5,4
+Tuvalu,TUV,2014,,,5,4
+Uganda,UGA,2007,,,2,4
+Uganda,UGA,2010,,,2,4
+Ukraine,UKR,2007,,,2,3
+Ukraine,UKR,2010,,,4,3
+United Arab Emirates,ARE,2007,,,4,3
+United Arab Emirates,ARE,2010,,,4,5
+United Kingdom,GBR,2007,,,4,5
+United Kingdom,GBR,2010,,,4,5
+United States,USA,2007,,,2,3
+United States,USA,2010,,,2,5
+Uruguay,URY,2007,,,2,5
+Uruguay,URY,2010,,,4,5
+Uzbekistan,UZB,2007,,,2,3
+Uzbekistan,UZB,2010,,,2,3
+Vanuatu,VUT,2007,,,2,2
+Vanuatu,VUT,2010,,,5,3
+Vanuatu,VUT,2012,,,5,3
+Vanuatu,VUT,2014,,,5,3
+Venezuela,VEN,2007,,,2,4
+Venezuela,VEN,2010,,,2,4
+Venezuela,VEN,2014,,,2,4
+Vietnam,VNM,2007,,,4,3
+Vietnam,VNM,2010,,,4,3
+Yemen,YEM,2007,,,4,3
+Yemen,YEM,2010,,,4,3
+Zambia,ZMB,2007,,,2,3
+Zambia,ZMB,2010,,,2,3
+Zimbabwe,ZWE,2007,,,2,3
+Zimbabwe,ZWE,2010,,,2,3
