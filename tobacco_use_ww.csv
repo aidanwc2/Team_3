@@ -1,0 +1,4024 @@
+﻿ParentLocationCode,ParentLocation,SpatialDimValueCode,Location,Year,Gender,Value
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2018,Female,0
+EUR,Europe,AZE,Azerbaijan,2018,Female,0.2
+AFR,Africa,ERI,Eritrea,2018,Female,0.3
+EMR,Eastern Mediterranean,EGY,Egypt,2018,Female,0.4
+AFR,Africa,GHA,Ghana,2018,Female,0.4
+AFR,Africa,NGA,Nigeria,2018,Female,0.5
+EMR,Eastern Mediterranean,OMN,Oman,2018,Female,0.7
+AFR,Africa,SEN,Senegal,2018,Female,0.7
+AFR,Africa,NER,Niger,2018,Female,0.8
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2018,Female,0.8
+AFR,Africa,ETH,Ethiopia,2018,Female,0.9
+EMR,Eastern Mediterranean,MAR,Morocco,2018,Female,0.9
+WPR,Western Pacific,MYS,Malaysia,2018,Female,1
+AFR,Africa,CMR,Cameroon,2018,Female,1.2
+EMR,Eastern Mediterranean,QAT,Qatar,2018,Female,1.3
+EUR,Europe,UZB,Uzbekistan,2018,Female,1.3
+AFR,Africa,ZWE,Zimbabwe,2018,Female,1.3
+AFR,Africa,DZA,Algeria,2018,Female,1.4
+AFR,Africa,STP,Sao Tome and Principe,2018,Female,1.4
+AFR,Africa,GMB,Gambia,2018,Female,1.5
+EUR,Europe,ARM,Armenia,2018,Female,1.6
+AFR,Africa,CIV,Côte d’Ivoire,2018,Female,1.6
+AFR,Africa,TGO,Togo,2018,Female,1.6
+AFR,Africa,MLI,Mali,2018,Female,1.7
+WPR,Western Pacific,CHN,China,2018,Female,1.8
+AFR,Africa,LBR,Liberia,2018,Female,1.8
+AFR,Africa,BEN,Benin,2018,Female,1.9
+AFR,Africa,BWA,Botswana,2018,Female,10.1
+EUR,Europe,BLR,Belarus,2018,Female,10.4
+WPR,Western Pacific,JPN,Japan,2018,Female,10.5
+AFR,Africa,SWZ,Eswatini,2018,Both sexes,10.7
+SEAR,South-East Asia,TLS,Timor-Leste,2018,Female,10.7
+AMR,Americas,BHS,Bahamas,2018,Both sexes,10.9
+AMR,Americas,JAM,Jamaica,2018,Both sexes,11
+AFR,Africa,MDG,Madagascar,2018,Female,11
+WPR,Western Pacific,FJI,Fiji,2018,Female,11.1
+AMR,Americas,PAN,Panama,2018,Male,11.1
+AMR,Americas,DOM,Dominican Republic,2018,Male,11.2
+WPR,Western Pacific,PLW,Palau,2018,Female,11.2
+AMR,Americas,BRA,Brazil,2018,Female,11.5
+AFR,Africa,TCD,Chad,2018,Both sexes,11.8
+AFR,Africa,KEN,Kenya,2018,Both sexes,11.8
+AFR,Africa,MLI,Mali,2018,Both sexes,12
+SEAR,South-East Asia,IND,India,2018,Female,12.1
+WPR,Western Pacific,TON,Tonga,2018,Female,12.1
+AMR,Americas,COL,Colombia,2018,Male,12.2
+AMR,Americas,GUY,Guyana,2018,Both sexes,12.2
+EUR,Europe,UZB,Uzbekistan,2018,Both sexes,12.3
+AFR,Africa,BEN,Benin,2018,Male,12.4
+AMR,Americas,CAN,Canada,2018,Female,12.4
+AFR,Africa,BDI,Burundi,2018,Both sexes,12.6
+AMR,Americas,SLV,El Salvador,2018,Both sexes,12.7
+AFR,Africa,MWI,Malawi,2018,Both sexes,12.8
+AMR,Americas,PRY,Paraguay,2018,Both sexes,12.8
+AFR,Africa,CIV,Côte d’Ivoire,2018,Both sexes,13
+AMR,Americas,HTI,Haiti,2018,Male,13.3
+AFR,Africa,RWA,Rwanda,2018,Both sexes,13.3
+AFR,Africa,TZA,United Republic of Tanzania,2018,Both sexes,13.3
+WPR,Western Pacific,NZL,New Zealand,2018,Female,13.5
+AFR,Africa,TGO,Togo,2018,Male,13.5
+WPR,Western Pacific,AUS,Australia,2018,Female,13.6
+EUR,Europe,ISL,Iceland,2018,Female,13.7
+EUR,Europe,ISL,Iceland,2018,Both sexes,13.8
+EUR,Europe,ISL,Iceland,2018,Male,13.9
+AMR,Americas,MEX,Mexico,2018,Both sexes,13.9
+AFR,Africa,ZWE,Zimbabwe,2018,Both sexes,13.9
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2018,Both sexes,14
+EMR,Eastern Mediterranean,QAT,Qatar,2018,Both sexes,14
+AFR,Africa,ERI,Eritrea,2018,Male,14.2
+AFR,Africa,GMB,Gambia,2018,Both sexes,14.4
+AFR,Africa,MOZ,Mozambique,2018,Both sexes,14.4
+AMR,Americas,CUB,Cuba,2018,Female,14.5
+AMR,Americas,CRI,Costa Rica,2018,Male,14.7
+EMR,Eastern Mediterranean,MAR,Morocco,2018,Both sexes,14.7
+AFR,Africa,ZMB,Zambia,2018,Both sexes,14.7
+WPR,Western Pacific,NZL,New Zealand,2018,Both sexes,14.8
+AMR,Americas,BRB,Barbados,2018,Male,15
+AFR,Africa,LBR,Liberia,2018,Male,15.1
+SEAR,South-East Asia,NPL,Nepal,2018,Female,15.3
+AMR,Americas,ARG,Argentina,2018,Female,15.4
+WPR,Western Pacific,BRN,Brunei Darussalam,2018,Both sexes,15.5
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2018,Female,15.5
+AFR,Africa,UGA,Uganda,2018,Male,15.5
+AMR,Americas,PER,Peru,2018,Male,15.6
+EUR,Europe,RUS,Russian Federation,2018,Female,15.7
+EUR,Europe,ISR,Israel,2018,Female,15.8
+EUR,Europe,ROU,Romania,2018,Female,15.8
+AFR,Africa,BFA,Burkina Faso,2018,Both sexes,16
+AFR,Africa,ZAF,South Africa,2018,Female,16
+AFR,Africa,COG,Congo,2018,Both sexes,16.1
+WPR,Western Pacific,NZL,New Zealand,2018,Male,16.1
+WPR,Western Pacific,AUS,Australia,2018,Both sexes,16.2
+AFR,Africa,NER,Niger,2018,Male,16.3
+AMR,Americas,BRA,Brazil,2018,Both sexes,16.5
+WPR,Western Pacific,SGP,Singapore,2018,Both sexes,16.5
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2018,Both sexes,16.6
+WPR,Western Pacific,WSM,Samoa,2018,Female,16.9
+EUR,Europe,TUR,Turkey,2018,Female,17
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,Female,17.3
+AFR,Africa,SEN,Senegal,2018,Male,17.4
+AFR,Africa,CMR,Cameroon,2018,Male,17.5
+AMR,Americas,CAN,Canada,2018,Both sexes,17.5
+SEAR,South-East Asia,BGD,Bangladesh,2018,Female,17.7
+AMR,Americas,JAM,Jamaica,2018,Male,17.7
+EUR,Europe,NOR,Norway,2018,Female,17.7
+AFR,Africa,NAM,Namibia,2018,Both sexes,17.9
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2018,Both sexes,18.2
+EUR,Europe,FIN,Finland,2018,Female,18.3
+EUR,Europe,DNK,Denmark,2018,Male,18.4
+EUR,Europe,NOR,Norway,2018,Both sexes,18.4
+AMR,Americas,URY,Uruguay,2018,Female,18.4
+EMR,Eastern Mediterranean,OMN,Oman,2018,Male,18.5
+AMR,Americas,BHS,Bahamas,2018,Male,18.6
+EUR,Europe,DNK,Denmark,2018,Both sexes,18.6
+WPR,Western Pacific,AUS,Australia,2018,Male,18.7
+EUR,Europe,DNK,Denmark,2018,Female,18.7
+AFR,Africa,DZA,Algeria,2018,Both sexes,18.8
+AFR,Africa,BDI,Burundi,2018,Male,18.8
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2018,Both sexes,18.8
+EUR,Europe,LTU,Lithuania,2018,Female,19
+AFR,Africa,SWZ,Eswatini,2018,Male,19.1
+EUR,Europe,NOR,Norway,2018,Male,19.1
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,Both sexes,19.2
+AMR,Americas,USA,United States of America,2018,Female,19.3
+AFR,Africa,COM,Comoros,2018,Both sexes,19.5
+EUR,Europe,AZE,Azerbaijan,2018,Both sexes,19.6
+EUR,Europe,ITA,Italy,2018,Female,19.6
+EUR,Europe,FIN,Finland,2018,Both sexes,19.7
+AFR,Africa,RWA,Rwanda,2018,Male,19.7
+EUR,Europe,LUX,Luxembourg,2018,Female,19.8
+AFR,Africa,SLE,Sierra Leone,2018,Both sexes,19.8
+WPR,Western Pacific,SLB,Solomon Islands,2018,Female,19.9
+AFR,Africa,COG,Congo,2018,Female,2
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2018,Female,2
+AFR,Africa,SWZ,Eswatini,2018,Female,2.2
+AMR,Americas,GUY,Guyana,2018,Female,2.2
+AMR,Americas,BRB,Barbados,2018,Female,2.3
+AFR,Africa,TCD,Chad,2018,Female,2.3
+WPR,Western Pacific,BRN,Brunei Darussalam,2018,Female,2.5
+AMR,Americas,SLV,El Salvador,2018,Female,2.5
+AMR,Americas,PAN,Panama,2018,Female,2.7
+SEAR,South-East Asia,LKA,Sri Lanka,2018,Female,2.7
+AFR,Africa,KEN,Kenya,2018,Female,2.8
+EMR,Eastern Mediterranean,TUN,Tunisia,2018,Female,2.9
+EMR,Eastern Mediterranean,PAK,Pakistan,2018,Both sexes,20
+EUR,Europe,SVN,Slovenia,2018,Female,20.3
+AFR,Africa,MWI,Malawi,2018,Male,20.4
+AFR,Africa,KEN,Kenya,2018,Male,20.8
+SEAR,South-East Asia,MMR,Myanmar,2018,Female,20.8
+AMR,Americas,PRY,Paraguay,2018,Male,20.8
+EMR,Eastern Mediterranean,YEM,Yemen,2018,Both sexes,20.9
+EUR,Europe,FIN,Finland,2018,Male,21
+AFR,Africa,SYC,Seychelles,2018,Both sexes,21.1
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,Male,21.1
+EUR,Europe,IRL,Ireland,2018,Female,21.2
+AMR,Americas,MEX,Mexico,2018,Male,21.2
+AFR,Africa,TCD,Chad,2018,Male,21.3
+EUR,Europe,NLD,Netherlands,2018,Female,21.3
+EMR,Eastern Mediterranean,EGY,Egypt,2018,Both sexes,21.4
+AMR,Americas,BRA,Brazil,2018,Male,21.5
+EUR,Europe,POL,Poland,2018,Female,21.6
+EUR,Europe,LUX,Luxembourg,2018,Both sexes,21.7
+AMR,Americas,ARG,Argentina,2018,Both sexes,21.8
+WPR,Western Pacific,KHM,Cambodia,2018,Both sexes,21.8
+WPR,Western Pacific,COK,Cook Islands,2018,Female,21.8
+WPR,Western Pacific,MYS,Malaysia,2018,Both sexes,21.8
+AMR,Americas,URY,Uruguay,2018,Both sexes,21.8
+WPR,Western Pacific,JPN,Japan,2018,Both sexes,21.9
+WPR,Western Pacific,KOR,Republic of Korea,2018,Both sexes,22
+AMR,Americas,GUY,Guyana,2018,Male,22.1
+EMR,Eastern Mediterranean,KWT,Kuwait,2018,Both sexes,22.1
+EMR,Eastern Mediterranean,IRQ,Iraq,2018,Both sexes,22.2
+AFR,Africa,MLI,Mali,2018,Male,22.4
+EUR,Europe,PRT,Portugal,2018,Female,22.4
+EUR,Europe,MLT,Malta,2018,Female,22.5
+EUR,Europe,CHE,Switzerland,2018,Female,22.5
+AMR,Americas,CAN,Canada,2018,Male,22.7
+EUR,Europe,SVN,Slovenia,2018,Both sexes,22.7
+AMR,Americas,SLV,El Salvador,2018,Male,22.8
+SEAR,South-East Asia,THA,Thailand,2018,Both sexes,22.8
+SEAR,South-East Asia,LKA,Sri Lanka,2018,Both sexes,22.9
+EUR,Europe,BEL,Belgium,2018,Female,23.1
+EUR,Europe,CYP,Cyprus,2018,Female,23.3
+EUR,Europe,UZB,Uzbekistan,2018,Male,23.3
+EUR,Europe,ITA,Italy,2018,Both sexes,23.4
+AFR,Africa,MOZ,Mozambique,2018,Male,23.4
+EUR,Europe,NLD,Netherlands,2018,Both sexes,23.4
+AFR,Africa,TZA,United Republic of Tanzania,2018,Male,23.5
+EUR,Europe,IRL,Ireland,2018,Both sexes,23.6
+EUR,Europe,LUX,Luxembourg,2018,Male,23.6
+AFR,Africa,BWA,Botswana,2018,Both sexes,23.7
+WPR,Western Pacific,PLW,Palau,2018,Both sexes,23.7
+EUR,Europe,LVA,Latvia,2018,Female,24
+EUR,Europe,EST,Estonia,2018,Female,24.1
+WPR,Western Pacific,VUT,Vanuatu,2018,Both sexes,24.1
+AFR,Africa,CIV,Côte d’Ivoire,2018,Male,24.3
+WPR,Western Pacific,PHL,Philippines,2018,Both sexes,24.3
+EUR,Europe,KAZ,Kazakhstan,2018,Both sexes,24.4
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2018,Male,24.6
+WPR,Western Pacific,CHN,China,2018,Both sexes,24.7
+AFR,Africa,BFA,Burkina Faso,2018,Male,24.9
+EUR,Europe,BEL,Belgium,2018,Both sexes,25
+AFR,Africa,ZMB,Zambia,2018,Male,25
+EMR,Eastern Mediterranean,BHR,Bahrain,2018,Both sexes,25.1
+EUR,Europe,MLT,Malta,2018,Both sexes,25.1
+EUR,Europe,SVN,Slovenia,2018,Male,25.1
+EUR,Europe,CHE,Switzerland,2018,Both sexes,25.1
+AMR,Americas,USA,United States of America,2018,Both sexes,25.1
+AMR,Americas,URY,Uruguay,2018,Male,25.2
+EUR,Europe,MDA,Republic of Moldova,2018,Both sexes,25.3
+EUR,Europe,ISR,Israel,2018,Both sexes,25.5
+EUR,Europe,ROU,Romania,2018,Both sexes,25.5
+EUR,Europe,UKR,Ukraine,2018,Both sexes,25.5
+EUR,Europe,NLD,Netherlands,2018,Male,25.6
+EUR,Europe,DEU,Germany,2018,Female,26
+EUR,Europe,POL,Poland,2018,Both sexes,26
+EUR,Europe,SVK,Slovakia,2018,Female,26
+EMR,Eastern Mediterranean,TUN,Tunisia,2018,Both sexes,26
+EUR,Europe,IRL,Ireland,2018,Male,26.1
+EUR,Europe,HUN,Hungary,2018,Female,26.4
+AFR,Africa,ZWE,Zimbabwe,2018,Male,26.5
+EUR,Europe,BLR,Belarus,2018,Both sexes,26.6
+WPR,Western Pacific,COK,Cook Islands,2018,Both sexes,26.6
+EUR,Europe,ARM,Armenia,2018,Both sexes,26.7
+WPR,Western Pacific,FJI,Fiji,2018,Both sexes,26.7
+EMR,Eastern Mediterranean,QAT,Qatar,2018,Male,26.7
+EUR,Europe,ESP,Spain,2018,Female,26.7
+EUR,Europe,BEL,Belgium,2018,Male,26.9
+AFR,Africa,MUS,Mauritius,2018,Both sexes,26.9
+SEAR,South-East Asia,IND,India,2018,Both sexes,27
+AMR,Americas,CUB,Cuba,2018,Both sexes,27.1
+EUR,Europe,ITA,Italy,2018,Male,27.1
+EUR,Europe,LTU,Lithuania,2018,Both sexes,27.1
+EUR,Europe,CZE,Czechia,2018,Female,27.3
+AFR,Africa,GMB,Gambia,2018,Male,27.3
+WPR,Western Pacific,MNG,Mongolia,2018,Both sexes,27.6
+EUR,Europe,AUT,Austria,2018,Female,27.7
+EUR,Europe,MLT,Malta,2018,Male,27.8
+WPR,Western Pacific,SGP,Singapore,2018,Male,27.8
+EUR,Europe,CHE,Switzerland,2018,Male,27.8
+EUR,Europe,KGZ,Kyrgyzstan,2018,Both sexes,27.9
+EUR,Europe,PRT,Portugal,2018,Both sexes,27.9
+EUR,Europe,ESP,Spain,2018,Both sexes,27.9
+EUR,Europe,DEU,Germany,2018,Both sexes,28
+AMR,Americas,ARG,Argentina,2018,Male,28.2
+EUR,Europe,SWE,Sweden,2018,Male,28.2
+EUR,Europe,RUS,Russian Federation,2018,Both sexes,28.3
+AFR,Africa,NAM,Namibia,2018,Male,28.4
+WPR,Western Pacific,BRN,Brunei Darussalam,2018,Male,28.6
+EMR,Eastern Mediterranean,MAR,Morocco,2018,Male,28.6
+EUR,Europe,SWE,Sweden,2018,Both sexes,28.8
+AFR,Africa,MDG,Madagascar,2018,Both sexes,28.9
+WPR,Western Pacific,WSM,Samoa,2018,Both sexes,28.9
+EUR,Europe,AUT,Austria,2018,Both sexes,29.1
+EUR,Europe,ESP,Spain,2018,Male,29.1
+EUR,Europe,ALB,Albania,2018,Both sexes,29.2
+EUR,Europe,SWE,Sweden,2018,Female,29.3
+EUR,Europe,TUR,Turkey,2018,Both sexes,29.3
+EUR,Europe,AND,Andorra,2018,Female,29.5
+EUR,Europe,GEO,Georgia,2018,Both sexes,29.7
+AFR,Africa,LSO,Lesotho,2018,Both sexes,29.7
+AFR,Africa,COM,Comoros,2018,Male,29.9
+EUR,Europe,DEU,Germany,2018,Male,29.9
+SEAR,South-East Asia,THA,Thailand,2018,Female,3.1
+AFR,Africa,TZA,United Republic of Tanzania,2018,Female,3.1
+AMR,Americas,BHS,Bahamas,2018,Female,3.2
+AMR,Americas,HTI,Haiti,2018,Female,3.3
+WPR,Western Pacific,VUT,Vanuatu,2018,Female,3.3
+EMR,Eastern Mediterranean,KWT,Kuwait,2018,Female,3.4
+EUR,Europe,KGZ,Kyrgyzstan,2018,Female,3.4
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2018,Female,3.5
+EMR,Eastern Mediterranean,IRQ,Iraq,2018,Female,3.6
+AMR,Americas,PER,Peru,2018,Female,3.6
+AMR,Americas,COL,Colombia,2018,Female,3.7
+AFR,Africa,GHA,Ghana,2018,Both sexes,3.7
+AFR,Africa,COG,Congo,2018,Male,30.1
+EUR,Europe,BIH,Bosnia and Herzegovina,2018,Female,30.2
+WPR,Western Pacific,TON,Tonga,2018,Both sexes,30.2
+EUR,Europe,POL,Poland,2018,Male,30.3
+EUR,Europe,AUT,Austria,2018,Male,30.4
+EUR,Europe,EST,Estonia,2018,Both sexes,30.5
+EUR,Europe,HUN,Hungary,2018,Both sexes,30.6
+AMR,Americas,USA,United States of America,2018,Male,30.9
+AFR,Africa,SLE,Sierra Leone,2018,Male,31
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2018,Male,31.2
+WPR,Western Pacific,COK,Cook Islands,2018,Male,31.3
+AFR,Africa,ZAF,South Africa,2018,Both sexes,31.4
+WPR,Western Pacific,TUV,Tuvalu,2018,Female,31.4
+EUR,Europe,CZE,Czechia,2018,Both sexes,31.5
+SEAR,South-East Asia,NPL,Nepal,2018,Both sexes,31.9
+EUR,Europe,SVK,Slovakia,2018,Both sexes,32.3
+EMR,Eastern Mediterranean,YEM,Yemen,2018,Male,32.5
+EUR,Europe,GRC,Greece,2018,Female,32.8
+EUR,Europe,FRA,France,2018,Female,33.2
+WPR,Western Pacific,JPN,Japan,2018,Male,33.2
+EUR,Europe,PRT,Portugal,2018,Male,33.3
+EMR,Eastern Mediterranean,PAK,Pakistan,2018,Male,33.6
+EUR,Europe,AND,Andorra,2018,Both sexes,33.8
+EUR,Europe,FRA,France,2018,Both sexes,34.6
+EUR,Europe,HUN,Hungary,2018,Male,34.8
+EUR,Europe,ISR,Israel,2018,Male,35.2
+EUR,Europe,ROU,Romania,2018,Male,35.2
+EUR,Europe,BGR,Bulgaria,2018,Female,35.3
+EUR,Europe,HRV,Croatia,2018,Female,35.3
+EUR,Europe,LTU,Lithuania,2018,Male,35.3
+AFR,Africa,SYC,Seychelles,2018,Male,35.3
+WPR,Western Pacific,KIR,Kiribati,2018,Female,35.5
+EUR,Europe,CZE,Czechia,2018,Male,35.6
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2018,Male,35.6
+EMR,Eastern Mediterranean,LBN,Lebanon,2018,Female,35.9
+EUR,Europe,FRA,France,2018,Male,36
+AFR,Africa,DZA,Algeria,2018,Male,36.3
+WPR,Western Pacific,PLW,Palau,2018,Male,36.3
+EUR,Europe,HRV,Croatia,2018,Both sexes,36.6
+EUR,Europe,CYP,Cyprus,2018,Both sexes,36.7
+EUR,Europe,LVA,Latvia,2018,Both sexes,36.7
+EUR,Europe,EST,Estonia,2018,Male,36.9
+AFR,Africa,BWA,Botswana,2018,Male,37.3
+WPR,Western Pacific,KHM,Cambodia,2018,Male,37.4
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2018,Male,37.5
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2018,Both sexes,37.8
+EUR,Europe,HRV,Croatia,2018,Male,37.9
+SEAR,South-East Asia,IDN,Indonesia,2018,Both sexes,37.9
+WPR,Western Pacific,SLB,Solomon Islands,2018,Both sexes,37.9
+EUR,Europe,AND,Andorra,2018,Male,38.1
+WPR,Western Pacific,KOR,Republic of Korea,2018,Male,38.2
+SEAR,South-East Asia,TLS,Timor-Leste,2018,Both sexes,38.2
+EUR,Europe,BIH,Bosnia and Herzegovina,2018,Both sexes,38.3
+EUR,Europe,SVK,Slovakia,2018,Male,38.6
+EUR,Europe,BGR,Bulgaria,2018,Both sexes,38.9
+EUR,Europe,AZE,Azerbaijan,2018,Male,39
+SEAR,South-East Asia,BGD,Bangladesh,2018,Both sexes,39.1
+EUR,Europe,GRC,Greece,2018,Both sexes,39.1
+AMR,Americas,CUB,Cuba,2018,Male,39.7
+AFR,Africa,UGA,Uganda,2018,Female,4
+AMR,Americas,JAM,Jamaica,2018,Female,4.2
+AFR,Africa,ZMB,Zambia,2018,Female,4.4
+AFR,Africa,ETH,Ethiopia,2018,Both sexes,4.6
+AFR,Africa,LSO,Lesotho,2018,Female,4.6
+AMR,Americas,PRY,Paraguay,2018,Female,4.7
+AFR,Africa,NGA,Nigeria,2018,Both sexes,4.8
+EUR,Europe,SRB,Serbia,2018,Male,40
+AMR,Americas,CHL,Chile,2018,Female,40.3
+EUR,Europe,SRB,Serbia,2018,Both sexes,40.6
+EMR,Eastern Mediterranean,IRQ,Iraq,2018,Male,40.8
+WPR,Western Pacific,WSM,Samoa,2018,Male,40.8
+EMR,Eastern Mediterranean,KWT,Kuwait,2018,Male,40.9
+EUR,Europe,RUS,Russian Federation,2018,Male,40.9
+EUR,Europe,UKR,Ukraine,2018,Male,41
+EUR,Europe,SRB,Serbia,2018,Female,41.2
+EMR,Eastern Mediterranean,BHR,Bahrain,2018,Male,41.5
+EUR,Europe,TUR,Turkey,2018,Male,41.5
+WPR,Western Pacific,PHL,Philippines,2018,Male,41.6
+SEAR,South-East Asia,IND,India,2018,Male,42
+EUR,Europe,KAZ,Kazakhstan,2018,Male,42.2
+EMR,Eastern Mediterranean,EGY,Egypt,2018,Male,42.3
+WPR,Western Pacific,FJI,Fiji,2018,Male,42.3
+EUR,Europe,BGR,Bulgaria,2018,Male,42.5
+SEAR,South-East Asia,THA,Thailand,2018,Male,42.5
+EMR,Eastern Mediterranean,LBN,Lebanon,2018,Both sexes,42.6
+WPR,Western Pacific,MYS,Malaysia,2018,Male,42.7
+EUR,Europe,BLR,Belarus,2018,Male,42.8
+SEAR,South-East Asia,LKA,Sri Lanka,2018,Male,43.2
+EUR,Europe,MDA,Republic of Moldova,2018,Male,44.6
+AMR,Americas,CHL,Chile,2018,Both sexes,44.7
+WPR,Western Pacific,VUT,Vanuatu,2018,Male,45
+EUR,Europe,GRC,Greece,2018,Male,45.3
+SEAR,South-East Asia,MMR,Myanmar,2018,Both sexes,45.5
+EUR,Europe,BIH,Bosnia and Herzegovina,2018,Male,46.3
+AFR,Africa,ZAF,South Africa,2018,Male,46.8
+AFR,Africa,MDG,Madagascar,2018,Male,46.9
+WPR,Western Pacific,CHN,China,2018,Male,47.7
+AFR,Africa,MUS,Mauritius,2018,Male,48.3
+WPR,Western Pacific,TON,Tonga,2018,Male,48.4
+SEAR,South-East Asia,NPL,Nepal,2018,Male,48.6
+WPR,Western Pacific,TUV,Tuvalu,2018,Both sexes,48.7
+WPR,Western Pacific,MNG,Mongolia,2018,Male,49.1
+EMR,Eastern Mediterranean,TUN,Tunisia,2018,Male,49.1
+AMR,Americas,CHL,Chile,2018,Male,49.2
+EMR,Eastern Mediterranean,LBN,Lebanon,2018,Male,49.4
+EUR,Europe,LVA,Latvia,2018,Male,49.5
+AMR,Americas,CRI,Costa Rica,2018,Female,5
+WPR,Western Pacific,SGP,Singapore,2018,Female,5.1
+EUR,Europe,GEO,Georgia,2018,Female,5.2
+AFR,Africa,MWI,Malawi,2018,Female,5.2
+SEAR,South-East Asia,IDN,Indonesia,2018,Female,5.3
+AFR,Africa,MUS,Mauritius,2018,Female,5.4
+AFR,Africa,MOZ,Mozambique,2018,Female,5.4
+AFR,Africa,STP,Sao Tome and Principe,2018,Both sexes,5.4
+WPR,Western Pacific,KOR,Republic of Korea,2018,Female,5.9
+EUR,Europe,CYP,Cyprus,2018,Male,50.1
+EUR,Europe,ALB,Albania,2018,Male,50.5
+WPR,Western Pacific,NRU,Nauru,2018,Male,51.7
+EUR,Europe,ARM,Armenia,2018,Male,51.8
+WPR,Western Pacific,KIR,Kiribati,2018,Both sexes,52
+WPR,Western Pacific,NRU,Nauru,2018,Both sexes,52.1
+EUR,Europe,KGZ,Kyrgyzstan,2018,Male,52.5
+WPR,Western Pacific,NRU,Nauru,2018,Female,52.6
+EUR,Europe,GEO,Georgia,2018,Male,54.2
+AFR,Africa,LSO,Lesotho,2018,Male,54.7
+WPR,Western Pacific,SLB,Solomon Islands,2018,Male,55.9
+EUR,Europe,MDA,Republic of Moldova,2018,Female,6
+WPR,Western Pacific,MNG,Mongolia,2018,Female,6.2
+WPR,Western Pacific,KHM,Cambodia,2018,Female,6.3
+AFR,Africa,BDI,Burundi,2018,Female,6.4
+EMR,Eastern Mediterranean,PAK,Pakistan,2018,Female,6.4
+AMR,Americas,MEX,Mexico,2018,Female,6.5
+EUR,Europe,KAZ,Kazakhstan,2018,Female,6.6
+AMR,Americas,PAN,Panama,2018,Both sexes,6.9
+AFR,Africa,RWA,Rwanda,2018,Female,6.9
+AFR,Africa,SYC,Seychelles,2018,Female,6.9
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2018,Male,60.1
+SEAR,South-East Asia,BGD,Bangladesh,2018,Male,60.6
+SEAR,South-East Asia,TLS,Timor-Leste,2018,Male,65.8
+WPR,Western Pacific,TUV,Tuvalu,2018,Male,66
+WPR,Western Pacific,KIR,Kiribati,2018,Male,68.6
+AFR,Africa,GHA,Ghana,2018,Male,7
+WPR,Western Pacific,PHL,Philippines,2018,Female,7
+AFR,Africa,BEN,Benin,2018,Both sexes,7.2
+AFR,Africa,BFA,Burkina Faso,2018,Female,7.2
+AFR,Africa,ERI,Eritrea,2018,Both sexes,7.2
+AFR,Africa,NAM,Namibia,2018,Female,7.4
+AMR,Americas,DOM,Dominican Republic,2018,Female,7.5
+AFR,Africa,TGO,Togo,2018,Both sexes,7.6
+EUR,Europe,ALB,Albania,2018,Female,7.9
+AMR,Americas,COL,Colombia,2018,Both sexes,7.9
+SEAR,South-East Asia,MMR,Myanmar,2018,Male,70.2
+SEAR,South-East Asia,IDN,Indonesia,2018,Male,70.5
+AFR,Africa,ETH,Ethiopia,2018,Male,8.3
+AMR,Americas,HTI,Haiti,2018,Both sexes,8.3
+AFR,Africa,LBR,Liberia,2018,Both sexes,8.4
+AFR,Africa,SLE,Sierra Leone,2018,Female,8.5
+EMR,Eastern Mediterranean,BHR,Bahrain,2018,Female,8.6
+AFR,Africa,NER,Niger,2018,Both sexes,8.6
+AMR,Americas,BRB,Barbados,2018,Both sexes,8.7
+AFR,Africa,NGA,Nigeria,2018,Male,9
+AFR,Africa,SEN,Senegal,2018,Both sexes,9.1
+AFR,Africa,COM,Comoros,2018,Female,9.2
+AFR,Africa,CMR,Cameroon,2018,Both sexes,9.3
+EMR,Eastern Mediterranean,YEM,Yemen,2018,Female,9.3
+AMR,Americas,DOM,Dominican Republic,2018,Both sexes,9.4
+AFR,Africa,STP,Sao Tome and Principe,2018,Male,9.5
+EMR,Eastern Mediterranean,OMN,Oman,2018,Both sexes,9.6
+AMR,Americas,PER,Peru,2018,Both sexes,9.6
+AMR,Americas,CRI,Costa Rica,2018,Both sexes,9.8
+AFR,Africa,UGA,Uganda,2018,Both sexes,9.8
+EUR,Europe,UKR,Ukraine,2018,Female,9.9
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2017,Female,0
+EUR,Europe,AZE,Azerbaijan,2017,Female,0.2
+AFR,Africa,ERI,Eritrea,2017,Female,0.3
+EMR,Eastern Mediterranean,EGY,Egypt,2017,Female,0.4
+AFR,Africa,GHA,Ghana,2017,Female,0.4
+AFR,Africa,NGA,Nigeria,2017,Female,0.6
+EMR,Eastern Mediterranean,OMN,Oman,2017,Female,0.8
+AFR,Africa,SEN,Senegal,2017,Female,0.8
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2017,Female,0.8
+EMR,Eastern Mediterranean,MAR,Morocco,2017,Female,0.9
+AFR,Africa,NER,Niger,2017,Female,0.9
+AFR,Africa,ETH,Ethiopia,2017,Female,1
+WPR,Western Pacific,MYS,Malaysia,2017,Female,1.1
+AFR,Africa,CMR,Cameroon,2017,Female,1.2
+EUR,Europe,UZB,Uzbekistan,2017,Female,1.3
+AFR,Africa,DZA,Algeria,2017,Female,1.4
+EMR,Eastern Mediterranean,QAT,Qatar,2017,Female,1.4
+AFR,Africa,ZWE,Zimbabwe,2017,Female,1.4
+AFR,Africa,STP,Sao Tome and Principe,2017,Female,1.5
+EUR,Europe,ARM,Armenia,2017,Female,1.6
+AFR,Africa,GMB,Gambia,2017,Female,1.6
+AFR,Africa,CIV,Côte d’Ivoire,2017,Female,1.7
+AFR,Africa,MLI,Mali,2017,Female,1.7
+AFR,Africa,TGO,Togo,2017,Female,1.7
+WPR,Western Pacific,CHN,China,2017,Female,1.8
+AFR,Africa,LBR,Liberia,2017,Female,1.9
+AMR,Americas,CRI,Costa Rica,2017,Both sexes,10.1
+AMR,Americas,PER,Peru,2017,Both sexes,10.2
+EUR,Europe,UKR,Ukraine,2017,Female,10.2
+AFR,Africa,UGA,Uganda,2017,Both sexes,10.3
+EUR,Europe,BLR,Belarus,2017,Female,10.5
+AFR,Africa,BWA,Botswana,2017,Female,10.7
+AFR,Africa,SWZ,Eswatini,2017,Both sexes,10.7
+WPR,Western Pacific,JPN,Japan,2017,Female,10.7
+SEAR,South-East Asia,TLS,Timor-Leste,2017,Female,10.9
+AMR,Americas,BHS,Bahamas,2017,Both sexes,11
+WPR,Western Pacific,FJI,Fiji,2017,Female,11.2
+AMR,Americas,JAM,Jamaica,2017,Both sexes,11.3
+WPR,Western Pacific,PLW,Palau,2017,Female,11.5
+AMR,Americas,DOM,Dominican Republic,2017,Male,11.6
+AFR,Africa,MDG,Madagascar,2017,Female,11.6
+AMR,Americas,PAN,Panama,2017,Male,11.6
+AFR,Africa,TCD,Chad,2017,Both sexes,11.8
+AMR,Americas,BRA,Brazil,2017,Female,12
+AFR,Africa,MLI,Mali,2017,Both sexes,12
+AFR,Africa,KEN,Kenya,2017,Both sexes,12.1
+WPR,Western Pacific,TON,Tonga,2017,Female,12.2
+EUR,Europe,UZB,Uzbekistan,2017,Both sexes,12.5
+AMR,Americas,COL,Colombia,2017,Male,12.6
+AMR,Americas,GUY,Guyana,2017,Both sexes,12.6
+AFR,Africa,BDI,Burundi,2017,Both sexes,12.9
+SEAR,South-East Asia,IND,India,2017,Female,12.9
+AFR,Africa,BEN,Benin,2017,Male,13
+AMR,Americas,CAN,Canada,2017,Female,13
+AMR,Americas,SLV,El Salvador,2017,Both sexes,13
+AFR,Africa,CIV,Côte d’Ivoire,2017,Both sexes,13.2
+AFR,Africa,MWI,Malawi,2017,Both sexes,13.3
+AMR,Americas,PRY,Paraguay,2017,Both sexes,13.4
+AMR,Americas,HTI,Haiti,2017,Male,13.5
+AFR,Africa,RWA,Rwanda,2017,Both sexes,13.5
+AFR,Africa,TZA,United Republic of Tanzania,2017,Both sexes,13.7
+AFR,Africa,TGO,Togo,2017,Male,13.8
+WPR,Western Pacific,AUS,Australia,2017,Female,14
+WPR,Western Pacific,NZL,New Zealand,2017,Female,14.1
+EMR,Eastern Mediterranean,QAT,Qatar,2017,Both sexes,14.1
+AFR,Africa,ZWE,Zimbabwe,2017,Both sexes,14.1
+EUR,Europe,ISL,Iceland,2017,Female,14.3
+AMR,Americas,MEX,Mexico,2017,Both sexes,14.3
+EUR,Europe,ISL,Iceland,2017,Both sexes,14.4
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2017,Both sexes,14.4
+EUR,Europe,ISL,Iceland,2017,Male,14.6
+AFR,Africa,ERI,Eritrea,2017,Male,14.7
+AFR,Africa,GMB,Gambia,2017,Both sexes,14.7
+AFR,Africa,MOZ,Mozambique,2017,Both sexes,14.9
+AFR,Africa,ZMB,Zambia,2017,Both sexes,14.9
+AMR,Americas,BRB,Barbados,2017,Male,15.1
+AMR,Americas,CRI,Costa Rica,2017,Male,15.1
+AMR,Americas,CUB,Cuba,2017,Female,15.1
+EMR,Eastern Mediterranean,MAR,Morocco,2017,Both sexes,15.2
+AFR,Africa,LBR,Liberia,2017,Male,15.3
+WPR,Western Pacific,NZL,New Zealand,2017,Both sexes,15.4
+EUR,Europe,RUS,Russian Federation,2017,Female,15.5
+WPR,Western Pacific,BRN,Brunei Darussalam,2017,Both sexes,15.6
+AFR,Africa,COG,Congo,2017,Both sexes,15.7
+EUR,Europe,ISR,Israel,2017,Female,16.1
+AFR,Africa,NER,Niger,2017,Male,16.1
+AMR,Americas,ARG,Argentina,2017,Female,16.2
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2017,Female,16.3
+AFR,Africa,UGA,Uganda,2017,Male,16.3
+AFR,Africa,BFA,Burkina Faso,2017,Both sexes,16.4
+EUR,Europe,ROU,Romania,2017,Female,16.4
+SEAR,South-East Asia,NPL,Nepal,2017,Female,16.5
+WPR,Western Pacific,SGP,Singapore,2017,Both sexes,16.5
+WPR,Western Pacific,AUS,Australia,2017,Both sexes,16.6
+WPR,Western Pacific,NZL,New Zealand,2017,Male,16.6
+AMR,Americas,PER,Peru,2017,Male,16.6
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2017,Both sexes,16.6
+AFR,Africa,ZAF,South Africa,2017,Female,16.6
+EUR,Europe,TUR,Turkey,2017,Female,16.9
+AMR,Americas,BRA,Brazil,2017,Both sexes,17.2
+WPR,Western Pacific,WSM,Samoa,2017,Female,17.2
+AFR,Africa,CMR,Cameroon,2017,Male,17.5
+AFR,Africa,SEN,Senegal,2017,Male,17.8
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,Female,17.9
+AFR,Africa,NAM,Namibia,2017,Both sexes,18.1
+AMR,Americas,JAM,Jamaica,2017,Male,18.2
+AMR,Americas,CAN,Canada,2017,Both sexes,18.3
+SEAR,South-East Asia,BGD,Bangladesh,2017,Female,18.5
+EUR,Europe,FIN,Finland,2017,Female,18.5
+EMR,Eastern Mediterranean,OMN,Oman,2017,Male,18.5
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2017,Both sexes,18.5
+AMR,Americas,BHS,Bahamas,2017,Male,18.6
+EUR,Europe,NOR,Norway,2017,Female,18.7
+AFR,Africa,DZA,Algeria,2017,Both sexes,18.9
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2017,Both sexes,18.9
+AMR,Americas,URY,Uruguay,2017,Female,18.9
+AFR,Africa,SWZ,Eswatini,2017,Male,19
+EUR,Europe,LTU,Lithuania,2017,Female,19
+WPR,Western Pacific,AUS,Australia,2017,Male,19.2
+AFR,Africa,BDI,Burundi,2017,Male,19.2
+EUR,Europe,DNK,Denmark,2017,Both sexes,19.3
+EUR,Europe,DNK,Denmark,2017,Female,19.3
+EUR,Europe,DNK,Denmark,2017,Male,19.3
+EUR,Europe,NOR,Norway,2017,Both sexes,19.3
+AMR,Americas,USA,United States of America,2017,Female,19.6
+EUR,Europe,ITA,Italy,2017,Female,19.7
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,Both sexes,19.8
+EUR,Europe,AZE,Azerbaijan,2017,Both sexes,19.9
+EUR,Europe,NOR,Norway,2017,Male,19.9
+AFR,Africa,BEN,Benin,2017,Female,2
+AFR,Africa,COG,Congo,2017,Female,2.1
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2017,Female,2.1
+AMR,Americas,BRB,Barbados,2017,Female,2.3
+AFR,Africa,SWZ,Eswatini,2017,Female,2.3
+AMR,Americas,GUY,Guyana,2017,Female,2.3
+AFR,Africa,TCD,Chad,2017,Female,2.4
+WPR,Western Pacific,BRN,Brunei Darussalam,2017,Female,2.6
+AMR,Americas,SLV,El Salvador,2017,Female,2.6
+AFR,Africa,KEN,Kenya,2017,Female,2.9
+AMR,Americas,PAN,Panama,2017,Female,2.9
+SEAR,South-East Asia,LKA,Sri Lanka,2017,Female,2.9
+AFR,Africa,RWA,Rwanda,2017,Male,20
+AFR,Africa,COM,Comoros,2017,Both sexes,20.1
+EUR,Europe,FIN,Finland,2017,Both sexes,20.1
+EUR,Europe,LUX,Luxembourg,2017,Female,20.1
+WPR,Western Pacific,SLB,Solomon Islands,2017,Female,20.2
+AFR,Africa,SLE,Sierra Leone,2017,Both sexes,20.5
+EUR,Europe,SVN,Slovenia,2017,Female,20.5
+EMR,Eastern Mediterranean,PAK,Pakistan,2017,Both sexes,20.7
+AFR,Africa,MWI,Malawi,2017,Male,21
+AFR,Africa,TCD,Chad,2017,Male,21.3
+AFR,Africa,SYC,Seychelles,2017,Both sexes,21.3
+EMR,Eastern Mediterranean,YEM,Yemen,2017,Both sexes,21.3
+EMR,Eastern Mediterranean,EGY,Egypt,2017,Both sexes,21.4
+AFR,Africa,KEN,Kenya,2017,Male,21.4
+SEAR,South-East Asia,MMR,Myanmar,2017,Female,21.6
+EUR,Europe,FIN,Finland,2017,Male,21.7
+EUR,Europe,NLD,Netherlands,2017,Female,21.7
+AMR,Americas,PRY,Paraguay,2017,Male,21.7
+EUR,Europe,IRL,Ireland,2017,Female,21.8
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,Male,21.8
+AMR,Americas,MEX,Mexico,2017,Male,21.9
+EUR,Europe,PRT,Portugal,2017,Female,22
+EUR,Europe,LUX,Luxembourg,2017,Both sexes,22.1
+WPR,Western Pacific,MYS,Malaysia,2017,Both sexes,22.1
+EUR,Europe,POL,Poland,2017,Female,22.2
+AFR,Africa,MLI,Mali,2017,Male,22.3
+AMR,Americas,BRA,Brazil,2017,Male,22.4
+WPR,Western Pacific,COK,Cook Islands,2017,Female,22.4
+WPR,Western Pacific,JPN,Japan,2017,Both sexes,22.4
+EMR,Eastern Mediterranean,KWT,Kuwait,2017,Both sexes,22.4
+EMR,Eastern Mediterranean,IRQ,Iraq,2017,Both sexes,22.5
+AMR,Americas,URY,Uruguay,2017,Both sexes,22.5
+WPR,Western Pacific,KOR,Republic of Korea,2017,Both sexes,22.6
+EUR,Europe,CHE,Switzerland,2017,Female,22.6
+AMR,Americas,ARG,Argentina,2017,Both sexes,22.7
+WPR,Western Pacific,KHM,Cambodia,2017,Both sexes,22.8
+EUR,Europe,MLT,Malta,2017,Female,22.8
+EUR,Europe,SVN,Slovenia,2017,Both sexes,22.8
+AMR,Americas,GUY,Guyana,2017,Male,23
+SEAR,South-East Asia,LKA,Sri Lanka,2017,Both sexes,23.1
+EUR,Europe,CYP,Cyprus,2017,Female,23.2
+EUR,Europe,BEL,Belgium,2017,Female,23.3
+SEAR,South-East Asia,THA,Thailand,2017,Both sexes,23.3
+AMR,Americas,SLV,El Salvador,2017,Male,23.5
+EUR,Europe,ITA,Italy,2017,Both sexes,23.5
+AMR,Americas,CAN,Canada,2017,Male,23.6
+EUR,Europe,UZB,Uzbekistan,2017,Male,23.7
+AFR,Africa,BWA,Botswana,2017,Both sexes,23.9
+EUR,Europe,NLD,Netherlands,2017,Both sexes,23.9
+EUR,Europe,LVA,Latvia,2017,Female,24
+EUR,Europe,LUX,Luxembourg,2017,Male,24.1
+AFR,Africa,MOZ,Mozambique,2017,Male,24.1
+AFR,Africa,TZA,United Republic of Tanzania,2017,Male,24.1
+EUR,Europe,EST,Estonia,2017,Female,24.2
+EUR,Europe,IRL,Ireland,2017,Both sexes,24.2
+WPR,Western Pacific,PLW,Palau,2017,Both sexes,24.3
+WPR,Western Pacific,VUT,Vanuatu,2017,Both sexes,24.4
+AFR,Africa,CIV,Côte d’Ivoire,2017,Male,24.7
+WPR,Western Pacific,PHL,Philippines,2017,Both sexes,24.7
+WPR,Western Pacific,CHN,China,2017,Both sexes,24.9
+EUR,Europe,KAZ,Kazakhstan,2017,Both sexes,24.9
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2017,Male,25.1
+EMR,Eastern Mediterranean,BHR,Bahrain,2017,Both sexes,25.2
+EUR,Europe,BEL,Belgium,2017,Both sexes,25.2
+AFR,Africa,BFA,Burkina Faso,2017,Male,25.2
+EUR,Europe,MDA,Republic of Moldova,2017,Both sexes,25.2
+EUR,Europe,SVN,Slovenia,2017,Male,25.2
+AMR,Americas,USA,United States of America,2017,Both sexes,25.3
+EUR,Europe,CHE,Switzerland,2017,Both sexes,25.4
+AFR,Africa,ZMB,Zambia,2017,Male,25.4
+EUR,Europe,MLT,Malta,2017,Both sexes,25.7
+EUR,Europe,SVK,Slovakia,2017,Female,25.7
+EUR,Europe,ISR,Israel,2017,Both sexes,25.8
+EUR,Europe,UKR,Ukraine,2017,Both sexes,26
+AMR,Americas,URY,Uruguay,2017,Male,26
+EUR,Europe,NLD,Netherlands,2017,Male,26.1
+EUR,Europe,ROU,Romania,2017,Both sexes,26.2
+EUR,Europe,DEU,Germany,2017,Female,26.3
+EUR,Europe,IRL,Ireland,2017,Male,26.6
+EUR,Europe,POL,Poland,2017,Both sexes,26.7
+EMR,Eastern Mediterranean,QAT,Qatar,2017,Male,26.7
+EMR,Eastern Mediterranean,TUN,Tunisia,2017,Both sexes,26.7
+EUR,Europe,HUN,Hungary,2017,Female,26.8
+EUR,Europe,ESP,Spain,2017,Female,26.8
+WPR,Western Pacific,FJI,Fiji,2017,Both sexes,26.9
+AFR,Africa,ZWE,Zimbabwe,2017,Male,26.9
+EUR,Europe,BLR,Belarus,2017,Both sexes,27
+EUR,Europe,BEL,Belgium,2017,Male,27.2
+AFR,Africa,MUS,Mauritius,2017,Both sexes,27.2
+EUR,Europe,ARM,Armenia,2017,Both sexes,27.3
+WPR,Western Pacific,COK,Cook Islands,2017,Both sexes,27.3
+EUR,Europe,ITA,Italy,2017,Male,27.3
+EUR,Europe,CZE,Czechia,2017,Female,27.5
+EUR,Europe,LTU,Lithuania,2017,Both sexes,27.6
+EUR,Europe,PRT,Portugal,2017,Both sexes,27.7
+AMR,Americas,CUB,Cuba,2017,Both sexes,27.8
+AFR,Africa,GMB,Gambia,2017,Male,27.8
+SEAR,South-East Asia,IND,India,2017,Both sexes,27.8
+WPR,Western Pacific,SGP,Singapore,2017,Male,27.9
+EUR,Europe,KGZ,Kyrgyzstan,2017,Both sexes,28.1
+EUR,Europe,CHE,Switzerland,2017,Male,28.1
+WPR,Western Pacific,MNG,Mongolia,2017,Both sexes,28.2
+EUR,Europe,ESP,Spain,2017,Both sexes,28.2
+AFR,Africa,NAM,Namibia,2017,Male,28.3
+EUR,Europe,AUT,Austria,2017,Female,28.4
+EUR,Europe,DEU,Germany,2017,Both sexes,28.4
+EUR,Europe,RUS,Russian Federation,2017,Both sexes,28.4
+EUR,Europe,MLT,Malta,2017,Male,28.5
+WPR,Western Pacific,BRN,Brunei Darussalam,2017,Male,28.7
+EUR,Europe,SWE,Sweden,2017,Male,29.1
+AMR,Americas,ARG,Argentina,2017,Male,29.2
+AFR,Africa,LSO,Lesotho,2017,Both sexes,29.2
+EUR,Europe,ALB,Albania,2017,Both sexes,29.3
+AFR,Africa,COG,Congo,2017,Male,29.3
+WPR,Western Pacific,WSM,Samoa,2017,Both sexes,29.3
+EUR,Europe,AND,Andorra,2017,Female,29.4
+AFR,Africa,MDG,Madagascar,2017,Both sexes,29.4
+EMR,Eastern Mediterranean,MAR,Morocco,2017,Male,29.4
+EUR,Europe,TUR,Turkey,2017,Both sexes,29.5
+EUR,Europe,ESP,Spain,2017,Male,29.6
+EUR,Europe,AUT,Austria,2017,Both sexes,29.9
+EUR,Europe,GEO,Georgia,2017,Both sexes,29.9
+EUR,Europe,SWE,Sweden,2017,Both sexes,29.9
+EMR,Eastern Mediterranean,TUN,Tunisia,2017,Female,3
+SEAR,South-East Asia,THA,Thailand,2017,Female,3.2
+AMR,Americas,BHS,Bahamas,2017,Female,3.3
+AFR,Africa,TZA,United Republic of Tanzania,2017,Female,3.3
+WPR,Western Pacific,VUT,Vanuatu,2017,Female,3.3
+AMR,Americas,HTI,Haiti,2017,Female,3.4
+EUR,Europe,KGZ,Kyrgyzstan,2017,Female,3.4
+EMR,Eastern Mediterranean,KWT,Kuwait,2017,Female,3.5
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2017,Female,3.6
+AFR,Africa,GHA,Ghana,2017,Both sexes,3.8
+EMR,Eastern Mediterranean,IRQ,Iraq,2017,Female,3.8
+AMR,Americas,PER,Peru,2017,Female,3.8
+AMR,Americas,COL,Colombia,2017,Female,3.9
+AFR,Africa,COM,Comoros,2017,Male,30.3
+WPR,Western Pacific,TON,Tonga,2017,Both sexes,30.3
+EUR,Europe,DEU,Germany,2017,Male,30.4
+EUR,Europe,BIH,Bosnia and Herzegovina,2017,Female,30.5
+EUR,Europe,SWE,Sweden,2017,Female,30.6
+EUR,Europe,EST,Estonia,2017,Both sexes,31
+EUR,Europe,HUN,Hungary,2017,Both sexes,31
+AMR,Americas,USA,United States of America,2017,Male,31
+EUR,Europe,POL,Poland,2017,Male,31.2
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2017,Male,31.2
+EUR,Europe,AUT,Austria,2017,Male,31.3
+AFR,Africa,ZAF,South Africa,2017,Both sexes,31.6
+EUR,Europe,CZE,Czechia,2017,Both sexes,31.7
+WPR,Western Pacific,TUV,Tuvalu,2017,Female,31.7
+AFR,Africa,SLE,Sierra Leone,2017,Male,31.9
+WPR,Western Pacific,COK,Cook Islands,2017,Male,32.2
+EUR,Europe,SVK,Slovakia,2017,Both sexes,32.2
+EUR,Europe,FRA,France,2017,Female,33
+EMR,Eastern Mediterranean,YEM,Yemen,2017,Male,33
+SEAR,South-East Asia,NPL,Nepal,2017,Both sexes,33.1
+EUR,Europe,GRC,Greece,2017,Female,33.3
+EUR,Europe,PRT,Portugal,2017,Male,33.4
+EUR,Europe,AND,Andorra,2017,Both sexes,33.9
+WPR,Western Pacific,JPN,Japan,2017,Male,34.1
+EUR,Europe,FRA,France,2017,Both sexes,34.6
+EMR,Eastern Mediterranean,PAK,Pakistan,2017,Male,34.6
+EUR,Europe,HRV,Croatia,2017,Female,34.7
+EUR,Europe,HUN,Hungary,2017,Male,35.2
+EUR,Europe,BGR,Bulgaria,2017,Female,35.4
+EUR,Europe,ISR,Israel,2017,Male,35.4
+AFR,Africa,SYC,Seychelles,2017,Male,35.6
+EUR,Europe,CZE,Czechia,2017,Male,35.9
+EUR,Europe,ROU,Romania,2017,Male,35.9
+EMR,Eastern Mediterranean,LBN,Lebanon,2017,Female,36
+EUR,Europe,LTU,Lithuania,2017,Male,36.1
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2017,Male,36.1
+EUR,Europe,FRA,France,2017,Male,36.3
+AFR,Africa,DZA,Algeria,2017,Male,36.4
+WPR,Western Pacific,KIR,Kiribati,2017,Female,36.4
+EUR,Europe,HRV,Croatia,2017,Both sexes,36.5
+EUR,Europe,LVA,Latvia,2017,Both sexes,36.9
+AFR,Africa,BWA,Botswana,2017,Male,37
+EUR,Europe,CYP,Cyprus,2017,Both sexes,37
+WPR,Western Pacific,PLW,Palau,2017,Male,37.1
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2017,Male,37.7
+EUR,Europe,EST,Estonia,2017,Male,37.8
+WPR,Western Pacific,SLB,Solomon Islands,2017,Both sexes,38
+SEAR,South-East Asia,IDN,Indonesia,2017,Both sexes,38.1
+EUR,Europe,HRV,Croatia,2017,Male,38.2
+EUR,Europe,AND,Andorra,2017,Male,38.4
+EUR,Europe,BIH,Bosnia and Herzegovina,2017,Both sexes,38.7
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2017,Both sexes,38.7
+EUR,Europe,SVK,Slovakia,2017,Male,38.7
+WPR,Western Pacific,KHM,Cambodia,2017,Male,38.8
+SEAR,South-East Asia,TLS,Timor-Leste,2017,Both sexes,39
+WPR,Western Pacific,KOR,Republic of Korea,2017,Male,39.3
+SEAR,South-East Asia,BGD,Bangladesh,2017,Both sexes,39.5
+EUR,Europe,BGR,Bulgaria,2017,Both sexes,39.5
+EUR,Europe,AZE,Azerbaijan,2017,Male,39.6
+EUR,Europe,GRC,Greece,2017,Both sexes,39.6
+AFR,Africa,UGA,Uganda,2017,Female,4.3
+AMR,Americas,JAM,Jamaica,2017,Female,4.4
+AFR,Africa,ZMB,Zambia,2017,Female,4.5
+AFR,Africa,ETH,Ethiopia,2017,Both sexes,4.7
+AFR,Africa,LSO,Lesotho,2017,Female,4.8
+AFR,Africa,NGA,Nigeria,2017,Both sexes,4.9
+AMR,Americas,CUB,Cuba,2017,Male,40.5
+EUR,Europe,SRB,Serbia,2017,Male,40.5
+AMR,Americas,CHL,Chile,2017,Female,40.7
+EUR,Europe,SRB,Serbia,2017,Both sexes,40.9
+EMR,Eastern Mediterranean,IRQ,Iraq,2017,Male,41.2
+EMR,Eastern Mediterranean,KWT,Kuwait,2017,Male,41.2
+EUR,Europe,SRB,Serbia,2017,Female,41.3
+EUR,Europe,RUS,Russian Federation,2017,Male,41.4
+WPR,Western Pacific,WSM,Samoa,2017,Male,41.5
+EMR,Eastern Mediterranean,BHR,Bahrain,2017,Male,41.6
+EUR,Europe,UKR,Ukraine,2017,Male,41.8
+EUR,Europe,TUR,Turkey,2017,Male,42
+WPR,Western Pacific,PHL,Philippines,2017,Male,42.2
+EMR,Eastern Mediterranean,EGY,Egypt,2017,Male,42.3
+WPR,Western Pacific,FJI,Fiji,2017,Male,42.5
+EMR,Eastern Mediterranean,LBN,Lebanon,2017,Both sexes,42.6
+SEAR,South-East Asia,IND,India,2017,Male,42.7
+EUR,Europe,KAZ,Kazakhstan,2017,Male,43
+WPR,Western Pacific,MYS,Malaysia,2017,Male,43.1
+SEAR,South-East Asia,THA,Thailand,2017,Male,43.3
+SEAR,South-East Asia,LKA,Sri Lanka,2017,Male,43.4
+EUR,Europe,BGR,Bulgaria,2017,Male,43.5
+EUR,Europe,BLR,Belarus,2017,Male,43.6
+EUR,Europe,MDA,Republic of Moldova,2017,Male,44.4
+AMR,Americas,CHL,Chile,2017,Both sexes,45
+WPR,Western Pacific,VUT,Vanuatu,2017,Male,45.5
+EUR,Europe,GRC,Greece,2017,Male,46
+SEAR,South-East Asia,MMR,Myanmar,2017,Both sexes,46.1
+AFR,Africa,ZAF,South Africa,2017,Male,46.5
+EUR,Europe,BIH,Bosnia and Herzegovina,2017,Male,46.9
+AFR,Africa,MDG,Madagascar,2017,Male,47.3
+WPR,Western Pacific,CHN,China,2017,Male,48
+WPR,Western Pacific,TON,Tonga,2017,Male,48.4
+AFR,Africa,MUS,Mauritius,2017,Male,48.6
+AMR,Americas,CHL,Chile,2017,Male,49.2
+EMR,Eastern Mediterranean,LBN,Lebanon,2017,Male,49.2
+WPR,Western Pacific,TUV,Tuvalu,2017,Both sexes,49.3
+SEAR,South-East Asia,NPL,Nepal,2017,Male,49.6
+EUR,Europe,LVA,Latvia,2017,Male,49.8
+AMR,Americas,CRI,Costa Rica,2017,Female,5.1
+AMR,Americas,PRY,Paraguay,2017,Female,5.1
+EUR,Europe,GEO,Georgia,2017,Female,5.2
+WPR,Western Pacific,SGP,Singapore,2017,Female,5.2
+AFR,Africa,MWI,Malawi,2017,Female,5.5
+AFR,Africa,STP,Sao Tome and Principe,2017,Both sexes,5.5
+SEAR,South-East Asia,IDN,Indonesia,2017,Female,5.6
+AFR,Africa,MOZ,Mozambique,2017,Female,5.7
+AFR,Africa,MUS,Mauritius,2017,Female,5.8
+WPR,Western Pacific,KOR,Republic of Korea,2017,Female,5.9
+WPR,Western Pacific,MNG,Mongolia,2017,Male,50
+EMR,Eastern Mediterranean,TUN,Tunisia,2017,Male,50.4
+EUR,Europe,ALB,Albania,2017,Male,50.6
+EUR,Europe,CYP,Cyprus,2017,Male,50.9
+WPR,Western Pacific,NRU,Nauru,2017,Male,52.2
+WPR,Western Pacific,KIR,Kiribati,2017,Both sexes,52.8
+EUR,Europe,KGZ,Kyrgyzstan,2017,Male,52.8
+EUR,Europe,ARM,Armenia,2017,Male,52.9
+WPR,Western Pacific,NRU,Nauru,2017,Both sexes,52.9
+AFR,Africa,LSO,Lesotho,2017,Male,53.6
+WPR,Western Pacific,NRU,Nauru,2017,Female,53.6
+EUR,Europe,GEO,Georgia,2017,Male,54.6
+WPR,Western Pacific,SLB,Solomon Islands,2017,Male,55.8
+EUR,Europe,MDA,Republic of Moldova,2017,Female,6
+WPR,Western Pacific,MNG,Mongolia,2017,Female,6.4
+AFR,Africa,BDI,Burundi,2017,Female,6.6
+WPR,Western Pacific,KHM,Cambodia,2017,Female,6.7
+AMR,Americas,MEX,Mexico,2017,Female,6.7
+EUR,Europe,KAZ,Kazakhstan,2017,Female,6.8
+EMR,Eastern Mediterranean,PAK,Pakistan,2017,Female,6.8
+SEAR,South-East Asia,BGD,Bangladesh,2017,Male,60.5
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2017,Male,61.1
+WPR,Western Pacific,TUV,Tuvalu,2017,Male,66.9
+SEAR,South-East Asia,TLS,Timor-Leste,2017,Male,67.1
+WPR,Western Pacific,KIR,Kiribati,2017,Male,69.1
+AFR,Africa,SYC,Seychelles,2017,Female,7
+AFR,Africa,RWA,Rwanda,2017,Female,7.1
+AFR,Africa,GHA,Ghana,2017,Male,7.2
+AMR,Americas,PAN,Panama,2017,Both sexes,7.2
+WPR,Western Pacific,PHL,Philippines,2017,Female,7.3
+AFR,Africa,BEN,Benin,2017,Both sexes,7.5
+AFR,Africa,ERI,Eritrea,2017,Both sexes,7.5
+AFR,Africa,BFA,Burkina Faso,2017,Female,7.7
+AMR,Americas,DOM,Dominican Republic,2017,Female,7.8
+AFR,Africa,TGO,Togo,2017,Both sexes,7.8
+AFR,Africa,NAM,Namibia,2017,Female,7.9
+SEAR,South-East Asia,IDN,Indonesia,2017,Male,70.5
+SEAR,South-East Asia,MMR,Myanmar,2017,Male,70.7
+EUR,Europe,ALB,Albania,2017,Female,8
+AMR,Americas,COL,Colombia,2017,Both sexes,8.2
+AFR,Africa,ETH,Ethiopia,2017,Male,8.5
+AMR,Americas,HTI,Haiti,2017,Both sexes,8.5
+AFR,Africa,NER,Niger,2017,Both sexes,8.5
+AFR,Africa,LBR,Liberia,2017,Both sexes,8.6
+AMR,Americas,BRB,Barbados,2017,Both sexes,8.7
+EMR,Eastern Mediterranean,BHR,Bahrain,2017,Female,8.8
+AFR,Africa,SLE,Sierra Leone,2017,Female,9.1
+AFR,Africa,NGA,Nigeria,2017,Male,9.2
+AFR,Africa,SEN,Senegal,2017,Both sexes,9.3
+AFR,Africa,CMR,Cameroon,2017,Both sexes,9.4
+AFR,Africa,STP,Sao Tome and Principe,2017,Male,9.5
+EMR,Eastern Mediterranean,OMN,Oman,2017,Both sexes,9.6
+EMR,Eastern Mediterranean,YEM,Yemen,2017,Female,9.6
+AMR,Americas,DOM,Dominican Republic,2017,Both sexes,9.7
+AFR,Africa,COM,Comoros,2017,Female,9.9
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2016,Female,0
+EUR,Europe,AZE,Azerbaijan,2016,Female,0.2
+AFR,Africa,ERI,Eritrea,2016,Female,0.3
+EMR,Eastern Mediterranean,EGY,Egypt,2016,Female,0.4
+AFR,Africa,GHA,Ghana,2016,Female,0.4
+AFR,Africa,NGA,Nigeria,2016,Female,0.6
+EMR,Eastern Mediterranean,OMN,Oman,2016,Female,0.8
+AFR,Africa,SEN,Senegal,2016,Female,0.8
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2016,Female,0.8
+EMR,Eastern Mediterranean,MAR,Morocco,2016,Female,0.9
+AFR,Africa,NER,Niger,2016,Female,0.9
+AFR,Africa,ETH,Ethiopia,2016,Female,1
+WPR,Western Pacific,MYS,Malaysia,2016,Female,1.1
+AFR,Africa,CMR,Cameroon,2016,Female,1.3
+EUR,Europe,UZB,Uzbekistan,2016,Female,1.3
+EMR,Eastern Mediterranean,QAT,Qatar,2016,Female,1.4
+AFR,Africa,ZWE,Zimbabwe,2016,Female,1.4
+AFR,Africa,DZA,Algeria,2016,Female,1.5
+EUR,Europe,ARM,Armenia,2016,Female,1.6
+AFR,Africa,STP,Sao Tome and Principe,2016,Female,1.6
+AFR,Africa,GMB,Gambia,2016,Female,1.7
+AFR,Africa,CIV,Côte d’Ivoire,2016,Female,1.8
+AFR,Africa,MLI,Mali,2016,Female,1.8
+WPR,Western Pacific,CHN,China,2016,Female,1.9
+AFR,Africa,TGO,Togo,2016,Female,1.9
+AMR,Americas,DOM,Dominican Republic,2016,Both sexes,10.1
+EUR,Europe,UKR,Ukraine,2016,Female,10.4
+AMR,Americas,CRI,Costa Rica,2016,Both sexes,10.5
+EUR,Europe,BLR,Belarus,2016,Female,10.6
+AFR,Africa,COM,Comoros,2016,Female,10.8
+AFR,Africa,SWZ,Eswatini,2016,Both sexes,10.8
+AMR,Americas,BHS,Bahamas,2016,Both sexes,10.9
+WPR,Western Pacific,JPN,Japan,2016,Female,10.9
+AFR,Africa,UGA,Uganda,2016,Both sexes,10.9
+AMR,Americas,PER,Peru,2016,Both sexes,11
+SEAR,South-East Asia,TLS,Timor-Leste,2016,Female,11.1
+AFR,Africa,BWA,Botswana,2016,Female,11.3
+WPR,Western Pacific,FJI,Fiji,2016,Female,11.4
+AMR,Americas,JAM,Jamaica,2016,Both sexes,11.6
+WPR,Western Pacific,PLW,Palau,2016,Female,11.8
+AMR,Americas,DOM,Dominican Republic,2016,Male,12
+AFR,Africa,TCD,Chad,2016,Both sexes,12.1
+AFR,Africa,MLI,Mali,2016,Both sexes,12.1
+AMR,Americas,PAN,Panama,2016,Male,12.2
+AFR,Africa,MDG,Madagascar,2016,Female,12.3
+WPR,Western Pacific,TON,Tonga,2016,Female,12.3
+AFR,Africa,KEN,Kenya,2016,Both sexes,12.4
+AMR,Americas,BRA,Brazil,2016,Female,12.5
+EUR,Europe,UZB,Uzbekistan,2016,Both sexes,12.6
+AMR,Americas,COL,Colombia,2016,Male,13
+AFR,Africa,BDI,Burundi,2016,Both sexes,13.2
+AMR,Americas,GUY,Guyana,2016,Both sexes,13.2
+AMR,Americas,SLV,El Salvador,2016,Both sexes,13.3
+AFR,Africa,CIV,Côte d’Ivoire,2016,Both sexes,13.4
+AFR,Africa,BEN,Benin,2016,Male,13.5
+AMR,Americas,CAN,Canada,2016,Female,13.7
+AMR,Americas,HTI,Haiti,2016,Male,13.7
+SEAR,South-East Asia,IND,India,2016,Female,13.7
+AFR,Africa,MWI,Malawi,2016,Both sexes,13.8
+AFR,Africa,RWA,Rwanda,2016,Both sexes,13.9
+AMR,Americas,PRY,Paraguay,2016,Both sexes,14
+AFR,Africa,TGO,Togo,2016,Male,14
+EMR,Eastern Mediterranean,QAT,Qatar,2016,Both sexes,14.1
+AFR,Africa,TZA,United Republic of Tanzania,2016,Both sexes,14.1
+AFR,Africa,ZWE,Zimbabwe,2016,Both sexes,14.3
+WPR,Western Pacific,AUS,Australia,2016,Female,14.5
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2016,Both sexes,14.6
+EUR,Europe,ISL,Iceland,2016,Female,14.7
+WPR,Western Pacific,NZL,New Zealand,2016,Female,14.7
+AMR,Americas,MEX,Mexico,2016,Both sexes,14.8
+AFR,Africa,ERI,Eritrea,2016,Male,15
+AFR,Africa,GMB,Gambia,2016,Both sexes,15
+EUR,Europe,ISL,Iceland,2016,Both sexes,15
+AMR,Americas,BRB,Barbados,2016,Male,15.2
+EUR,Europe,RUS,Russian Federation,2016,Female,15.2
+AFR,Africa,ZMB,Zambia,2016,Both sexes,15.2
+EUR,Europe,ISL,Iceland,2016,Male,15.3
+AFR,Africa,COG,Congo,2016,Both sexes,15.4
+AFR,Africa,MOZ,Mozambique,2016,Both sexes,15.4
+EMR,Eastern Mediterranean,MAR,Morocco,2016,Both sexes,15.5
+AMR,Americas,CRI,Costa Rica,2016,Male,15.6
+WPR,Western Pacific,BRN,Brunei Darussalam,2016,Both sexes,15.7
+AFR,Africa,LBR,Liberia,2016,Male,15.7
+AMR,Americas,CUB,Cuba,2016,Female,15.8
+AFR,Africa,NER,Niger,2016,Male,15.9
+WPR,Western Pacific,NZL,New Zealand,2016,Both sexes,16
+EUR,Europe,ISR,Israel,2016,Female,16.4
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2016,Both sexes,16.6
+WPR,Western Pacific,SGP,Singapore,2016,Both sexes,16.6
+EUR,Europe,TUR,Turkey,2016,Female,16.8
+AFR,Africa,BFA,Burkina Faso,2016,Both sexes,16.9
+AMR,Americas,ARG,Argentina,2016,Female,17
+EUR,Europe,ROU,Romania,2016,Female,17
+WPR,Western Pacific,AUS,Australia,2016,Both sexes,17.1
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2016,Female,17.1
+AFR,Africa,ZAF,South Africa,2016,Female,17.2
+AFR,Africa,UGA,Uganda,2016,Male,17.2
+WPR,Western Pacific,NZL,New Zealand,2016,Male,17.3
+AFR,Africa,CMR,Cameroon,2016,Male,17.5
+WPR,Western Pacific,WSM,Samoa,2016,Female,17.5
+AMR,Americas,BRA,Brazil,2016,Both sexes,17.8
+SEAR,South-East Asia,NPL,Nepal,2016,Female,17.8
+AMR,Americas,PER,Peru,2016,Male,17.9
+AFR,Africa,SEN,Senegal,2016,Male,18.2
+AFR,Africa,NAM,Namibia,2016,Both sexes,18.3
+AMR,Americas,BHS,Bahamas,2016,Male,18.5
+EMR,Eastern Mediterranean,OMN,Oman,2016,Male,18.5
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2016,Both sexes,18.5
+EUR,Europe,FIN,Finland,2016,Female,18.7
+AMR,Americas,JAM,Jamaica,2016,Male,18.7
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,Female,18.7
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2016,Both sexes,19
+AFR,Africa,DZA,Algeria,2016,Both sexes,19.1
+AMR,Americas,CAN,Canada,2016,Both sexes,19.1
+AFR,Africa,SWZ,Eswatini,2016,Male,19.1
+EUR,Europe,LTU,Lithuania,2016,Female,19.1
+SEAR,South-East Asia,BGD,Bangladesh,2016,Female,19.3
+EUR,Europe,NOR,Norway,2016,Female,19.5
+AFR,Africa,BDI,Burundi,2016,Male,19.6
+AMR,Americas,URY,Uruguay,2016,Female,19.6
+WPR,Western Pacific,AUS,Australia,2016,Male,19.7
+EUR,Europe,ITA,Italy,2016,Female,19.7
+EUR,Europe,DNK,Denmark,2016,Female,19.9
+AMR,Americas,USA,United States of America,2016,Female,19.9
+AFR,Africa,LBR,Liberia,2016,Female,2
+AFR,Africa,COG,Congo,2016,Female,2.1
+AFR,Africa,BEN,Benin,2016,Female,2.2
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2016,Female,2.2
+AMR,Americas,BRB,Barbados,2016,Female,2.4
+AMR,Americas,GUY,Guyana,2016,Female,2.4
+AFR,Africa,SWZ,Eswatini,2016,Female,2.5
+AFR,Africa,TCD,Chad,2016,Female,2.6
+WPR,Western Pacific,BRN,Brunei Darussalam,2016,Female,2.7
+AMR,Americas,SLV,El Salvador,2016,Female,2.7
+EUR,Europe,DNK,Denmark,2016,Both sexes,20
+EUR,Europe,DNK,Denmark,2016,Male,20.1
+EUR,Europe,NOR,Norway,2016,Both sexes,20.2
+EUR,Europe,AZE,Azerbaijan,2016,Both sexes,20.3
+EUR,Europe,LUX,Luxembourg,2016,Female,20.3
+EUR,Europe,FIN,Finland,2016,Both sexes,20.4
+AFR,Africa,RWA,Rwanda,2016,Male,20.4
+WPR,Western Pacific,SLB,Solomon Islands,2016,Female,20.4
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,Both sexes,20.6
+EUR,Europe,SVN,Slovenia,2016,Female,20.7
+AFR,Africa,COM,Comoros,2016,Both sexes,20.9
+EUR,Europe,NOR,Norway,2016,Male,20.9
+AFR,Africa,SLE,Sierra Leone,2016,Both sexes,21.1
+EMR,Eastern Mediterranean,EGY,Egypt,2016,Both sexes,21.3
+EUR,Europe,PRT,Portugal,2016,Female,21.3
+AFR,Africa,SYC,Seychelles,2016,Both sexes,21.5
+AFR,Africa,TCD,Chad,2016,Male,21.6
+EMR,Eastern Mediterranean,PAK,Pakistan,2016,Both sexes,21.6
+EMR,Eastern Mediterranean,YEM,Yemen,2016,Both sexes,21.7
+AFR,Africa,KEN,Kenya,2016,Male,21.8
+AFR,Africa,MWI,Malawi,2016,Male,21.9
+EUR,Europe,FIN,Finland,2016,Male,22.1
+EUR,Europe,NLD,Netherlands,2016,Female,22.1
+EMR,Eastern Mediterranean,KWT,Kuwait,2016,Both sexes,22.4
+AFR,Africa,MLI,Mali,2016,Male,22.4
+SEAR,South-East Asia,MMR,Myanmar,2016,Female,22.4
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,Male,22.4
+EUR,Europe,IRL,Ireland,2016,Female,22.5
+EUR,Europe,LUX,Luxembourg,2016,Both sexes,22.5
+WPR,Western Pacific,MYS,Malaysia,2016,Both sexes,22.5
+AMR,Americas,MEX,Mexico,2016,Male,22.5
+EMR,Eastern Mediterranean,IRQ,Iraq,2016,Both sexes,22.6
+AMR,Americas,PRY,Paraguay,2016,Male,22.6
+EUR,Europe,CHE,Switzerland,2016,Female,22.6
+WPR,Western Pacific,JPN,Japan,2016,Both sexes,22.8
+EUR,Europe,MLT,Malta,2016,Female,22.8
+EUR,Europe,POL,Poland,2016,Female,22.8
+EUR,Europe,CYP,Cyprus,2016,Female,22.9
+EUR,Europe,SVN,Slovenia,2016,Both sexes,23
+WPR,Western Pacific,COK,Cook Islands,2016,Female,23.1
+AMR,Americas,BRA,Brazil,2016,Male,23.2
+AMR,Americas,URY,Uruguay,2016,Both sexes,23.2
+EUR,Europe,BEL,Belgium,2016,Female,23.3
+WPR,Western Pacific,KOR,Republic of Korea,2016,Both sexes,23.3
+SEAR,South-East Asia,LKA,Sri Lanka,2016,Both sexes,23.3
+AMR,Americas,ARG,Argentina,2016,Both sexes,23.6
+WPR,Western Pacific,KHM,Cambodia,2016,Both sexes,23.6
+EUR,Europe,ITA,Italy,2016,Both sexes,23.6
+SEAR,South-East Asia,THA,Thailand,2016,Both sexes,23.6
+AMR,Americas,SLV,El Salvador,2016,Male,23.9
+EUR,Europe,UZB,Uzbekistan,2016,Male,23.9
+AMR,Americas,GUY,Guyana,2016,Male,24
+EUR,Europe,LVA,Latvia,2016,Female,24.1
+AFR,Africa,BWA,Botswana,2016,Both sexes,24.3
+EUR,Europe,NLD,Netherlands,2016,Both sexes,24.3
+EUR,Europe,EST,Estonia,2016,Female,24.4
+AMR,Americas,CAN,Canada,2016,Male,24.5
+EUR,Europe,IRL,Ireland,2016,Both sexes,24.6
+WPR,Western Pacific,PLW,Palau,2016,Both sexes,24.7
+EUR,Europe,LUX,Luxembourg,2016,Male,24.8
+AFR,Africa,TZA,United Republic of Tanzania,2016,Male,24.8
+WPR,Western Pacific,VUT,Vanuatu,2016,Both sexes,24.8
+AFR,Africa,MOZ,Mozambique,2016,Male,24.9
+AFR,Africa,CIV,Côte d’Ivoire,2016,Male,25
+WPR,Western Pacific,CHN,China,2016,Both sexes,25.1
+WPR,Western Pacific,PHL,Philippines,2016,Both sexes,25.1
+EUR,Europe,MDA,Republic of Moldova,2016,Both sexes,25.1
+EUR,Europe,SVK,Slovakia,2016,Female,25.2
+EMR,Eastern Mediterranean,BHR,Bahrain,2016,Both sexes,25.3
+EUR,Europe,KAZ,Kazakhstan,2016,Both sexes,25.3
+EUR,Europe,SVN,Slovenia,2016,Male,25.3
+EUR,Europe,CHE,Switzerland,2016,Both sexes,25.4
+EUR,Europe,BEL,Belgium,2016,Both sexes,25.5
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2016,Male,25.5
+AFR,Africa,BFA,Burkina Faso,2016,Male,25.6
+AMR,Americas,USA,United States of America,2016,Both sexes,25.7
+AFR,Africa,ZMB,Zambia,2016,Male,25.7
+EUR,Europe,MLT,Malta,2016,Both sexes,25.9
+EUR,Europe,ISR,Israel,2016,Both sexes,26
+EUR,Europe,DEU,Germany,2016,Female,26.4
+EUR,Europe,NLD,Netherlands,2016,Male,26.5
+EUR,Europe,UKR,Ukraine,2016,Both sexes,26.6
+EUR,Europe,IRL,Ireland,2016,Male,26.8
+EMR,Eastern Mediterranean,QAT,Qatar,2016,Male,26.8
+EUR,Europe,ROU,Romania,2016,Both sexes,26.8
+AMR,Americas,URY,Uruguay,2016,Male,26.8
+WPR,Western Pacific,FJI,Fiji,2016,Both sexes,27.1
+EUR,Europe,ESP,Spain,2016,Female,27.1
+EMR,Eastern Mediterranean,TUN,Tunisia,2016,Both sexes,27.1
+EUR,Europe,HUN,Hungary,2016,Female,27.2
+AFR,Africa,ZWE,Zimbabwe,2016,Male,27.2
+EUR,Europe,POL,Poland,2016,Both sexes,27.4
+EUR,Europe,ARM,Armenia,2016,Both sexes,27.5
+EUR,Europe,BLR,Belarus,2016,Both sexes,27.5
+EUR,Europe,PRT,Portugal,2016,Both sexes,27.5
+EUR,Europe,BEL,Belgium,2016,Male,27.6
+EUR,Europe,CZE,Czechia,2016,Female,27.6
+EUR,Europe,ITA,Italy,2016,Male,27.6
+AFR,Africa,MUS,Mauritius,2016,Both sexes,27.6
+WPR,Western Pacific,SGP,Singapore,2016,Male,27.9
+WPR,Western Pacific,COK,Cook Islands,2016,Both sexes,28
+EUR,Europe,LTU,Lithuania,2016,Both sexes,28
+EUR,Europe,KGZ,Kyrgyzstan,2016,Both sexes,28.2
+AFR,Africa,NAM,Namibia,2016,Male,28.2
+AFR,Africa,GMB,Gambia,2016,Male,28.3
+EUR,Europe,CHE,Switzerland,2016,Male,28.3
+WPR,Western Pacific,MNG,Mongolia,2016,Both sexes,28.4
+AFR,Africa,COG,Congo,2016,Male,28.6
+AMR,Americas,CUB,Cuba,2016,Both sexes,28.6
+EUR,Europe,DEU,Germany,2016,Both sexes,28.6
+WPR,Western Pacific,BRN,Brunei Darussalam,2016,Male,28.7
+AFR,Africa,LSO,Lesotho,2016,Both sexes,28.7
+EUR,Europe,RUS,Russian Federation,2016,Both sexes,28.7
+SEAR,South-East Asia,IND,India,2016,Both sexes,28.8
+EUR,Europe,ESP,Spain,2016,Both sexes,28.8
+EUR,Europe,MLT,Malta,2016,Male,28.9
+EUR,Europe,AUT,Austria,2016,Female,29.1
+EUR,Europe,AND,Andorra,2016,Female,29.4
+EUR,Europe,ALB,Albania,2016,Both sexes,29.7
+EUR,Europe,TUR,Turkey,2016,Both sexes,29.8
+WPR,Western Pacific,WSM,Samoa,2016,Both sexes,29.9
+AFR,Africa,KEN,Kenya,2016,Female,3
+AMR,Americas,PAN,Panama,2016,Female,3
+SEAR,South-East Asia,LKA,Sri Lanka,2016,Female,3.1
+EMR,Eastern Mediterranean,TUN,Tunisia,2016,Female,3.1
+AMR,Americas,BHS,Bahamas,2016,Female,3.3
+SEAR,South-East Asia,THA,Thailand,2016,Female,3.3
+AFR,Africa,TZA,United Republic of Tanzania,2016,Female,3.4
+WPR,Western Pacific,VUT,Vanuatu,2016,Female,3.4
+AMR,Americas,HTI,Haiti,2016,Female,3.5
+EUR,Europe,KGZ,Kyrgyzstan,2016,Female,3.5
+EMR,Eastern Mediterranean,KWT,Kuwait,2016,Female,3.6
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2016,Female,3.8
+AFR,Africa,GHA,Ghana,2016,Both sexes,3.9
+EMR,Eastern Mediterranean,IRQ,Iraq,2016,Female,3.9
+AFR,Africa,MDG,Madagascar,2016,Both sexes,30
+EUR,Europe,GEO,Georgia,2016,Both sexes,30.1
+EMR,Eastern Mediterranean,MAR,Morocco,2016,Male,30.1
+AMR,Americas,ARG,Argentina,2016,Male,30.2
+EUR,Europe,SWE,Sweden,2016,Male,30.2
+WPR,Western Pacific,TON,Tonga,2016,Both sexes,30.4
+EUR,Europe,ESP,Spain,2016,Male,30.6
+EUR,Europe,AUT,Austria,2016,Both sexes,30.7
+EUR,Europe,BIH,Bosnia and Herzegovina,2016,Female,30.7
+EUR,Europe,DEU,Germany,2016,Male,30.8
+EUR,Europe,SWE,Sweden,2016,Both sexes,30.8
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2016,Male,30.9
+AFR,Africa,COM,Comoros,2016,Male,31
+EUR,Europe,HUN,Hungary,2016,Both sexes,31.4
+EUR,Europe,EST,Estonia,2016,Both sexes,31.5
+EUR,Europe,SWE,Sweden,2016,Female,31.5
+AMR,Americas,USA,United States of America,2016,Male,31.5
+EUR,Europe,CZE,Czechia,2016,Both sexes,31.9
+EUR,Europe,POL,Poland,2016,Male,32
+AFR,Africa,ZAF,South Africa,2016,Both sexes,32
+EUR,Europe,SVK,Slovakia,2016,Both sexes,32.1
+WPR,Western Pacific,TUV,Tuvalu,2016,Female,32.1
+EUR,Europe,AUT,Austria,2016,Male,32.3
+AFR,Africa,SLE,Sierra Leone,2016,Male,32.6
+WPR,Western Pacific,COK,Cook Islands,2016,Male,32.8
+EUR,Europe,FRA,France,2016,Female,32.9
+EMR,Eastern Mediterranean,YEM,Yemen,2016,Male,33.5
+EUR,Europe,PRT,Portugal,2016,Male,33.6
+EUR,Europe,GRC,Greece,2016,Female,33.8
+EUR,Europe,AND,Andorra,2016,Both sexes,33.9
+EUR,Europe,HRV,Croatia,2016,Female,34.3
+SEAR,South-East Asia,NPL,Nepal,2016,Both sexes,34.3
+EUR,Europe,FRA,France,2016,Both sexes,34.6
+WPR,Western Pacific,JPN,Japan,2016,Male,34.7
+EUR,Europe,BGR,Bulgaria,2016,Female,35.6
+EUR,Europe,HUN,Hungary,2016,Male,35.6
+EUR,Europe,ISR,Israel,2016,Male,35.6
+EMR,Eastern Mediterranean,PAK,Pakistan,2016,Male,35.8
+AFR,Africa,SYC,Seychelles,2016,Male,36
+EMR,Eastern Mediterranean,LBN,Lebanon,2016,Female,36.1
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2016,Male,36.1
+EUR,Europe,CZE,Czechia,2016,Male,36.2
+EUR,Europe,HRV,Croatia,2016,Both sexes,36.3
+EUR,Europe,FRA,France,2016,Male,36.4
+EUR,Europe,ROU,Romania,2016,Male,36.7
+AFR,Africa,DZA,Algeria,2016,Male,36.8
+EUR,Europe,LTU,Lithuania,2016,Male,37
+EUR,Europe,CYP,Cyprus,2016,Both sexes,37.1
+EUR,Europe,LVA,Latvia,2016,Both sexes,37.1
+AFR,Africa,BWA,Botswana,2016,Male,37.3
+WPR,Western Pacific,KIR,Kiribati,2016,Female,37.4
+WPR,Western Pacific,PLW,Palau,2016,Male,37.5
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2016,Male,38
+SEAR,South-East Asia,IDN,Indonesia,2016,Both sexes,38.1
+WPR,Western Pacific,SLB,Solomon Islands,2016,Both sexes,38.1
+EUR,Europe,AND,Andorra,2016,Male,38.4
+EUR,Europe,HRV,Croatia,2016,Male,38.4
+EUR,Europe,EST,Estonia,2016,Male,38.6
+EUR,Europe,SVK,Slovakia,2016,Male,39
+EUR,Europe,BIH,Bosnia and Herzegovina,2016,Both sexes,39.1
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2016,Both sexes,39.9
+SEAR,South-East Asia,TLS,Timor-Leste,2016,Both sexes,39.9
+AMR,Americas,COL,Colombia,2016,Female,4.1
+AMR,Americas,PER,Peru,2016,Female,4.1
+AMR,Americas,JAM,Jamaica,2016,Female,4.6
+AFR,Africa,UGA,Uganda,2016,Female,4.6
+AFR,Africa,ZMB,Zambia,2016,Female,4.6
+AFR,Africa,ETH,Ethiopia,2016,Both sexes,4.8
+SEAR,South-East Asia,BGD,Bangladesh,2016,Both sexes,40.1
+EUR,Europe,BGR,Bulgaria,2016,Both sexes,40.1
+WPR,Western Pacific,KHM,Cambodia,2016,Male,40.1
+EUR,Europe,GRC,Greece,2016,Both sexes,40.2
+EUR,Europe,AZE,Azerbaijan,2016,Male,40.4
+WPR,Western Pacific,KOR,Republic of Korea,2016,Male,40.5
+AMR,Americas,CHL,Chile,2016,Female,41.1
+EUR,Europe,SRB,Serbia,2016,Male,41.1
+EMR,Eastern Mediterranean,KWT,Kuwait,2016,Male,41.2
+EUR,Europe,SRB,Serbia,2016,Both sexes,41.2
+AMR,Americas,CUB,Cuba,2016,Male,41.3
+EMR,Eastern Mediterranean,IRQ,Iraq,2016,Male,41.3
+EUR,Europe,SRB,Serbia,2016,Female,41.3
+EMR,Eastern Mediterranean,BHR,Bahrain,2016,Male,41.7
+EUR,Europe,RUS,Russian Federation,2016,Male,42.2
+WPR,Western Pacific,WSM,Samoa,2016,Male,42.2
+EMR,Eastern Mediterranean,EGY,Egypt,2016,Male,42.3
+EMR,Eastern Mediterranean,LBN,Lebanon,2016,Both sexes,42.6
+WPR,Western Pacific,PHL,Philippines,2016,Male,42.7
+EUR,Europe,TUR,Turkey,2016,Male,42.7
+WPR,Western Pacific,FJI,Fiji,2016,Male,42.9
+EUR,Europe,UKR,Ukraine,2016,Male,42.9
+SEAR,South-East Asia,LKA,Sri Lanka,2016,Male,43.6
+EUR,Europe,KAZ,Kazakhstan,2016,Male,43.7
+WPR,Western Pacific,MYS,Malaysia,2016,Male,43.8
+SEAR,South-East Asia,IND,India,2016,Male,43.9
+SEAR,South-East Asia,THA,Thailand,2016,Male,43.9
+EUR,Europe,MDA,Republic of Moldova,2016,Male,44.3
+EUR,Europe,BLR,Belarus,2016,Male,44.4
+EUR,Europe,BGR,Bulgaria,2016,Male,44.5
+AMR,Americas,CHL,Chile,2016,Both sexes,45.5
+WPR,Western Pacific,VUT,Vanuatu,2016,Male,46.2
+EUR,Europe,GRC,Greece,2016,Male,46.5
+SEAR,South-East Asia,MMR,Myanmar,2016,Both sexes,46.8
+AFR,Africa,ZAF,South Africa,2016,Male,46.9
+EUR,Europe,BIH,Bosnia and Herzegovina,2016,Male,47.5
+AFR,Africa,MDG,Madagascar,2016,Male,47.8
+WPR,Western Pacific,CHN,China,2016,Male,48.3
+WPR,Western Pacific,TON,Tonga,2016,Male,48.4
+EMR,Eastern Mediterranean,LBN,Lebanon,2016,Male,49.1
+AFR,Africa,MUS,Mauritius,2016,Male,49.1
+AMR,Americas,CHL,Chile,2016,Male,49.8
+AFR,Africa,LSO,Lesotho,2016,Female,5
+AFR,Africa,NGA,Nigeria,2016,Both sexes,5
+WPR,Western Pacific,SGP,Singapore,2016,Female,5.2
+AMR,Americas,CRI,Costa Rica,2016,Female,5.3
+EUR,Europe,GEO,Georgia,2016,Female,5.3
+AMR,Americas,PRY,Paraguay,2016,Female,5.4
+AFR,Africa,STP,Sao Tome and Principe,2016,Both sexes,5.5
+AFR,Africa,MWI,Malawi,2016,Female,5.8
+AFR,Africa,MOZ,Mozambique,2016,Female,5.9
+EUR,Europe,MDA,Republic of Moldova,2016,Female,5.9
+WPR,Western Pacific,TUV,Tuvalu,2016,Both sexes,50
+EUR,Europe,LVA,Latvia,2016,Male,50.1
+WPR,Western Pacific,MNG,Mongolia,2016,Male,50.2
+SEAR,South-East Asia,NPL,Nepal,2016,Male,50.8
+EUR,Europe,ALB,Albania,2016,Male,51.1
+EMR,Eastern Mediterranean,TUN,Tunisia,2016,Male,51.1
+EUR,Europe,CYP,Cyprus,2016,Male,51.3
+AFR,Africa,LSO,Lesotho,2016,Male,52.3
+EUR,Europe,KGZ,Kyrgyzstan,2016,Male,52.9
+WPR,Western Pacific,NRU,Nauru,2016,Male,53
+EUR,Europe,ARM,Armenia,2016,Male,53.5
+WPR,Western Pacific,KIR,Kiribati,2016,Both sexes,53.5
+WPR,Western Pacific,NRU,Nauru,2016,Both sexes,53.9
+WPR,Western Pacific,NRU,Nauru,2016,Female,54.8
+EUR,Europe,GEO,Georgia,2016,Male,55
+WPR,Western Pacific,SLB,Solomon Islands,2016,Male,55.9
+SEAR,South-East Asia,IDN,Indonesia,2016,Female,6
+AFR,Africa,MUS,Mauritius,2016,Female,6
+WPR,Western Pacific,KOR,Republic of Korea,2016,Female,6
+WPR,Western Pacific,MNG,Mongolia,2016,Female,6.6
+AFR,Africa,BDI,Burundi,2016,Female,6.9
+SEAR,South-East Asia,BGD,Bangladesh,2016,Male,60.8
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2016,Male,62.7
+WPR,Western Pacific,TUV,Tuvalu,2016,Male,67.8
+SEAR,South-East Asia,TLS,Timor-Leste,2016,Male,68.7
+WPR,Western Pacific,KIR,Kiribati,2016,Male,69.6
+EUR,Europe,KAZ,Kazakhstan,2016,Female,7
+AMR,Americas,MEX,Mexico,2016,Female,7
+AFR,Africa,SYC,Seychelles,2016,Female,7.1
+WPR,Western Pacific,KHM,Cambodia,2016,Female,7.2
+EMR,Eastern Mediterranean,PAK,Pakistan,2016,Female,7.3
+AFR,Africa,RWA,Rwanda,2016,Female,7.3
+AFR,Africa,GHA,Ghana,2016,Male,7.4
+AMR,Americas,PAN,Panama,2016,Both sexes,7.6
+WPR,Western Pacific,PHL,Philippines,2016,Female,7.6
+AFR,Africa,ERI,Eritrea,2016,Both sexes,7.7
+AFR,Africa,BEN,Benin,2016,Both sexes,7.8
+AFR,Africa,TGO,Togo,2016,Both sexes,7.9
+SEAR,South-East Asia,IDN,Indonesia,2016,Male,70.3
+SEAR,South-East Asia,MMR,Myanmar,2016,Male,71.2
+AMR,Americas,DOM,Dominican Republic,2016,Female,8.1
+EUR,Europe,ALB,Albania,2016,Female,8.2
+AFR,Africa,BFA,Burkina Faso,2016,Female,8.3
+AFR,Africa,NAM,Namibia,2016,Female,8.4
+AFR,Africa,NER,Niger,2016,Both sexes,8.4
+AMR,Americas,COL,Colombia,2016,Both sexes,8.6
+AFR,Africa,ETH,Ethiopia,2016,Male,8.6
+AMR,Americas,HTI,Haiti,2016,Both sexes,8.6
+AMR,Americas,BRB,Barbados,2016,Both sexes,8.8
+AFR,Africa,LBR,Liberia,2016,Both sexes,8.8
+EMR,Eastern Mediterranean,BHR,Bahrain,2016,Female,8.9
+AFR,Africa,CMR,Cameroon,2016,Both sexes,9.4
+AFR,Africa,NGA,Nigeria,2016,Male,9.4
+AFR,Africa,STP,Sao Tome and Principe,2016,Male,9.4
+AFR,Africa,SEN,Senegal,2016,Both sexes,9.5
+AFR,Africa,SLE,Sierra Leone,2016,Female,9.5
+EMR,Eastern Mediterranean,OMN,Oman,2016,Both sexes,9.6
+EMR,Eastern Mediterranean,YEM,Yemen,2016,Female,9.9
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2015,Female,0
+EUR,Europe,AZE,Azerbaijan,2015,Female,0.2
+AFR,Africa,ERI,Eritrea,2015,Female,0.4
+EMR,Eastern Mediterranean,EGY,Egypt,2015,Female,0.5
+AFR,Africa,GHA,Ghana,2015,Female,0.5
+AFR,Africa,NGA,Nigeria,2015,Female,0.6
+EMR,Eastern Mediterranean,OMN,Oman,2015,Female,0.8
+AFR,Africa,SEN,Senegal,2015,Female,0.9
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2015,Female,0.9
+AFR,Africa,ETH,Ethiopia,2015,Female,1
+EMR,Eastern Mediterranean,MAR,Morocco,2015,Female,1
+AFR,Africa,NER,Niger,2015,Female,1
+WPR,Western Pacific,MYS,Malaysia,2015,Female,1.2
+AFR,Africa,CMR,Cameroon,2015,Female,1.3
+EUR,Europe,UZB,Uzbekistan,2015,Female,1.3
+AFR,Africa,DZA,Algeria,2015,Female,1.5
+EMR,Eastern Mediterranean,QAT,Qatar,2015,Female,1.5
+AFR,Africa,ZWE,Zimbabwe,2015,Female,1.5
+AFR,Africa,STP,Sao Tome and Principe,2015,Female,1.6
+EUR,Europe,ARM,Armenia,2015,Female,1.7
+AFR,Africa,GMB,Gambia,2015,Female,1.8
+AFR,Africa,MLI,Mali,2015,Female,1.9
+AFR,Africa,SLE,Sierra Leone,2015,Female,10.1
+EMR,Eastern Mediterranean,YEM,Yemen,2015,Female,10.3
+AMR,Americas,DOM,Dominican Republic,2015,Both sexes,10.5
+EUR,Europe,BLR,Belarus,2015,Female,10.7
+EUR,Europe,UKR,Ukraine,2015,Female,10.7
+AMR,Americas,CRI,Costa Rica,2015,Both sexes,10.8
+AFR,Africa,SWZ,Eswatini,2015,Both sexes,10.8
+AMR,Americas,BHS,Bahamas,2015,Both sexes,11
+WPR,Western Pacific,JPN,Japan,2015,Female,11.1
+AFR,Africa,UGA,Uganda,2015,Both sexes,11.4
+WPR,Western Pacific,FJI,Fiji,2015,Female,11.5
+SEAR,South-East Asia,TLS,Timor-Leste,2015,Female,11.5
+AMR,Americas,PER,Peru,2015,Both sexes,11.7
+AFR,Africa,BWA,Botswana,2015,Female,11.9
+AFR,Africa,COM,Comoros,2015,Female,11.9
+AMR,Americas,JAM,Jamaica,2015,Both sexes,12
+AFR,Africa,MLI,Mali,2015,Both sexes,12.1
+WPR,Western Pacific,PLW,Palau,2015,Female,12.1
+AFR,Africa,TCD,Chad,2015,Both sexes,12.2
+WPR,Western Pacific,TON,Tonga,2015,Female,12.4
+AMR,Americas,DOM,Dominican Republic,2015,Male,12.5
+AFR,Africa,KEN,Kenya,2015,Both sexes,12.7
+AMR,Americas,PAN,Panama,2015,Male,12.8
+EUR,Europe,UZB,Uzbekistan,2015,Both sexes,12.8
+AMR,Americas,BRA,Brazil,2015,Female,13
+AFR,Africa,MDG,Madagascar,2015,Female,13
+AMR,Americas,COL,Colombia,2015,Male,13.5
+AFR,Africa,BDI,Burundi,2015,Both sexes,13.6
+AMR,Americas,SLV,El Salvador,2015,Both sexes,13.6
+AFR,Africa,CIV,Côte d’Ivoire,2015,Both sexes,13.8
+AMR,Americas,GUY,Guyana,2015,Both sexes,13.8
+AMR,Americas,HTI,Haiti,2015,Male,13.9
+AFR,Africa,BEN,Benin,2015,Male,14.2
+EMR,Eastern Mediterranean,QAT,Qatar,2015,Both sexes,14.2
+AFR,Africa,RWA,Rwanda,2015,Both sexes,14.2
+AFR,Africa,TGO,Togo,2015,Male,14.2
+AFR,Africa,MWI,Malawi,2015,Both sexes,14.3
+AMR,Americas,CAN,Canada,2015,Female,14.4
+SEAR,South-East Asia,IND,India,2015,Female,14.5
+AFR,Africa,TZA,United Republic of Tanzania,2015,Both sexes,14.5
+AFR,Africa,ZWE,Zimbabwe,2015,Both sexes,14.5
+AMR,Americas,PRY,Paraguay,2015,Both sexes,14.6
+AFR,Africa,COG,Congo,2015,Both sexes,15
+WPR,Western Pacific,AUS,Australia,2015,Female,15.1
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2015,Both sexes,15.1
+EUR,Europe,RUS,Russian Federation,2015,Female,15.1
+AMR,Americas,MEX,Mexico,2015,Both sexes,15.2
+AFR,Africa,GMB,Gambia,2015,Both sexes,15.3
+AMR,Americas,BRB,Barbados,2015,Male,15.4
+EUR,Europe,ISL,Iceland,2015,Female,15.4
+WPR,Western Pacific,NZL,New Zealand,2015,Female,15.4
+AFR,Africa,ZMB,Zambia,2015,Both sexes,15.4
+AFR,Africa,ERI,Eritrea,2015,Male,15.5
+WPR,Western Pacific,BRN,Brunei Darussalam,2015,Both sexes,15.7
+EUR,Europe,ISL,Iceland,2015,Both sexes,15.7
+EMR,Eastern Mediterranean,MAR,Morocco,2015,Both sexes,15.9
+AFR,Africa,NER,Niger,2015,Male,15.9
+EUR,Europe,ISL,Iceland,2015,Male,16
+AFR,Africa,LBR,Liberia,2015,Male,16
+AFR,Africa,MOZ,Mozambique,2015,Both sexes,16
+AMR,Americas,CRI,Costa Rica,2015,Male,16.1
+AMR,Americas,CUB,Cuba,2015,Female,16.5
+WPR,Western Pacific,SGP,Singapore,2015,Both sexes,16.5
+WPR,Western Pacific,NZL,New Zealand,2015,Both sexes,16.6
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2015,Both sexes,16.6
+EUR,Europe,ISR,Israel,2015,Female,16.7
+EUR,Europe,TUR,Turkey,2015,Female,16.7
+AFR,Africa,BFA,Burkina Faso,2015,Both sexes,17.4
+AFR,Africa,CMR,Cameroon,2015,Male,17.5
+EUR,Europe,ROU,Romania,2015,Female,17.6
+WPR,Western Pacific,AUS,Australia,2015,Both sexes,17.7
+AFR,Africa,ZAF,South Africa,2015,Female,17.7
+WPR,Western Pacific,NZL,New Zealand,2015,Male,17.8
+AMR,Americas,ARG,Argentina,2015,Female,17.9
+WPR,Western Pacific,WSM,Samoa,2015,Female,17.9
+AFR,Africa,UGA,Uganda,2015,Male,17.9
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2015,Female,18
+EMR,Eastern Mediterranean,OMN,Oman,2015,Male,18.4
+AMR,Americas,BHS,Bahamas,2015,Male,18.5
+AMR,Americas,BRA,Brazil,2015,Both sexes,18.5
+AFR,Africa,NAM,Namibia,2015,Both sexes,18.6
+AFR,Africa,SEN,Senegal,2015,Male,18.7
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2015,Both sexes,18.7
+AFR,Africa,SWZ,Eswatini,2015,Male,19
+AMR,Americas,PER,Peru,2015,Male,19
+EUR,Europe,FIN,Finland,2015,Female,19.1
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2015,Both sexes,19.2
+AMR,Americas,JAM,Jamaica,2015,Male,19.2
+EUR,Europe,LTU,Lithuania,2015,Female,19.2
+SEAR,South-East Asia,NPL,Nepal,2015,Female,19.2
+AFR,Africa,DZA,Algeria,2015,Both sexes,19.3
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,Female,19.4
+EUR,Europe,ITA,Italy,2015,Female,19.7
+WPR,Western Pacific,CHN,China,2015,Female,2
+AFR,Africa,CIV,Côte d’Ivoire,2015,Female,2
+AFR,Africa,TGO,Togo,2015,Female,2
+AFR,Africa,COG,Congo,2015,Female,2.2
+AFR,Africa,LBR,Liberia,2015,Female,2.2
+AFR,Africa,BEN,Benin,2015,Female,2.3
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2015,Female,2.3
+AMR,Americas,BRB,Barbados,2015,Female,2.4
+AMR,Americas,GUY,Guyana,2015,Female,2.5
+AFR,Africa,SWZ,Eswatini,2015,Female,2.6
+WPR,Western Pacific,BRN,Brunei Darussalam,2015,Female,2.8
+AFR,Africa,TCD,Chad,2015,Female,2.8
+AMR,Americas,SLV,El Salvador,2015,Female,2.8
+AMR,Americas,CAN,Canada,2015,Both sexes,20
+AFR,Africa,BDI,Burundi,2015,Male,20.1
+SEAR,South-East Asia,BGD,Bangladesh,2015,Female,20.2
+AMR,Americas,USA,United States of America,2015,Female,20.2
+WPR,Western Pacific,AUS,Australia,2015,Male,20.3
+AMR,Americas,URY,Uruguay,2015,Female,20.4
+EUR,Europe,LUX,Luxembourg,2015,Female,20.5
+EUR,Europe,DNK,Denmark,2015,Female,20.6
+EUR,Europe,NOR,Norway,2015,Female,20.6
+EUR,Europe,AZE,Azerbaijan,2015,Both sexes,20.7
+WPR,Western Pacific,SLB,Solomon Islands,2015,Female,20.7
+EUR,Europe,DNK,Denmark,2015,Both sexes,20.8
+AFR,Africa,RWA,Rwanda,2015,Male,20.8
+EUR,Europe,SVN,Slovenia,2015,Female,20.8
+EUR,Europe,FIN,Finland,2015,Both sexes,20.9
+EUR,Europe,PRT,Portugal,2015,Female,20.9
+EUR,Europe,DNK,Denmark,2015,Male,21.1
+EUR,Europe,NOR,Norway,2015,Both sexes,21.2
+EMR,Eastern Mediterranean,EGY,Egypt,2015,Both sexes,21.3
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,Both sexes,21.3
+AFR,Africa,TCD,Chad,2015,Male,21.6
+AFR,Africa,SYC,Seychelles,2015,Both sexes,21.7
+AFR,Africa,COM,Comoros,2015,Both sexes,21.8
+AFR,Africa,SLE,Sierra Leone,2015,Both sexes,21.8
+EUR,Europe,NOR,Norway,2015,Male,21.9
+EMR,Eastern Mediterranean,YEM,Yemen,2015,Both sexes,22.2
+AFR,Africa,KEN,Kenya,2015,Male,22.3
+EMR,Eastern Mediterranean,PAK,Pakistan,2015,Both sexes,22.3
+AFR,Africa,MLI,Mali,2015,Male,22.4
+EUR,Europe,NLD,Netherlands,2015,Female,22.4
+AFR,Africa,MWI,Malawi,2015,Male,22.5
+EMR,Eastern Mediterranean,KWT,Kuwait,2015,Both sexes,22.6
+EUR,Europe,CHE,Switzerland,2015,Female,22.7
+EUR,Europe,FIN,Finland,2015,Male,22.8
+WPR,Western Pacific,MYS,Malaysia,2015,Both sexes,22.8
+EMR,Eastern Mediterranean,IRQ,Iraq,2015,Both sexes,22.9
+EUR,Europe,LUX,Luxembourg,2015,Both sexes,22.9
+EUR,Europe,CYP,Cyprus,2015,Female,23
+EUR,Europe,MLT,Malta,2015,Female,23
+AMR,Americas,MEX,Mexico,2015,Male,23.1
+EUR,Europe,SVN,Slovenia,2015,Both sexes,23.1
+EUR,Europe,IRL,Ireland,2015,Female,23.2
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,Male,23.2
+EUR,Europe,BEL,Belgium,2015,Female,23.4
+WPR,Western Pacific,JPN,Japan,2015,Both sexes,23.4
+EUR,Europe,POL,Poland,2015,Female,23.4
+SEAR,South-East Asia,MMR,Myanmar,2015,Female,23.5
+AMR,Americas,PRY,Paraguay,2015,Male,23.5
+SEAR,South-East Asia,LKA,Sri Lanka,2015,Both sexes,23.5
+EUR,Europe,ITA,Italy,2015,Both sexes,23.8
+WPR,Western Pacific,KOR,Republic of Korea,2015,Both sexes,23.8
+WPR,Western Pacific,COK,Cook Islands,2015,Female,23.9
+AMR,Americas,BRA,Brazil,2015,Male,24
+AMR,Americas,URY,Uruguay,2015,Both sexes,24
+EUR,Europe,LVA,Latvia,2015,Female,24.1
+SEAR,South-East Asia,THA,Thailand,2015,Both sexes,24.1
+AMR,Americas,SLV,El Salvador,2015,Male,24.3
+EUR,Europe,UZB,Uzbekistan,2015,Male,24.3
+EUR,Europe,EST,Estonia,2015,Female,24.5
+AMR,Americas,ARG,Argentina,2015,Both sexes,24.6
+AFR,Africa,BWA,Botswana,2015,Both sexes,24.6
+EUR,Europe,NLD,Netherlands,2015,Both sexes,24.7
+WPR,Western Pacific,KHM,Cambodia,2015,Both sexes,24.8
+EUR,Europe,SVK,Slovakia,2015,Female,24.9
+AMR,Americas,GUY,Guyana,2015,Male,25
+EUR,Europe,MDA,Republic of Moldova,2015,Both sexes,25
+WPR,Western Pacific,PLW,Palau,2015,Both sexes,25.1
+WPR,Western Pacific,VUT,Vanuatu,2015,Both sexes,25.1
+EUR,Europe,LUX,Luxembourg,2015,Male,25.2
+WPR,Western Pacific,CHN,China,2015,Both sexes,25.3
+EUR,Europe,IRL,Ireland,2015,Both sexes,25.3
+EMR,Eastern Mediterranean,BHR,Bahrain,2015,Both sexes,25.4
+EUR,Europe,SVN,Slovenia,2015,Male,25.4
+AFR,Africa,TZA,United Republic of Tanzania,2015,Male,25.5
+AMR,Americas,CAN,Canada,2015,Male,25.6
+AFR,Africa,CIV,Côte d’Ivoire,2015,Male,25.6
+EUR,Europe,BEL,Belgium,2015,Both sexes,25.7
+EUR,Europe,KAZ,Kazakhstan,2015,Both sexes,25.7
+EUR,Europe,CHE,Switzerland,2015,Both sexes,25.7
+AFR,Africa,MOZ,Mozambique,2015,Male,25.8
+WPR,Western Pacific,PHL,Philippines,2015,Both sexes,25.8
+AFR,Africa,BFA,Burkina Faso,2015,Male,25.9
+AMR,Americas,USA,United States of America,2015,Both sexes,26
+AFR,Africa,ZMB,Zambia,2015,Male,26.1
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2015,Male,26.2
+EUR,Europe,ISR,Israel,2015,Both sexes,26.2
+EUR,Europe,MLT,Malta,2015,Both sexes,26.4
+EUR,Europe,DEU,Germany,2015,Female,26.7
+EMR,Eastern Mediterranean,QAT,Qatar,2015,Male,26.9
+EUR,Europe,NLD,Netherlands,2015,Male,27
+EUR,Europe,ESP,Spain,2015,Female,27.2
+EUR,Europe,IRL,Ireland,2015,Male,27.3
+EUR,Europe,PRT,Portugal,2015,Both sexes,27.3
+EUR,Europe,UKR,Ukraine,2015,Both sexes,27.3
+WPR,Western Pacific,FJI,Fiji,2015,Both sexes,27.4
+EUR,Europe,HUN,Hungary,2015,Female,27.5
+EUR,Europe,ROU,Romania,2015,Both sexes,27.5
+AFR,Africa,ZWE,Zimbabwe,2015,Male,27.5
+AMR,Americas,URY,Uruguay,2015,Male,27.6
+EUR,Europe,CZE,Czechia,2015,Female,27.7
+AFR,Africa,COG,Congo,2015,Male,27.8
+WPR,Western Pacific,SGP,Singapore,2015,Male,27.8
+EUR,Europe,ARM,Armenia,2015,Both sexes,27.9
+EUR,Europe,BEL,Belgium,2015,Male,27.9
+EUR,Europe,ITA,Italy,2015,Male,27.9
+EMR,Eastern Mediterranean,TUN,Tunisia,2015,Both sexes,27.9
+EUR,Europe,BLR,Belarus,2015,Both sexes,28
+AFR,Africa,LSO,Lesotho,2015,Both sexes,28
+AFR,Africa,MUS,Mauritius,2015,Both sexes,28
+EUR,Europe,POL,Poland,2015,Both sexes,28.1
+AFR,Africa,NAM,Namibia,2015,Male,28.2
+EUR,Europe,KGZ,Kyrgyzstan,2015,Both sexes,28.4
+EUR,Europe,LTU,Lithuania,2015,Both sexes,28.5
+WPR,Western Pacific,BRN,Brunei Darussalam,2015,Male,28.7
+EUR,Europe,CHE,Switzerland,2015,Male,28.7
+WPR,Western Pacific,COK,Cook Islands,2015,Both sexes,28.8
+AFR,Africa,GMB,Gambia,2015,Male,28.9
+EUR,Europe,DEU,Germany,2015,Both sexes,28.9
+WPR,Western Pacific,MNG,Mongolia,2015,Both sexes,29
+EUR,Europe,RUS,Russian Federation,2015,Both sexes,29
+EUR,Europe,ESP,Spain,2015,Both sexes,29.3
+AMR,Americas,CUB,Cuba,2015,Both sexes,29.4
+EUR,Europe,AND,Andorra,2015,Female,29.6
+SEAR,South-East Asia,IND,India,2015,Both sexes,29.6
+EUR,Europe,AUT,Austria,2015,Female,29.7
+EUR,Europe,ALB,Albania,2015,Both sexes,29.9
+EUR,Europe,MLT,Malta,2015,Male,29.9
+AFR,Africa,KEN,Kenya,2015,Female,3.1
+AMR,Americas,PAN,Panama,2015,Female,3.1
+EMR,Eastern Mediterranean,TUN,Tunisia,2015,Female,3.2
+SEAR,South-East Asia,LKA,Sri Lanka,2015,Female,3.3
+AMR,Americas,BHS,Bahamas,2015,Female,3.4
+SEAR,South-East Asia,THA,Thailand,2015,Female,3.4
+AFR,Africa,TZA,United Republic of Tanzania,2015,Female,3.5
+WPR,Western Pacific,VUT,Vanuatu,2015,Female,3.5
+AMR,Americas,HTI,Haiti,2015,Female,3.6
+EUR,Europe,KGZ,Kyrgyzstan,2015,Female,3.6
+EMR,Eastern Mediterranean,KWT,Kuwait,2015,Female,3.8
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2015,Female,3.9
+EUR,Europe,TUR,Turkey,2015,Both sexes,30.1
+EUR,Europe,GEO,Georgia,2015,Both sexes,30.4
+WPR,Western Pacific,WSM,Samoa,2015,Both sexes,30.5
+WPR,Western Pacific,TON,Tonga,2015,Both sexes,30.6
+AFR,Africa,MDG,Madagascar,2015,Both sexes,30.7
+EMR,Eastern Mediterranean,MAR,Morocco,2015,Male,30.8
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2015,Male,30.8
+EUR,Europe,BIH,Bosnia and Herzegovina,2015,Female,31.1
+EUR,Europe,SWE,Sweden,2015,Male,31.1
+EUR,Europe,DEU,Germany,2015,Male,31.2
+AMR,Americas,ARG,Argentina,2015,Male,31.3
+EUR,Europe,ESP,Spain,2015,Male,31.3
+EUR,Europe,AUT,Austria,2015,Both sexes,31.5
+AFR,Africa,COM,Comoros,2015,Male,31.7
+EUR,Europe,HUN,Hungary,2015,Both sexes,31.9
+AMR,Americas,USA,United States of America,2015,Male,31.9
+EUR,Europe,SVK,Slovakia,2015,Both sexes,32
+EUR,Europe,SWE,Sweden,2015,Both sexes,32
+EUR,Europe,CZE,Czechia,2015,Both sexes,32.1
+EUR,Europe,EST,Estonia,2015,Both sexes,32.1
+AFR,Africa,ZAF,South Africa,2015,Both sexes,32.2
+WPR,Western Pacific,TUV,Tuvalu,2015,Female,32.4
+EUR,Europe,FRA,France,2015,Female,32.7
+EUR,Europe,POL,Poland,2015,Male,32.8
+EUR,Europe,SWE,Sweden,2015,Female,32.9
+EUR,Europe,AUT,Austria,2015,Male,33.2
+AFR,Africa,SLE,Sierra Leone,2015,Male,33.5
+EUR,Europe,PRT,Portugal,2015,Male,33.6
+WPR,Western Pacific,COK,Cook Islands,2015,Male,33.7
+EUR,Europe,HRV,Croatia,2015,Female,33.9
+EUR,Europe,GRC,Greece,2015,Female,34
+EMR,Eastern Mediterranean,YEM,Yemen,2015,Male,34
+EUR,Europe,AND,Andorra,2015,Both sexes,34.2
+EUR,Europe,FRA,France,2015,Both sexes,34.5
+EUR,Europe,BGR,Bulgaria,2015,Female,35.7
+EUR,Europe,ISR,Israel,2015,Male,35.7
+WPR,Western Pacific,JPN,Japan,2015,Male,35.7
+SEAR,South-East Asia,NPL,Nepal,2015,Both sexes,35.7
+EMR,Eastern Mediterranean,LBN,Lebanon,2015,Female,35.9
+EUR,Europe,HRV,Croatia,2015,Both sexes,36.3
+EUR,Europe,HUN,Hungary,2015,Male,36.3
+AFR,Africa,SYC,Seychelles,2015,Male,36.3
+EUR,Europe,CZE,Czechia,2015,Male,36.4
+EUR,Europe,FRA,France,2015,Male,36.4
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2015,Male,36.5
+EMR,Eastern Mediterranean,PAK,Pakistan,2015,Male,36.7
+AFR,Africa,DZA,Algeria,2015,Male,37
+AFR,Africa,BWA,Botswana,2015,Male,37.2
+EUR,Europe,LVA,Latvia,2015,Both sexes,37.3
+EUR,Europe,ROU,Romania,2015,Male,37.4
+EUR,Europe,CYP,Cyprus,2015,Both sexes,37.5
+EUR,Europe,LTU,Lithuania,2015,Male,37.7
+WPR,Western Pacific,KIR,Kiribati,2015,Female,37.9
+WPR,Western Pacific,PLW,Palau,2015,Male,38.1
+SEAR,South-East Asia,IDN,Indonesia,2015,Both sexes,38.2
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2015,Male,38.3
+WPR,Western Pacific,SLB,Solomon Islands,2015,Both sexes,38.4
+EUR,Europe,HRV,Croatia,2015,Male,38.7
+EUR,Europe,AND,Andorra,2015,Male,38.8
+EUR,Europe,SVK,Slovakia,2015,Male,39.2
+EUR,Europe,BIH,Bosnia and Herzegovina,2015,Both sexes,39.6
+EUR,Europe,EST,Estonia,2015,Male,39.6
+AFR,Africa,GHA,Ghana,2015,Both sexes,4
+EMR,Eastern Mediterranean,IRQ,Iraq,2015,Female,4.1
+AMR,Americas,COL,Colombia,2015,Female,4.4
+AMR,Americas,PER,Peru,2015,Female,4.4
+AMR,Americas,JAM,Jamaica,2015,Female,4.8
+AFR,Africa,ZMB,Zambia,2015,Female,4.8
+AFR,Africa,ETH,Ethiopia,2015,Both sexes,4.9
+AFR,Africa,UGA,Uganda,2015,Female,4.9
+EUR,Europe,BGR,Bulgaria,2015,Both sexes,40.5
+EUR,Europe,GRC,Greece,2015,Both sexes,40.6
+SEAR,South-East Asia,BGD,Bangladesh,2015,Both sexes,40.7
+SEAR,South-East Asia,TLS,Timor-Leste,2015,Both sexes,40.8
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2015,Both sexes,40.9
+EUR,Europe,SRB,Serbia,2015,Female,41
+EUR,Europe,AZE,Azerbaijan,2015,Male,41.1
+EUR,Europe,SRB,Serbia,2015,Both sexes,41.3
+EMR,Eastern Mediterranean,KWT,Kuwait,2015,Male,41.5
+AMR,Americas,CHL,Chile,2015,Female,41.6
+EMR,Eastern Mediterranean,IRQ,Iraq,2015,Male,41.6
+WPR,Western Pacific,KOR,Republic of Korea,2015,Male,41.6
+EUR,Europe,SRB,Serbia,2015,Male,41.6
+EMR,Eastern Mediterranean,BHR,Bahrain,2015,Male,41.8
+WPR,Western Pacific,KHM,Cambodia,2015,Male,41.9
+EMR,Eastern Mediterranean,EGY,Egypt,2015,Male,42.1
+AMR,Americas,CUB,Cuba,2015,Male,42.3
+EMR,Eastern Mediterranean,LBN,Lebanon,2015,Both sexes,42.6
+EUR,Europe,RUS,Russian Federation,2015,Male,42.9
+WPR,Western Pacific,WSM,Samoa,2015,Male,43
+WPR,Western Pacific,FJI,Fiji,2015,Male,43.4
+EUR,Europe,TUR,Turkey,2015,Male,43.4
+SEAR,South-East Asia,LKA,Sri Lanka,2015,Male,43.7
+WPR,Western Pacific,PHL,Philippines,2015,Male,43.8
+EUR,Europe,UKR,Ukraine,2015,Male,43.8
+EUR,Europe,KAZ,Kazakhstan,2015,Male,44.2
+EUR,Europe,MDA,Republic of Moldova,2015,Male,44.2
+WPR,Western Pacific,MYS,Malaysia,2015,Male,44.5
+SEAR,South-East Asia,IND,India,2015,Male,44.6
+SEAR,South-East Asia,THA,Thailand,2015,Male,44.8
+EUR,Europe,BLR,Belarus,2015,Male,45.3
+EUR,Europe,BGR,Bulgaria,2015,Male,45.3
+AMR,Americas,CHL,Chile,2015,Both sexes,45.9
+AFR,Africa,ZAF,South Africa,2015,Male,46.7
+WPR,Western Pacific,VUT,Vanuatu,2015,Male,46.7
+EUR,Europe,GRC,Greece,2015,Male,47.1
+SEAR,South-East Asia,MMR,Myanmar,2015,Both sexes,47.8
+EUR,Europe,BIH,Bosnia and Herzegovina,2015,Male,48
+AFR,Africa,MDG,Madagascar,2015,Male,48.4
+WPR,Western Pacific,CHN,China,2015,Male,48.7
+WPR,Western Pacific,TON,Tonga,2015,Male,48.8
+EMR,Eastern Mediterranean,LBN,Lebanon,2015,Male,49.3
+AFR,Africa,MUS,Mauritius,2015,Male,49.6
+AFR,Africa,NGA,Nigeria,2015,Both sexes,5.1
+WPR,Western Pacific,SGP,Singapore,2015,Female,5.2
+EUR,Europe,GEO,Georgia,2015,Female,5.3
+AFR,Africa,LSO,Lesotho,2015,Female,5.3
+AMR,Americas,CRI,Costa Rica,2015,Female,5.5
+AFR,Africa,STP,Sao Tome and Principe,2015,Both sexes,5.5
+AMR,Americas,PRY,Paraguay,2015,Female,5.8
+EUR,Europe,MDA,Republic of Moldova,2015,Female,5.9
+AMR,Americas,CHL,Chile,2015,Male,50.1
+EUR,Europe,LVA,Latvia,2015,Male,50.5
+AFR,Africa,LSO,Lesotho,2015,Male,50.8
+WPR,Western Pacific,TUV,Tuvalu,2015,Both sexes,50.8
+WPR,Western Pacific,MNG,Mongolia,2015,Male,51.1
+EUR,Europe,ALB,Albania,2015,Male,51.4
+EUR,Europe,CYP,Cyprus,2015,Male,52.1
+SEAR,South-East Asia,NPL,Nepal,2015,Male,52.2
+EMR,Eastern Mediterranean,TUN,Tunisia,2015,Male,52.5
+EUR,Europe,KGZ,Kyrgyzstan,2015,Male,53.2
+WPR,Western Pacific,NRU,Nauru,2015,Male,53.9
+EUR,Europe,ARM,Armenia,2015,Male,54.1
+WPR,Western Pacific,KIR,Kiribati,2015,Both sexes,54.2
+WPR,Western Pacific,NRU,Nauru,2015,Both sexes,54.7
+EUR,Europe,GEO,Georgia,2015,Male,55.5
+WPR,Western Pacific,NRU,Nauru,2015,Female,55.6
+WPR,Western Pacific,SLB,Solomon Islands,2015,Male,56.2
+AFR,Africa,MWI,Malawi,2015,Female,6.1
+WPR,Western Pacific,KOR,Republic of Korea,2015,Female,6.1
+AFR,Africa,MOZ,Mozambique,2015,Female,6.2
+AFR,Africa,MUS,Mauritius,2015,Female,6.3
+SEAR,South-East Asia,IDN,Indonesia,2015,Female,6.4
+WPR,Western Pacific,MNG,Mongolia,2015,Female,6.9
+SEAR,South-East Asia,BGD,Bangladesh,2015,Male,61.3
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2015,Male,63.8
+WPR,Western Pacific,TUV,Tuvalu,2015,Male,69.2
+EUR,Europe,KAZ,Kazakhstan,2015,Female,7.1
+AFR,Africa,SYC,Seychelles,2015,Female,7.1
+AFR,Africa,BDI,Burundi,2015,Female,7.2
+AMR,Americas,MEX,Mexico,2015,Female,7.3
+AFR,Africa,RWA,Rwanda,2015,Female,7.5
+WPR,Western Pacific,KHM,Cambodia,2015,Female,7.6
+AFR,Africa,GHA,Ghana,2015,Male,7.6
+WPR,Western Pacific,PHL,Philippines,2015,Female,7.8
+AFR,Africa,ERI,Eritrea,2015,Both sexes,7.9
+EMR,Eastern Mediterranean,PAK,Pakistan,2015,Female,7.9
+AMR,Americas,PAN,Panama,2015,Both sexes,7.9
+SEAR,South-East Asia,IDN,Indonesia,2015,Male,70
+SEAR,South-East Asia,TLS,Timor-Leste,2015,Male,70.2
+WPR,Western Pacific,KIR,Kiribati,2015,Male,70.4
+SEAR,South-East Asia,MMR,Myanmar,2015,Male,72.1
+AFR,Africa,TGO,Togo,2015,Both sexes,8.1
+EUR,Europe,ALB,Albania,2015,Female,8.3
+AFR,Africa,BEN,Benin,2015,Both sexes,8.3
+AFR,Africa,NER,Niger,2015,Both sexes,8.4
+AMR,Americas,DOM,Dominican Republic,2015,Female,8.5
+AFR,Africa,ETH,Ethiopia,2015,Male,8.8
+AMR,Americas,HTI,Haiti,2015,Both sexes,8.8
+AMR,Americas,BRB,Barbados,2015,Both sexes,8.9
+AFR,Africa,BFA,Burkina Faso,2015,Female,8.9
+AMR,Americas,COL,Colombia,2015,Both sexes,8.9
+EMR,Eastern Mediterranean,BHR,Bahrain,2015,Female,9.1
+AFR,Africa,LBR,Liberia,2015,Both sexes,9.1
+AFR,Africa,NAM,Namibia,2015,Female,9.1
+AFR,Africa,CMR,Cameroon,2015,Both sexes,9.4
+AFR,Africa,STP,Sao Tome and Principe,2015,Male,9.4
+AFR,Africa,NGA,Nigeria,2015,Male,9.5
+EMR,Eastern Mediterranean,OMN,Oman,2015,Both sexes,9.6
+AFR,Africa,SEN,Senegal,2015,Both sexes,9.8
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2014,Female,0
+EUR,Europe,AZE,Azerbaijan,2014,Female,0.2
+AFR,Africa,ERI,Eritrea,2014,Female,0.4
+EMR,Eastern Mediterranean,EGY,Egypt,2014,Female,0.5
+AFR,Africa,GHA,Ghana,2014,Female,0.5
+AFR,Africa,NGA,Nigeria,2014,Female,0.7
+EMR,Eastern Mediterranean,OMN,Oman,2014,Female,0.8
+AFR,Africa,SEN,Senegal,2014,Female,0.9
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2014,Female,0.9
+AFR,Africa,ETH,Ethiopia,2014,Female,1
+EMR,Eastern Mediterranean,MAR,Morocco,2014,Female,1
+AFR,Africa,NER,Niger,2014,Female,1
+WPR,Western Pacific,MYS,Malaysia,2014,Female,1.3
+EUR,Europe,UZB,Uzbekistan,2014,Female,1.3
+AFR,Africa,CMR,Cameroon,2014,Female,1.4
+EMR,Eastern Mediterranean,QAT,Qatar,2014,Female,1.5
+AFR,Africa,DZA,Algeria,2014,Female,1.6
+AFR,Africa,ZWE,Zimbabwe,2014,Female,1.6
+EUR,Europe,ARM,Armenia,2014,Female,1.7
+AFR,Africa,STP,Sao Tome and Principe,2014,Female,1.7
+AFR,Africa,GMB,Gambia,2014,Female,1.9
+AFR,Africa,MLI,Mali,2014,Female,1.9
+AFR,Africa,SEN,Senegal,2014,Both sexes,10
+EMR,Eastern Mediterranean,YEM,Yemen,2014,Female,10.6
+AFR,Africa,SLE,Sierra Leone,2014,Female,10.7
+EUR,Europe,BLR,Belarus,2014,Female,10.8
+AMR,Americas,DOM,Dominican Republic,2014,Both sexes,10.8
+AFR,Africa,SWZ,Eswatini,2014,Both sexes,10.9
+AMR,Americas,BHS,Bahamas,2014,Both sexes,11
+EUR,Europe,UKR,Ukraine,2014,Female,11
+AMR,Americas,CRI,Costa Rica,2014,Both sexes,11.2
+WPR,Western Pacific,JPN,Japan,2014,Female,11.3
+WPR,Western Pacific,FJI,Fiji,2014,Female,11.7
+SEAR,South-East Asia,TLS,Timor-Leste,2014,Female,11.8
+AFR,Africa,UGA,Uganda,2014,Both sexes,12
+AFR,Africa,MLI,Mali,2014,Both sexes,12.1
+AFR,Africa,TCD,Chad,2014,Both sexes,12.3
+AMR,Americas,JAM,Jamaica,2014,Both sexes,12.4
+AFR,Africa,BWA,Botswana,2014,Female,12.5
+WPR,Western Pacific,PLW,Palau,2014,Female,12.5
+AMR,Americas,PER,Peru,2014,Both sexes,12.6
+WPR,Western Pacific,TON,Tonga,2014,Female,12.6
+AFR,Africa,COM,Comoros,2014,Female,12.9
+AMR,Americas,DOM,Dominican Republic,2014,Male,12.9
+AFR,Africa,KEN,Kenya,2014,Both sexes,13
+EUR,Europe,UZB,Uzbekistan,2014,Both sexes,13
+AMR,Americas,PAN,Panama,2014,Male,13.4
+AMR,Americas,BRA,Brazil,2014,Female,13.5
+AFR,Africa,MDG,Madagascar,2014,Female,13.7
+AMR,Americas,SLV,El Salvador,2014,Both sexes,13.8
+AFR,Africa,BDI,Burundi,2014,Both sexes,14
+AMR,Americas,COL,Colombia,2014,Male,14
+AMR,Americas,HTI,Haiti,2014,Male,14.1
+AFR,Africa,CIV,Côte d’Ivoire,2014,Both sexes,14.2
+EMR,Eastern Mediterranean,QAT,Qatar,2014,Both sexes,14.3
+AMR,Americas,GUY,Guyana,2014,Both sexes,14.4
+AFR,Africa,RWA,Rwanda,2014,Both sexes,14.5
+AFR,Africa,TGO,Togo,2014,Male,14.5
+AFR,Africa,COG,Congo,2014,Both sexes,14.7
+AFR,Africa,ZWE,Zimbabwe,2014,Both sexes,14.7
+AFR,Africa,BEN,Benin,2014,Male,14.8
+AFR,Africa,MWI,Malawi,2014,Both sexes,14.9
+EUR,Europe,RUS,Russian Federation,2014,Female,15
+AFR,Africa,TZA,United Republic of Tanzania,2014,Both sexes,15
+AMR,Americas,CAN,Canada,2014,Female,15.1
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2014,Both sexes,15.3
+AMR,Americas,BRB,Barbados,2014,Male,15.4
+AMR,Americas,PRY,Paraguay,2014,Both sexes,15.4
+SEAR,South-East Asia,IND,India,2014,Female,15.5
+WPR,Western Pacific,AUS,Australia,2014,Female,15.6
+AFR,Africa,GMB,Gambia,2014,Both sexes,15.7
+AMR,Americas,MEX,Mexico,2014,Both sexes,15.7
+AFR,Africa,NER,Niger,2014,Male,15.7
+AFR,Africa,ZMB,Zambia,2014,Both sexes,15.7
+WPR,Western Pacific,BRN,Brunei Darussalam,2014,Both sexes,15.8
+AFR,Africa,ERI,Eritrea,2014,Male,16
+EUR,Europe,ISL,Iceland,2014,Female,16
+WPR,Western Pacific,NZL,New Zealand,2014,Female,16.1
+AFR,Africa,LBR,Liberia,2014,Male,16.2
+EUR,Europe,ISL,Iceland,2014,Both sexes,16.4
+EMR,Eastern Mediterranean,MAR,Morocco,2014,Both sexes,16.4
+WPR,Western Pacific,SGP,Singapore,2014,Both sexes,16.5
+AFR,Africa,MOZ,Mozambique,2014,Both sexes,16.6
+EUR,Europe,TUR,Turkey,2014,Female,16.6
+AMR,Americas,CRI,Costa Rica,2014,Male,16.7
+EUR,Europe,ISL,Iceland,2014,Male,16.7
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2014,Both sexes,16.7
+EUR,Europe,ISR,Israel,2014,Female,17.1
+AMR,Americas,CUB,Cuba,2014,Female,17.3
+WPR,Western Pacific,NZL,New Zealand,2014,Both sexes,17.3
+AFR,Africa,CMR,Cameroon,2014,Male,17.5
+AFR,Africa,BFA,Burkina Faso,2014,Both sexes,18
+WPR,Western Pacific,AUS,Australia,2014,Both sexes,18.2
+WPR,Western Pacific,WSM,Samoa,2014,Female,18.2
+AFR,Africa,ZAF,South Africa,2014,Female,18.2
+EMR,Eastern Mediterranean,OMN,Oman,2014,Male,18.3
+EUR,Europe,ROU,Romania,2014,Female,18.3
+AMR,Americas,BHS,Bahamas,2014,Male,18.5
+WPR,Western Pacific,NZL,New Zealand,2014,Male,18.5
+AFR,Africa,UGA,Uganda,2014,Male,18.8
+AMR,Americas,ARG,Argentina,2014,Female,18.9
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2014,Female,18.9
+AFR,Africa,NAM,Namibia,2014,Both sexes,18.9
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2014,Both sexes,18.9
+AFR,Africa,SWZ,Eswatini,2014,Male,19
+AMR,Americas,BRA,Brazil,2014,Both sexes,19.2
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2014,Both sexes,19.2
+AFR,Africa,SEN,Senegal,2014,Male,19.2
+EUR,Europe,FIN,Finland,2014,Female,19.3
+EUR,Europe,LTU,Lithuania,2014,Female,19.3
+AFR,Africa,DZA,Algeria,2014,Both sexes,19.4
+EUR,Europe,ITA,Italy,2014,Female,19.7
+AMR,Americas,JAM,Jamaica,2014,Male,19.7
+WPR,Western Pacific,CHN,China,2014,Female,2
+AFR,Africa,CIV,Côte d’Ivoire,2014,Female,2.1
+AFR,Africa,TGO,Togo,2014,Female,2.1
+AFR,Africa,COG,Congo,2014,Female,2.3
+AFR,Africa,LBR,Liberia,2014,Female,2.3
+AMR,Americas,BRB,Barbados,2014,Female,2.4
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2014,Female,2.4
+AFR,Africa,BEN,Benin,2014,Female,2.5
+AFR,Africa,SWZ,Eswatini,2014,Female,2.7
+AMR,Americas,GUY,Guyana,2014,Female,2.7
+WPR,Western Pacific,BRN,Brunei Darussalam,2014,Female,2.9
+AFR,Africa,TCD,Chad,2014,Female,2.9
+AMR,Americas,SLV,El Salvador,2014,Female,2.9
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,Female,20.2
+AMR,Americas,PER,Peru,2014,Male,20.4
+AFR,Africa,BDI,Burundi,2014,Male,20.5
+EUR,Europe,PRT,Portugal,2014,Female,20.5
+AMR,Americas,USA,United States of America,2014,Female,20.6
+WPR,Western Pacific,AUS,Australia,2014,Male,20.7
+AMR,Americas,CAN,Canada,2014,Both sexes,20.7
+SEAR,South-East Asia,NPL,Nepal,2014,Female,20.7
+EUR,Europe,LUX,Luxembourg,2014,Female,20.8
+AMR,Americas,URY,Uruguay,2014,Female,20.9
+SEAR,South-East Asia,BGD,Bangladesh,2014,Female,21
+EUR,Europe,SVN,Slovenia,2014,Female,21
+EUR,Europe,AZE,Azerbaijan,2014,Both sexes,21.1
+WPR,Western Pacific,SLB,Solomon Islands,2014,Female,21.1
+EUR,Europe,DNK,Denmark,2014,Female,21.3
+EMR,Eastern Mediterranean,EGY,Egypt,2014,Both sexes,21.3
+EUR,Europe,FIN,Finland,2014,Both sexes,21.3
+AFR,Africa,RWA,Rwanda,2014,Male,21.3
+EUR,Europe,NOR,Norway,2014,Female,21.5
+AFR,Africa,TCD,Chad,2014,Male,21.6
+EUR,Europe,DNK,Denmark,2014,Both sexes,21.6
+AFR,Africa,SYC,Seychelles,2014,Both sexes,21.9
+EUR,Europe,DNK,Denmark,2014,Male,22
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,Both sexes,22
+EUR,Europe,NOR,Norway,2014,Both sexes,22.2
+AFR,Africa,MLI,Mali,2014,Male,22.4
+AFR,Africa,SLE,Sierra Leone,2014,Both sexes,22.5
+AFR,Africa,COM,Comoros,2014,Both sexes,22.6
+EMR,Eastern Mediterranean,YEM,Yemen,2014,Both sexes,22.6
+EUR,Europe,CYP,Cyprus,2014,Female,22.7
+EUR,Europe,NLD,Netherlands,2014,Female,22.7
+EMR,Eastern Mediterranean,KWT,Kuwait,2014,Both sexes,22.8
+EUR,Europe,NOR,Norway,2014,Male,22.8
+EUR,Europe,CHE,Switzerland,2014,Female,22.8
+AFR,Africa,KEN,Kenya,2014,Male,22.9
+EMR,Eastern Mediterranean,IRQ,Iraq,2014,Both sexes,23.1
+WPR,Western Pacific,MYS,Malaysia,2014,Both sexes,23.1
+EUR,Europe,MLT,Malta,2014,Female,23.1
+EMR,Eastern Mediterranean,PAK,Pakistan,2014,Both sexes,23.2
+EUR,Europe,LUX,Luxembourg,2014,Both sexes,23.3
+AFR,Africa,MWI,Malawi,2014,Male,23.3
+EUR,Europe,SVN,Slovenia,2014,Both sexes,23.3
+EUR,Europe,FIN,Finland,2014,Male,23.4
+EUR,Europe,BEL,Belgium,2014,Female,23.5
+SEAR,South-East Asia,LKA,Sri Lanka,2014,Both sexes,23.6
+AMR,Americas,MEX,Mexico,2014,Male,23.8
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,Male,23.8
+WPR,Western Pacific,JPN,Japan,2014,Both sexes,23.9
+EUR,Europe,IRL,Ireland,2014,Female,24
+EUR,Europe,ITA,Italy,2014,Both sexes,24
+EUR,Europe,POL,Poland,2014,Female,24
+EUR,Europe,LVA,Latvia,2014,Female,24.1
+SEAR,South-East Asia,MMR,Myanmar,2014,Female,24.4
+WPR,Western Pacific,KOR,Republic of Korea,2014,Both sexes,24.4
+SEAR,South-East Asia,THA,Thailand,2014,Both sexes,24.5
+WPR,Western Pacific,COK,Cook Islands,2014,Female,24.6
+AMR,Americas,PRY,Paraguay,2014,Male,24.6
+EUR,Europe,SVK,Slovakia,2014,Female,24.6
+AMR,Americas,SLV,El Salvador,2014,Male,24.7
+EUR,Europe,EST,Estonia,2014,Female,24.7
+AMR,Americas,URY,Uruguay,2014,Both sexes,24.7
+EUR,Europe,UZB,Uzbekistan,2014,Male,24.7
+AMR,Americas,BRA,Brazil,2014,Male,24.8
+AFR,Africa,BWA,Botswana,2014,Both sexes,24.9
+EUR,Europe,MDA,Republic of Moldova,2014,Both sexes,25
+EUR,Europe,NLD,Netherlands,2014,Both sexes,25.1
+EMR,Eastern Mediterranean,BHR,Bahrain,2014,Both sexes,25.5
+WPR,Western Pacific,CHN,China,2014,Both sexes,25.5
+EUR,Europe,SVN,Slovenia,2014,Male,25.5
+AMR,Americas,ARG,Argentina,2014,Both sexes,25.6
+WPR,Western Pacific,VUT,Vanuatu,2014,Both sexes,25.6
+EUR,Europe,LUX,Luxembourg,2014,Male,25.7
+WPR,Western Pacific,PLW,Palau,2014,Both sexes,25.7
+WPR,Western Pacific,KHM,Cambodia,2014,Both sexes,25.8
+EUR,Europe,BEL,Belgium,2014,Both sexes,25.9
+EUR,Europe,IRL,Ireland,2014,Both sexes,25.9
+EUR,Europe,CHE,Switzerland,2014,Both sexes,25.9
+AFR,Africa,CIV,Côte d’Ivoire,2014,Male,26.2
+AMR,Americas,GUY,Guyana,2014,Male,26.2
+EUR,Europe,KAZ,Kazakhstan,2014,Both sexes,26.2
+WPR,Western Pacific,PHL,Philippines,2014,Both sexes,26.2
+AMR,Americas,CAN,Canada,2014,Male,26.3
+AFR,Africa,TZA,United Republic of Tanzania,2014,Male,26.3
+AMR,Americas,USA,United States of America,2014,Both sexes,26.4
+AFR,Africa,BFA,Burkina Faso,2014,Male,26.5
+AFR,Africa,ZMB,Zambia,2014,Male,26.5
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2014,Male,26.6
+EUR,Europe,ISR,Israel,2014,Both sexes,26.6
+AFR,Africa,MOZ,Mozambique,2014,Male,26.7
+EUR,Europe,DEU,Germany,2014,Female,26.8
+EUR,Europe,MLT,Malta,2014,Both sexes,26.8
+EMR,Eastern Mediterranean,QAT,Qatar,2014,Male,27
+AFR,Africa,COG,Congo,2014,Male,27.1
+EUR,Europe,PRT,Portugal,2014,Both sexes,27.1
+EUR,Europe,ESP,Spain,2014,Female,27.2
+EUR,Europe,NLD,Netherlands,2014,Male,27.4
+EUR,Europe,CZE,Czechia,2014,Female,27.6
+WPR,Western Pacific,FJI,Fiji,2014,Both sexes,27.7
+AFR,Africa,LSO,Lesotho,2014,Both sexes,27.7
+EUR,Europe,IRL,Ireland,2014,Male,27.8
+WPR,Western Pacific,SGP,Singapore,2014,Male,27.8
+EUR,Europe,HUN,Hungary,2014,Female,27.9
+AFR,Africa,ZWE,Zimbabwe,2014,Male,27.9
+EUR,Europe,UKR,Ukraine,2014,Both sexes,28
+AFR,Africa,NAM,Namibia,2014,Male,28.1
+EUR,Europe,ITA,Italy,2014,Male,28.2
+AFR,Africa,MUS,Mauritius,2014,Both sexes,28.2
+EUR,Europe,ARM,Armenia,2014,Both sexes,28.3
+EUR,Europe,BEL,Belgium,2014,Male,28.3
+EUR,Europe,ROU,Romania,2014,Both sexes,28.3
+AMR,Americas,URY,Uruguay,2014,Male,28.5
+EUR,Europe,KGZ,Kyrgyzstan,2014,Both sexes,28.6
+EUR,Europe,POL,Poland,2014,Both sexes,28.6
+EMR,Eastern Mediterranean,TUN,Tunisia,2014,Both sexes,28.6
+EUR,Europe,BLR,Belarus,2014,Both sexes,28.7
+WPR,Western Pacific,BRN,Brunei Darussalam,2014,Male,28.8
+EUR,Europe,LTU,Lithuania,2014,Both sexes,29
+EUR,Europe,CHE,Switzerland,2014,Male,29
+EUR,Europe,DEU,Germany,2014,Both sexes,29.1
+EUR,Europe,RUS,Russian Federation,2014,Both sexes,29.3
+EUR,Europe,AND,Andorra,2014,Female,29.5
+WPR,Western Pacific,COK,Cook Islands,2014,Both sexes,29.5
+AFR,Africa,GMB,Gambia,2014,Male,29.5
+WPR,Western Pacific,MNG,Mongolia,2014,Both sexes,29.6
+EUR,Europe,ESP,Spain,2014,Both sexes,29.6
+AFR,Africa,KEN,Kenya,2014,Female,3.2
+AMR,Americas,PAN,Panama,2014,Female,3.2
+EMR,Eastern Mediterranean,TUN,Tunisia,2014,Female,3.4
+AMR,Americas,BHS,Bahamas,2014,Female,3.5
+SEAR,South-East Asia,LKA,Sri Lanka,2014,Female,3.5
+SEAR,South-East Asia,THA,Thailand,2014,Female,3.6
+WPR,Western Pacific,VUT,Vanuatu,2014,Female,3.6
+EUR,Europe,KGZ,Kyrgyzstan,2014,Female,3.7
+AFR,Africa,TZA,United Republic of Tanzania,2014,Female,3.7
+AMR,Americas,HTI,Haiti,2014,Female,3.8
+EMR,Eastern Mediterranean,KWT,Kuwait,2014,Female,3.9
+EUR,Europe,ALB,Albania,2014,Both sexes,30.1
+AMR,Americas,CUB,Cuba,2014,Both sexes,30.4
+EUR,Europe,MLT,Malta,2014,Male,30.4
+EUR,Europe,TUR,Turkey,2014,Both sexes,30.4
+EUR,Europe,AUT,Austria,2014,Female,30.5
+EUR,Europe,GEO,Georgia,2014,Both sexes,30.6
+SEAR,South-East Asia,IND,India,2014,Both sexes,30.6
+WPR,Western Pacific,TON,Tonga,2014,Both sexes,30.7
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2014,Male,30.9
+WPR,Western Pacific,WSM,Samoa,2014,Both sexes,31
+EUR,Europe,BIH,Bosnia and Herzegovina,2014,Female,31.1
+AFR,Africa,MDG,Madagascar,2014,Both sexes,31.2
+EUR,Europe,DEU,Germany,2014,Male,31.5
+EMR,Eastern Mediterranean,MAR,Morocco,2014,Male,31.7
+EUR,Europe,SWE,Sweden,2014,Male,31.8
+EUR,Europe,ESP,Spain,2014,Male,32
+EUR,Europe,SVK,Slovakia,2014,Both sexes,32.1
+EUR,Europe,CZE,Czechia,2014,Both sexes,32.2
+AMR,Americas,ARG,Argentina,2014,Male,32.3
+AFR,Africa,COM,Comoros,2014,Male,32.3
+AMR,Americas,USA,United States of America,2014,Male,32.3
+EUR,Europe,EST,Estonia,2014,Both sexes,32.4
+EUR,Europe,HUN,Hungary,2014,Both sexes,32.4
+EUR,Europe,AUT,Austria,2014,Both sexes,32.5
+EUR,Europe,FRA,France,2014,Female,32.5
+AFR,Africa,ZAF,South Africa,2014,Both sexes,32.5
+WPR,Western Pacific,TUV,Tuvalu,2014,Female,32.8
+EUR,Europe,SWE,Sweden,2014,Both sexes,32.9
+EUR,Europe,HRV,Croatia,2014,Female,33.2
+EUR,Europe,POL,Poland,2014,Male,33.2
+EUR,Europe,PRT,Portugal,2014,Male,33.6
+EUR,Europe,SWE,Sweden,2014,Female,33.9
+EUR,Europe,AND,Andorra,2014,Both sexes,34.1
+WPR,Western Pacific,COK,Cook Islands,2014,Male,34.3
+AFR,Africa,SLE,Sierra Leone,2014,Male,34.3
+EUR,Europe,AUT,Austria,2014,Male,34.4
+EUR,Europe,GRC,Greece,2014,Female,34.5
+EMR,Eastern Mediterranean,YEM,Yemen,2014,Male,34.5
+EUR,Europe,FRA,France,2014,Both sexes,34.6
+EUR,Europe,BGR,Bulgaria,2014,Female,36
+EUR,Europe,HRV,Croatia,2014,Both sexes,36.1
+EUR,Europe,ISR,Israel,2014,Male,36.1
+EMR,Eastern Mediterranean,LBN,Lebanon,2014,Female,36.1
+WPR,Western Pacific,JPN,Japan,2014,Male,36.5
+AFR,Africa,SYC,Seychelles,2014,Male,36.6
+EUR,Europe,CZE,Czechia,2014,Male,36.7
+EUR,Europe,FRA,France,2014,Male,36.7
+EUR,Europe,HUN,Hungary,2014,Male,36.9
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2014,Male,36.9
+SEAR,South-East Asia,NPL,Nepal,2014,Both sexes,37
+AFR,Africa,DZA,Algeria,2014,Male,37.3
+AFR,Africa,BWA,Botswana,2014,Male,37.3
+EUR,Europe,LVA,Latvia,2014,Both sexes,37.5
+EUR,Europe,CYP,Cyprus,2014,Both sexes,37.6
+EMR,Eastern Mediterranean,PAK,Pakistan,2014,Male,37.9
+EUR,Europe,ROU,Romania,2014,Male,38.2
+SEAR,South-East Asia,IDN,Indonesia,2014,Both sexes,38.3
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2014,Male,38.5
+EUR,Europe,LTU,Lithuania,2014,Male,38.6
+WPR,Western Pacific,SLB,Solomon Islands,2014,Both sexes,38.6
+EUR,Europe,AND,Andorra,2014,Male,38.7
+EUR,Europe,HRV,Croatia,2014,Male,38.9
+WPR,Western Pacific,PLW,Palau,2014,Male,38.9
+WPR,Western Pacific,KIR,Kiribati,2014,Female,39.2
+EUR,Europe,SVK,Slovakia,2014,Male,39.5
+EUR,Europe,BIH,Bosnia and Herzegovina,2014,Both sexes,39.7
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2014,Female,4
+AFR,Africa,GHA,Ghana,2014,Both sexes,4.1
+EMR,Eastern Mediterranean,IRQ,Iraq,2014,Female,4.3
+AMR,Americas,COL,Colombia,2014,Female,4.6
+AMR,Americas,PER,Peru,2014,Female,4.8
+AFR,Africa,ZMB,Zambia,2014,Female,4.9
+EUR,Europe,EST,Estonia,2014,Male,40.1
+EUR,Europe,SRB,Serbia,2014,Female,41
+SEAR,South-East Asia,BGD,Bangladesh,2014,Both sexes,41.1
+EUR,Europe,BGR,Bulgaria,2014,Both sexes,41.1
+EUR,Europe,GRC,Greece,2014,Both sexes,41.2
+EUR,Europe,SRB,Serbia,2014,Both sexes,41.7
+EMR,Eastern Mediterranean,KWT,Kuwait,2014,Male,41.8
+SEAR,South-East Asia,TLS,Timor-Leste,2014,Both sexes,41.8
+EMR,Eastern Mediterranean,BHR,Bahrain,2014,Male,41.9
+EMR,Eastern Mediterranean,IRQ,Iraq,2014,Male,41.9
+EUR,Europe,AZE,Azerbaijan,2014,Male,42
+AMR,Americas,CHL,Chile,2014,Female,42
+EMR,Eastern Mediterranean,EGY,Egypt,2014,Male,42
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2014,Both sexes,42.2
+EUR,Europe,SRB,Serbia,2014,Male,42.4
+EMR,Eastern Mediterranean,LBN,Lebanon,2014,Both sexes,42.7
+WPR,Western Pacific,KOR,Republic of Korea,2014,Male,42.7
+WPR,Western Pacific,KHM,Cambodia,2014,Male,43.4
+AMR,Americas,CUB,Cuba,2014,Male,43.5
+WPR,Western Pacific,FJI,Fiji,2014,Male,43.7
+EUR,Europe,RUS,Russian Federation,2014,Male,43.7
+SEAR,South-East Asia,LKA,Sri Lanka,2014,Male,43.8
+WPR,Western Pacific,WSM,Samoa,2014,Male,43.9
+EUR,Europe,MDA,Republic of Moldova,2014,Male,44.2
+EUR,Europe,TUR,Turkey,2014,Male,44.2
+WPR,Western Pacific,PHL,Philippines,2014,Male,44.3
+WPR,Western Pacific,MYS,Malaysia,2014,Male,44.9
+EUR,Europe,KAZ,Kazakhstan,2014,Male,45
+EUR,Europe,UKR,Ukraine,2014,Male,45.1
+SEAR,South-East Asia,THA,Thailand,2014,Male,45.5
+SEAR,South-East Asia,IND,India,2014,Male,45.7
+EUR,Europe,BGR,Bulgaria,2014,Male,46.2
+AMR,Americas,CHL,Chile,2014,Both sexes,46.2
+EUR,Europe,BLR,Belarus,2014,Male,46.5
+AFR,Africa,ZAF,South Africa,2014,Male,46.7
+WPR,Western Pacific,VUT,Vanuatu,2014,Male,47.5
+EUR,Europe,GRC,Greece,2014,Male,47.8
+EUR,Europe,BIH,Bosnia and Herzegovina,2014,Male,48.3
+AFR,Africa,MDG,Madagascar,2014,Male,48.7
+SEAR,South-East Asia,MMR,Myanmar,2014,Both sexes,48.8
+WPR,Western Pacific,TON,Tonga,2014,Male,48.8
+WPR,Western Pacific,CHN,China,2014,Male,49
+EMR,Eastern Mediterranean,LBN,Lebanon,2014,Male,49.3
+AFR,Africa,LSO,Lesotho,2014,Male,49.8
+AFR,Africa,MUS,Mauritius,2014,Male,49.9
+AFR,Africa,ETH,Ethiopia,2014,Both sexes,5
+AMR,Americas,JAM,Jamaica,2014,Female,5
+AFR,Africa,NGA,Nigeria,2014,Both sexes,5.2
+AFR,Africa,UGA,Uganda,2014,Female,5.2
+WPR,Western Pacific,SGP,Singapore,2014,Female,5.3
+EUR,Europe,GEO,Georgia,2014,Female,5.4
+AFR,Africa,LSO,Lesotho,2014,Female,5.5
+AFR,Africa,STP,Sao Tome and Principe,2014,Both sexes,5.6
+AMR,Americas,CRI,Costa Rica,2014,Female,5.7
+EUR,Europe,MDA,Republic of Moldova,2014,Female,5.8
+AMR,Americas,CHL,Chile,2014,Male,50.5
+EUR,Europe,LVA,Latvia,2014,Male,51
+WPR,Western Pacific,TUV,Tuvalu,2014,Both sexes,51.4
+EUR,Europe,ALB,Albania,2014,Male,51.7
+WPR,Western Pacific,MNG,Mongolia,2014,Male,52
+EUR,Europe,CYP,Cyprus,2014,Male,52.5
+SEAR,South-East Asia,NPL,Nepal,2014,Male,53.4
+EUR,Europe,KGZ,Kyrgyzstan,2014,Male,53.5
+EMR,Eastern Mediterranean,TUN,Tunisia,2014,Male,53.9
+WPR,Western Pacific,NRU,Nauru,2014,Male,54.6
+EUR,Europe,ARM,Armenia,2014,Male,54.8
+WPR,Western Pacific,KIR,Kiribati,2014,Both sexes,55.2
+WPR,Western Pacific,NRU,Nauru,2014,Both sexes,55.7
+EUR,Europe,GEO,Georgia,2014,Male,55.9
+WPR,Western Pacific,SLB,Solomon Islands,2014,Male,56.1
+WPR,Western Pacific,NRU,Nauru,2014,Female,56.8
+AMR,Americas,PRY,Paraguay,2014,Female,6.1
+WPR,Western Pacific,KOR,Republic of Korea,2014,Female,6.1
+AFR,Africa,MWI,Malawi,2014,Female,6.4
+AFR,Africa,MOZ,Mozambique,2014,Female,6.5
+AFR,Africa,MUS,Mauritius,2014,Female,6.6
+SEAR,South-East Asia,IDN,Indonesia,2014,Female,6.8
+SEAR,South-East Asia,BGD,Bangladesh,2014,Male,61.3
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2014,Male,65.6
+SEAR,South-East Asia,IDN,Indonesia,2014,Male,69.7
+WPR,Western Pacific,MNG,Mongolia,2014,Female,7.1
+AFR,Africa,SYC,Seychelles,2014,Female,7.3
+EUR,Europe,KAZ,Kazakhstan,2014,Female,7.4
+AFR,Africa,BDI,Burundi,2014,Female,7.5
+AMR,Americas,MEX,Mexico,2014,Female,7.5
+AFR,Africa,RWA,Rwanda,2014,Female,7.7
+AFR,Africa,GHA,Ghana,2014,Male,7.8
+WPR,Western Pacific,TUV,Tuvalu,2014,Male,70.1
+WPR,Western Pacific,KIR,Kiribati,2014,Male,71.2
+SEAR,South-East Asia,TLS,Timor-Leste,2014,Male,71.8
+SEAR,South-East Asia,MMR,Myanmar,2014,Male,73.1
+WPR,Western Pacific,PHL,Philippines,2014,Female,8.1
+WPR,Western Pacific,KHM,Cambodia,2014,Female,8.2
+AFR,Africa,ERI,Eritrea,2014,Both sexes,8.2
+AMR,Americas,PAN,Panama,2014,Both sexes,8.3
+AFR,Africa,TGO,Togo,2014,Both sexes,8.3
+AFR,Africa,NER,Niger,2014,Both sexes,8.4
+EUR,Europe,ALB,Albania,2014,Female,8.5
+EMR,Eastern Mediterranean,PAK,Pakistan,2014,Female,8.5
+AFR,Africa,BEN,Benin,2014,Both sexes,8.7
+AMR,Americas,DOM,Dominican Republic,2014,Female,8.8
+AMR,Americas,BRB,Barbados,2014,Both sexes,8.9
+AMR,Americas,HTI,Haiti,2014,Both sexes,8.9
+AFR,Africa,ETH,Ethiopia,2014,Male,9
+EMR,Eastern Mediterranean,BHR,Bahrain,2014,Female,9.2
+AMR,Americas,COL,Colombia,2014,Both sexes,9.3
+AFR,Africa,LBR,Liberia,2014,Both sexes,9.3
+AFR,Africa,CMR,Cameroon,2014,Both sexes,9.4
+AFR,Africa,STP,Sao Tome and Principe,2014,Male,9.4
+AFR,Africa,BFA,Burkina Faso,2014,Female,9.5
+EMR,Eastern Mediterranean,OMN,Oman,2014,Both sexes,9.6
+AFR,Africa,NAM,Namibia,2014,Female,9.7
+AFR,Africa,NGA,Nigeria,2014,Male,9.7
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2013,Female,0
+EUR,Europe,AZE,Azerbaijan,2013,Female,0.2
+AFR,Africa,ERI,Eritrea,2013,Female,0.4
+EMR,Eastern Mediterranean,EGY,Egypt,2013,Female,0.5
+AFR,Africa,GHA,Ghana,2013,Female,0.5
+AFR,Africa,NGA,Nigeria,2013,Female,0.7
+EMR,Eastern Mediterranean,OMN,Oman,2013,Female,0.8
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2013,Female,0.9
+AFR,Africa,SEN,Senegal,2013,Female,1
+AFR,Africa,ETH,Ethiopia,2013,Female,1.1
+EMR,Eastern Mediterranean,MAR,Morocco,2013,Female,1.1
+AFR,Africa,NER,Niger,2013,Female,1.1
+EUR,Europe,UZB,Uzbekistan,2013,Female,1.3
+WPR,Western Pacific,MYS,Malaysia,2013,Female,1.4
+AFR,Africa,CMR,Cameroon,2013,Female,1.5
+AFR,Africa,DZA,Algeria,2013,Female,1.6
+EMR,Eastern Mediterranean,QAT,Qatar,2013,Female,1.6
+AFR,Africa,ZWE,Zimbabwe,2013,Female,1.6
+EUR,Europe,ARM,Armenia,2013,Female,1.8
+AFR,Africa,STP,Sao Tome and Principe,2013,Female,1.8
+AFR,Africa,BFA,Burkina Faso,2013,Female,10.3
+AFR,Africa,SEN,Senegal,2013,Both sexes,10.3
+AFR,Africa,NAM,Namibia,2013,Female,10.4
+EUR,Europe,BLR,Belarus,2013,Female,10.9
+AFR,Africa,SWZ,Eswatini,2013,Both sexes,10.9
+AMR,Americas,BHS,Bahamas,2013,Both sexes,11
+EMR,Eastern Mediterranean,YEM,Yemen,2013,Female,11
+EUR,Europe,UKR,Ukraine,2013,Female,11.2
+AMR,Americas,DOM,Dominican Republic,2013,Both sexes,11.3
+AFR,Africa,SLE,Sierra Leone,2013,Female,11.4
+WPR,Western Pacific,JPN,Japan,2013,Female,11.5
+AMR,Americas,CRI,Costa Rica,2013,Both sexes,11.6
+WPR,Western Pacific,FJI,Fiji,2013,Female,12
+SEAR,South-East Asia,TLS,Timor-Leste,2013,Female,12.1
+AFR,Africa,MLI,Mali,2013,Both sexes,12.2
+AFR,Africa,TCD,Chad,2013,Both sexes,12.5
+AFR,Africa,UGA,Uganda,2013,Both sexes,12.6
+AMR,Americas,JAM,Jamaica,2013,Both sexes,12.7
+WPR,Western Pacific,TON,Tonga,2013,Female,12.7
+WPR,Western Pacific,PLW,Palau,2013,Female,12.8
+AFR,Africa,BWA,Botswana,2013,Female,13.2
+EUR,Europe,UZB,Uzbekistan,2013,Both sexes,13.2
+AFR,Africa,KEN,Kenya,2013,Both sexes,13.3
+AMR,Americas,DOM,Dominican Republic,2013,Male,13.4
+AMR,Americas,PER,Peru,2013,Both sexes,13.5
+AMR,Americas,BRA,Brazil,2013,Female,14.1
+AFR,Africa,COM,Comoros,2013,Female,14.1
+AMR,Americas,PAN,Panama,2013,Male,14.1
+AMR,Americas,SLV,El Salvador,2013,Both sexes,14.2
+AFR,Africa,BDI,Burundi,2013,Both sexes,14.3
+AMR,Americas,HTI,Haiti,2013,Male,14.3
+EMR,Eastern Mediterranean,QAT,Qatar,2013,Both sexes,14.3
+AFR,Africa,COG,Congo,2013,Both sexes,14.4
+AFR,Africa,CIV,Côte d’Ivoire,2013,Both sexes,14.4
+AMR,Americas,COL,Colombia,2013,Male,14.5
+AFR,Africa,MDG,Madagascar,2013,Female,14.6
+AFR,Africa,TGO,Togo,2013,Male,14.8
+EUR,Europe,RUS,Russian Federation,2013,Female,14.9
+AFR,Africa,RWA,Rwanda,2013,Both sexes,14.9
+AFR,Africa,ZWE,Zimbabwe,2013,Both sexes,14.9
+AMR,Americas,GUY,Guyana,2013,Both sexes,15
+AFR,Africa,NER,Niger,2013,Male,15.4
+AFR,Africa,BEN,Benin,2013,Male,15.5
+AFR,Africa,MWI,Malawi,2013,Both sexes,15.5
+AFR,Africa,TZA,United Republic of Tanzania,2013,Both sexes,15.5
+AMR,Americas,BRB,Barbados,2013,Male,15.6
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2013,Both sexes,15.7
+WPR,Western Pacific,BRN,Brunei Darussalam,2013,Both sexes,15.9
+AFR,Africa,ZMB,Zambia,2013,Both sexes,15.9
+AMR,Americas,CAN,Canada,2013,Female,16
+WPR,Western Pacific,AUS,Australia,2013,Female,16.1
+AFR,Africa,GMB,Gambia,2013,Both sexes,16.1
+AMR,Americas,MEX,Mexico,2013,Both sexes,16.1
+AMR,Americas,PRY,Paraguay,2013,Both sexes,16.1
+SEAR,South-East Asia,IND,India,2013,Female,16.3
+WPR,Western Pacific,SGP,Singapore,2013,Both sexes,16.4
+AFR,Africa,ERI,Eritrea,2013,Male,16.5
+EUR,Europe,TUR,Turkey,2013,Female,16.5
+EUR,Europe,ISL,Iceland,2013,Female,16.6
+AFR,Africa,LBR,Liberia,2013,Male,16.6
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2013,Both sexes,16.7
+EMR,Eastern Mediterranean,MAR,Morocco,2013,Both sexes,16.8
+WPR,Western Pacific,NZL,New Zealand,2013,Female,16.8
+AMR,Americas,CRI,Costa Rica,2013,Male,17.1
+EUR,Europe,ISL,Iceland,2013,Both sexes,17.1
+AFR,Africa,MOZ,Mozambique,2013,Both sexes,17.2
+AFR,Africa,CMR,Cameroon,2013,Male,17.5
+EUR,Europe,ISR,Israel,2013,Female,17.5
+EUR,Europe,ISL,Iceland,2013,Male,17.6
+WPR,Western Pacific,NZL,New Zealand,2013,Both sexes,17.9
+AMR,Americas,CUB,Cuba,2013,Female,18.2
+EMR,Eastern Mediterranean,OMN,Oman,2013,Male,18.3
+AMR,Americas,BHS,Bahamas,2013,Male,18.4
+WPR,Western Pacific,AUS,Australia,2013,Both sexes,18.6
+AFR,Africa,BFA,Burkina Faso,2013,Both sexes,18.6
+WPR,Western Pacific,WSM,Samoa,2013,Female,18.6
+AFR,Africa,ZAF,South Africa,2013,Female,18.9
+AFR,Africa,SWZ,Eswatini,2013,Male,19
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2013,Both sexes,19
+WPR,Western Pacific,NZL,New Zealand,2013,Male,19.1
+EUR,Europe,ROU,Romania,2013,Female,19.1
+AFR,Africa,NAM,Namibia,2013,Both sexes,19.2
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2013,Both sexes,19.4
+AFR,Africa,DZA,Algeria,2013,Both sexes,19.5
+EUR,Europe,LTU,Lithuania,2013,Female,19.5
+AFR,Africa,SEN,Senegal,2013,Male,19.6
+AMR,Americas,ARG,Argentina,2013,Female,19.7
+EUR,Europe,ITA,Italy,2013,Female,19.7
+AFR,Africa,UGA,Uganda,2013,Male,19.7
+EUR,Europe,FIN,Finland,2013,Female,19.8
+AMR,Americas,BRA,Brazil,2013,Both sexes,19.9
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2013,Female,19.9
+AFR,Africa,GMB,Gambia,2013,Female,2
+AFR,Africa,MLI,Mali,2013,Female,2
+WPR,Western Pacific,CHN,China,2013,Female,2.1
+AFR,Africa,CIV,Côte d’Ivoire,2013,Female,2.2
+AFR,Africa,TGO,Togo,2013,Female,2.2
+AMR,Americas,BRB,Barbados,2013,Female,2.4
+AFR,Africa,COG,Congo,2013,Female,2.4
+AFR,Africa,LBR,Liberia,2013,Female,2.5
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2013,Female,2.5
+AFR,Africa,BEN,Benin,2013,Female,2.6
+AMR,Americas,GUY,Guyana,2013,Female,2.8
+AFR,Africa,SWZ,Eswatini,2013,Female,2.9
+EUR,Europe,PRT,Portugal,2013,Female,20.1
+AMR,Americas,JAM,Jamaica,2013,Male,20.3
+AMR,Americas,USA,United States of America,2013,Female,20.8
+AFR,Africa,BDI,Burundi,2013,Male,20.9
+EUR,Europe,SVN,Slovenia,2013,Female,21
+EMR,Eastern Mediterranean,EGY,Egypt,2013,Both sexes,21.1
+EUR,Europe,LUX,Luxembourg,2013,Female,21.1
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,Female,21.1
+WPR,Western Pacific,AUS,Australia,2013,Male,21.2
+WPR,Western Pacific,SLB,Solomon Islands,2013,Female,21.4
+EUR,Europe,AZE,Azerbaijan,2013,Both sexes,21.5
+SEAR,South-East Asia,BGD,Bangladesh,2013,Female,21.8
+AMR,Americas,CAN,Canada,2013,Both sexes,21.8
+EUR,Europe,DNK,Denmark,2013,Female,21.8
+AMR,Americas,PER,Peru,2013,Male,21.8
+AFR,Africa,RWA,Rwanda,2013,Male,21.8
+AMR,Americas,URY,Uruguay,2013,Female,21.8
+EUR,Europe,FIN,Finland,2013,Both sexes,21.9
+AFR,Africa,TCD,Chad,2013,Male,22
+AFR,Africa,SYC,Seychelles,2013,Both sexes,22.1
+SEAR,South-East Asia,NPL,Nepal,2013,Female,22.2
+AFR,Africa,MLI,Mali,2013,Male,22.3
+EUR,Europe,DNK,Denmark,2013,Both sexes,22.4
+EUR,Europe,NOR,Norway,2013,Female,22.5
+EUR,Europe,CYP,Cyprus,2013,Female,22.7
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,Both sexes,22.8
+EUR,Europe,CHE,Switzerland,2013,Female,22.9
+EUR,Europe,DNK,Denmark,2013,Male,23
+EMR,Eastern Mediterranean,KWT,Kuwait,2013,Both sexes,23
+EMR,Eastern Mediterranean,YEM,Yemen,2013,Both sexes,23
+EUR,Europe,NOR,Norway,2013,Both sexes,23.2
+AFR,Africa,KEN,Kenya,2013,Male,23.3
+EUR,Europe,NLD,Netherlands,2013,Female,23.3
+AFR,Africa,SLE,Sierra Leone,2013,Both sexes,23.3
+EUR,Europe,SVN,Slovenia,2013,Both sexes,23.3
+AFR,Africa,COM,Comoros,2013,Both sexes,23.4
+WPR,Western Pacific,MYS,Malaysia,2013,Both sexes,23.4
+EUR,Europe,MLT,Malta,2013,Female,23.4
+EMR,Eastern Mediterranean,IRQ,Iraq,2013,Both sexes,23.5
+EUR,Europe,BEL,Belgium,2013,Female,23.7
+EUR,Europe,LUX,Luxembourg,2013,Both sexes,23.7
+SEAR,South-East Asia,LKA,Sri Lanka,2013,Both sexes,23.9
+EUR,Europe,LVA,Latvia,2013,Female,24
+EUR,Europe,NOR,Norway,2013,Male,24
+EUR,Europe,FIN,Finland,2013,Male,24.1
+EUR,Europe,ITA,Italy,2013,Both sexes,24.2
+EMR,Eastern Mediterranean,PAK,Pakistan,2013,Both sexes,24.2
+EUR,Europe,SVK,Slovakia,2013,Female,24.2
+AFR,Africa,MWI,Malawi,2013,Male,24.3
+WPR,Western Pacific,JPN,Japan,2013,Both sexes,24.5
+AMR,Americas,MEX,Mexico,2013,Male,24.5
+EUR,Europe,IRL,Ireland,2013,Female,24.6
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,Male,24.6
+EUR,Europe,POL,Poland,2013,Female,24.7
+EUR,Europe,EST,Estonia,2013,Female,24.8
+WPR,Western Pacific,KOR,Republic of Korea,2013,Both sexes,25
+EUR,Europe,MDA,Republic of Moldova,2013,Both sexes,25
+SEAR,South-East Asia,THA,Thailand,2013,Both sexes,25
+EUR,Europe,UZB,Uzbekistan,2013,Male,25
+AFR,Africa,BWA,Botswana,2013,Both sexes,25.2
+AMR,Americas,SLV,El Salvador,2013,Male,25.3
+EMR,Eastern Mediterranean,BHR,Bahrain,2013,Both sexes,25.5
+SEAR,South-East Asia,MMR,Myanmar,2013,Female,25.5
+EUR,Europe,SVN,Slovenia,2013,Male,25.5
+WPR,Western Pacific,COK,Cook Islands,2013,Female,25.6
+EUR,Europe,NLD,Netherlands,2013,Both sexes,25.6
+AMR,Americas,PRY,Paraguay,2013,Male,25.6
+AMR,Americas,URY,Uruguay,2013,Both sexes,25.6
+AMR,Americas,BRA,Brazil,2013,Male,25.7
+WPR,Western Pacific,CHN,China,2013,Both sexes,25.9
+WPR,Western Pacific,VUT,Vanuatu,2013,Both sexes,25.9
+EUR,Europe,CHE,Switzerland,2013,Both sexes,26.1
+WPR,Western Pacific,PLW,Palau,2013,Both sexes,26.2
+EUR,Europe,BEL,Belgium,2013,Both sexes,26.3
+EUR,Europe,LUX,Luxembourg,2013,Male,26.3
+AFR,Africa,COG,Congo,2013,Male,26.4
+EUR,Europe,IRL,Ireland,2013,Both sexes,26.4
+EUR,Europe,KAZ,Kazakhstan,2013,Both sexes,26.5
+AMR,Americas,ARG,Argentina,2013,Both sexes,26.6
+AFR,Africa,CIV,Côte d’Ivoire,2013,Male,26.6
+AFR,Africa,ZMB,Zambia,2013,Male,26.7
+AMR,Americas,USA,United States of America,2013,Both sexes,26.8
+AFR,Africa,BFA,Burkina Faso,2013,Male,26.9
+EUR,Europe,ISR,Israel,2013,Both sexes,26.9
+WPR,Western Pacific,PHL,Philippines,2013,Both sexes,26.9
+EUR,Europe,PRT,Portugal,2013,Both sexes,26.9
+WPR,Western Pacific,KHM,Cambodia,2013,Both sexes,27
+EMR,Eastern Mediterranean,QAT,Qatar,2013,Male,27
+EUR,Europe,DEU,Germany,2013,Female,27.1
+AFR,Africa,TZA,United Republic of Tanzania,2013,Male,27.1
+AMR,Americas,GUY,Guyana,2013,Male,27.2
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2013,Male,27.2
+AFR,Africa,LSO,Lesotho,2013,Both sexes,27.2
+EUR,Europe,MLT,Malta,2013,Both sexes,27.3
+EUR,Europe,ESP,Spain,2013,Female,27.3
+AMR,Americas,CAN,Canada,2013,Male,27.5
+WPR,Western Pacific,SGP,Singapore,2013,Male,27.5
+AFR,Africa,MOZ,Mozambique,2013,Male,27.6
+EUR,Europe,CZE,Czechia,2013,Female,27.8
+EUR,Europe,NLD,Netherlands,2013,Male,27.9
+AFR,Africa,NAM,Namibia,2013,Male,28
+WPR,Western Pacific,FJI,Fiji,2013,Both sexes,28.1
+EUR,Europe,IRL,Ireland,2013,Male,28.2
+EUR,Europe,HUN,Hungary,2013,Female,28.3
+AFR,Africa,ZWE,Zimbabwe,2013,Male,28.3
+WPR,Western Pacific,BRN,Brunei Darussalam,2013,Male,28.7
+EUR,Europe,ITA,Italy,2013,Male,28.7
+AFR,Africa,MUS,Mauritius,2013,Both sexes,28.7
+EUR,Europe,UKR,Ukraine,2013,Both sexes,28.7
+EUR,Europe,KGZ,Kyrgyzstan,2013,Both sexes,28.8
+EUR,Europe,ARM,Armenia,2013,Both sexes,28.9
+EUR,Europe,BEL,Belgium,2013,Male,28.9
+EUR,Europe,BLR,Belarus,2013,Both sexes,29.1
+EUR,Europe,ROU,Romania,2013,Both sexes,29.1
+EUR,Europe,CHE,Switzerland,2013,Male,29.2
+EMR,Eastern Mediterranean,TUN,Tunisia,2013,Both sexes,29.2
+EUR,Europe,POL,Poland,2013,Both sexes,29.3
+EUR,Europe,LTU,Lithuania,2013,Both sexes,29.4
+AMR,Americas,URY,Uruguay,2013,Male,29.4
+EUR,Europe,AND,Andorra,2013,Female,29.5
+EUR,Europe,DEU,Germany,2013,Both sexes,29.5
+EUR,Europe,RUS,Russian Federation,2013,Both sexes,29.6
+WPR,Western Pacific,BRN,Brunei Darussalam,2013,Female,3
+AMR,Americas,SLV,El Salvador,2013,Female,3
+AFR,Africa,TCD,Chad,2013,Female,3.1
+AFR,Africa,KEN,Kenya,2013,Female,3.3
+AMR,Americas,PAN,Panama,2013,Female,3.4
+EMR,Eastern Mediterranean,TUN,Tunisia,2013,Female,3.5
+AMR,Americas,BHS,Bahamas,2013,Female,3.6
+SEAR,South-East Asia,LKA,Sri Lanka,2013,Female,3.7
+SEAR,South-East Asia,THA,Thailand,2013,Female,3.7
+WPR,Western Pacific,VUT,Vanuatu,2013,Female,3.7
+EUR,Europe,KGZ,Kyrgyzstan,2013,Female,3.8
+AFR,Africa,TZA,United Republic of Tanzania,2013,Female,3.8
+AMR,Americas,HTI,Haiti,2013,Female,3.9
+AFR,Africa,GMB,Gambia,2013,Male,30.1
+WPR,Western Pacific,MNG,Mongolia,2013,Both sexes,30.1
+EUR,Europe,ESP,Spain,2013,Both sexes,30.1
+EUR,Europe,ALB,Albania,2013,Both sexes,30.3
+WPR,Western Pacific,COK,Cook Islands,2013,Both sexes,30.3
+EUR,Europe,GEO,Georgia,2013,Both sexes,30.7
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2013,Male,30.8
+WPR,Western Pacific,TON,Tonga,2013,Both sexes,30.8
+EUR,Europe,TUR,Turkey,2013,Both sexes,30.8
+EUR,Europe,MLT,Malta,2013,Male,31.1
+EUR,Europe,AUT,Austria,2013,Female,31.2
+AMR,Americas,CUB,Cuba,2013,Both sexes,31.4
+EUR,Europe,BIH,Bosnia and Herzegovina,2013,Female,31.5
+SEAR,South-East Asia,IND,India,2013,Both sexes,31.5
+WPR,Western Pacific,WSM,Samoa,2013,Both sexes,31.6
+EUR,Europe,DEU,Germany,2013,Male,31.9
+AFR,Africa,MDG,Madagascar,2013,Both sexes,32
+EUR,Europe,SVK,Slovakia,2013,Both sexes,32
+EUR,Europe,CZE,Czechia,2013,Both sexes,32.4
+EUR,Europe,FRA,France,2013,Female,32.5
+EMR,Eastern Mediterranean,MAR,Morocco,2013,Male,32.5
+AFR,Africa,COM,Comoros,2013,Male,32.7
+AMR,Americas,USA,United States of America,2013,Male,32.7
+AFR,Africa,ZAF,South Africa,2013,Both sexes,32.8
+EUR,Europe,HRV,Croatia,2013,Female,32.9
+EUR,Europe,EST,Estonia,2013,Both sexes,32.9
+EUR,Europe,HUN,Hungary,2013,Both sexes,32.9
+EUR,Europe,ESP,Spain,2013,Male,32.9
+EUR,Europe,SWE,Sweden,2013,Male,32.9
+EUR,Europe,AUT,Austria,2013,Both sexes,33.2
+WPR,Western Pacific,TUV,Tuvalu,2013,Female,33.2
+AMR,Americas,ARG,Argentina,2013,Male,33.5
+EUR,Europe,PRT,Portugal,2013,Male,33.8
+EUR,Europe,POL,Poland,2013,Male,34
+EUR,Europe,SWE,Sweden,2013,Both sexes,34.1
+EUR,Europe,AND,Andorra,2013,Both sexes,34.3
+EUR,Europe,FRA,France,2013,Both sexes,34.5
+WPR,Western Pacific,COK,Cook Islands,2013,Male,35.1
+EUR,Europe,GRC,Greece,2013,Female,35.1
+EMR,Eastern Mediterranean,YEM,Yemen,2013,Male,35.1
+EUR,Europe,AUT,Austria,2013,Male,35.2
+AFR,Africa,SLE,Sierra Leone,2013,Male,35.2
+EUR,Europe,SWE,Sweden,2013,Female,35.2
+EUR,Europe,HRV,Croatia,2013,Both sexes,35.9
+EUR,Europe,BGR,Bulgaria,2013,Female,36.2
+EUR,Europe,ISR,Israel,2013,Male,36.2
+EMR,Eastern Mediterranean,LBN,Lebanon,2013,Female,36.4
+EUR,Europe,FRA,France,2013,Male,36.5
+EUR,Europe,CZE,Czechia,2013,Male,36.9
+AFR,Africa,SYC,Seychelles,2013,Male,36.9
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2013,Male,37
+AFR,Africa,BWA,Botswana,2013,Male,37.2
+AFR,Africa,DZA,Algeria,2013,Male,37.4
+EUR,Europe,HUN,Hungary,2013,Male,37.5
+WPR,Western Pacific,JPN,Japan,2013,Male,37.5
+EUR,Europe,LVA,Latvia,2013,Both sexes,37.7
+EUR,Europe,CYP,Cyprus,2013,Both sexes,38
+SEAR,South-East Asia,IDN,Indonesia,2013,Both sexes,38.3
+SEAR,South-East Asia,NPL,Nepal,2013,Both sexes,38.4
+WPR,Western Pacific,SLB,Solomon Islands,2013,Both sexes,38.8
+EUR,Europe,HRV,Croatia,2013,Male,38.9
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2013,Male,38.9
+EUR,Europe,AND,Andorra,2013,Male,39
+EMR,Eastern Mediterranean,PAK,Pakistan,2013,Male,39.2
+EUR,Europe,ROU,Romania,2013,Male,39.2
+EUR,Europe,LTU,Lithuania,2013,Male,39.3
+WPR,Western Pacific,PLW,Palau,2013,Male,39.6
+EUR,Europe,SVK,Slovakia,2013,Male,39.8
+EMR,Eastern Mediterranean,KWT,Kuwait,2013,Female,4.1
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2013,Female,4.2
+AFR,Africa,GHA,Ghana,2013,Both sexes,4.3
+EMR,Eastern Mediterranean,IRQ,Iraq,2013,Female,4.5
+AMR,Americas,COL,Colombia,2013,Female,4.9
+WPR,Western Pacific,KIR,Kiribati,2013,Female,40
+EUR,Europe,BIH,Bosnia and Herzegovina,2013,Both sexes,40.3
+EUR,Europe,SRB,Serbia,2013,Female,40.7
+EUR,Europe,EST,Estonia,2013,Male,41.1
+EUR,Europe,BGR,Bulgaria,2013,Both sexes,41.4
+EMR,Eastern Mediterranean,BHR,Bahrain,2013,Male,41.7
+SEAR,South-East Asia,BGD,Bangladesh,2013,Both sexes,41.7
+EMR,Eastern Mediterranean,EGY,Egypt,2013,Male,41.8
+EUR,Europe,GRC,Greece,2013,Both sexes,41.8
+EUR,Europe,SRB,Serbia,2013,Both sexes,41.9
+EMR,Eastern Mediterranean,KWT,Kuwait,2013,Male,42
+AMR,Americas,CHL,Chile,2013,Female,42.5
+EMR,Eastern Mediterranean,IRQ,Iraq,2013,Male,42.5
+SEAR,South-East Asia,TLS,Timor-Leste,2013,Both sexes,42.6
+EUR,Europe,AZE,Azerbaijan,2013,Male,42.7
+EMR,Eastern Mediterranean,LBN,Lebanon,2013,Both sexes,42.7
+EUR,Europe,SRB,Serbia,2013,Male,43
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2013,Both sexes,43.2
+WPR,Western Pacific,KOR,Republic of Korea,2013,Male,44
+SEAR,South-East Asia,LKA,Sri Lanka,2013,Male,44.1
+WPR,Western Pacific,FJI,Fiji,2013,Male,44.2
+EUR,Europe,MDA,Republic of Moldova,2013,Male,44.2
+EUR,Europe,RUS,Russian Federation,2013,Male,44.4
+AMR,Americas,CUB,Cuba,2013,Male,44.5
+WPR,Western Pacific,WSM,Samoa,2013,Male,44.6
+EUR,Europe,TUR,Turkey,2013,Male,45.1
+WPR,Western Pacific,KHM,Cambodia,2013,Male,45.2
+WPR,Western Pacific,MYS,Malaysia,2013,Male,45.4
+WPR,Western Pacific,PHL,Philippines,2013,Male,45.4
+EUR,Europe,KAZ,Kazakhstan,2013,Male,45.5
+EUR,Europe,UKR,Ukraine,2013,Male,46.1
+SEAR,South-East Asia,THA,Thailand,2013,Male,46.2
+EUR,Europe,BGR,Bulgaria,2013,Male,46.7
+SEAR,South-East Asia,IND,India,2013,Male,46.7
+AMR,Americas,CHL,Chile,2013,Both sexes,46.8
+AFR,Africa,ZAF,South Africa,2013,Male,46.8
+EUR,Europe,BLR,Belarus,2013,Male,47.4
+WPR,Western Pacific,VUT,Vanuatu,2013,Male,48.2
+EUR,Europe,GRC,Greece,2013,Male,48.6
+AFR,Africa,LSO,Lesotho,2013,Male,48.6
+WPR,Western Pacific,TON,Tonga,2013,Male,48.9
+EUR,Europe,BIH,Bosnia and Herzegovina,2013,Male,49.1
+EMR,Eastern Mediterranean,LBN,Lebanon,2013,Male,49.1
+AFR,Africa,MDG,Madagascar,2013,Male,49.3
+WPR,Western Pacific,CHN,China,2013,Male,49.6
+SEAR,South-East Asia,MMR,Myanmar,2013,Both sexes,49.6
+AFR,Africa,ETH,Ethiopia,2013,Both sexes,5.1
+AFR,Africa,ZMB,Zambia,2013,Female,5.1
+AMR,Americas,JAM,Jamaica,2013,Female,5.2
+AMR,Americas,PER,Peru,2013,Female,5.2
+AFR,Africa,NGA,Nigeria,2013,Both sexes,5.3
+WPR,Western Pacific,SGP,Singapore,2013,Female,5.3
+EUR,Europe,GEO,Georgia,2013,Female,5.4
+AFR,Africa,STP,Sao Tome and Principe,2013,Both sexes,5.6
+AFR,Africa,UGA,Uganda,2013,Female,5.6
+AFR,Africa,LSO,Lesotho,2013,Female,5.7
+EUR,Europe,MDA,Republic of Moldova,2013,Female,5.8
+AFR,Africa,MUS,Mauritius,2013,Male,50.5
+AMR,Americas,CHL,Chile,2013,Male,51
+EUR,Europe,LVA,Latvia,2013,Male,51.3
+EUR,Europe,ALB,Albania,2013,Male,52
+WPR,Western Pacific,TUV,Tuvalu,2013,Both sexes,52.3
+WPR,Western Pacific,MNG,Mongolia,2013,Male,52.8
+EUR,Europe,CYP,Cyprus,2013,Male,53.2
+EUR,Europe,KGZ,Kyrgyzstan,2013,Male,53.8
+SEAR,South-East Asia,NPL,Nepal,2013,Male,54.6
+EMR,Eastern Mediterranean,TUN,Tunisia,2013,Male,54.9
+WPR,Western Pacific,NRU,Nauru,2013,Male,55.2
+EUR,Europe,ARM,Armenia,2013,Male,55.9
+EUR,Europe,GEO,Georgia,2013,Male,56
+WPR,Western Pacific,KIR,Kiribati,2013,Both sexes,56
+WPR,Western Pacific,SLB,Solomon Islands,2013,Male,56.2
+WPR,Western Pacific,NRU,Nauru,2013,Both sexes,56.5
+WPR,Western Pacific,NRU,Nauru,2013,Female,57.9
+AMR,Americas,CRI,Costa Rica,2013,Female,6
+WPR,Western Pacific,KOR,Republic of Korea,2013,Female,6.1
+AMR,Americas,PRY,Paraguay,2013,Female,6.5
+AFR,Africa,MWI,Malawi,2013,Female,6.8
+AFR,Africa,MOZ,Mozambique,2013,Female,6.8
+SEAR,South-East Asia,BGD,Bangladesh,2013,Male,61.6
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2013,Male,66.6
+SEAR,South-East Asia,IDN,Indonesia,2013,Male,69.3
+AFR,Africa,MUS,Mauritius,2013,Female,7
+SEAR,South-East Asia,IDN,Indonesia,2013,Female,7.3
+AFR,Africa,SYC,Seychelles,2013,Female,7.3
+WPR,Western Pacific,MNG,Mongolia,2013,Female,7.4
+EUR,Europe,KAZ,Kazakhstan,2013,Female,7.5
+AFR,Africa,BDI,Burundi,2013,Female,7.8
+AMR,Americas,MEX,Mexico,2013,Female,7.8
+WPR,Western Pacific,TUV,Tuvalu,2013,Male,71.4
+WPR,Western Pacific,KIR,Kiribati,2013,Male,71.9
+SEAR,South-East Asia,TLS,Timor-Leste,2013,Male,73.1
+SEAR,South-East Asia,MMR,Myanmar,2013,Male,73.7
+AFR,Africa,GHA,Ghana,2013,Male,8
+AFR,Africa,RWA,Rwanda,2013,Female,8
+AFR,Africa,NER,Niger,2013,Both sexes,8.2
+WPR,Western Pacific,PHL,Philippines,2013,Female,8.3
+AFR,Africa,ERI,Eritrea,2013,Both sexes,8.5
+AFR,Africa,TGO,Togo,2013,Both sexes,8.5
+EUR,Europe,ALB,Albania,2013,Female,8.6
+WPR,Western Pacific,KHM,Cambodia,2013,Female,8.7
+AMR,Americas,PAN,Panama,2013,Both sexes,8.8
+AMR,Americas,BRB,Barbados,2013,Both sexes,9
+AFR,Africa,BEN,Benin,2013,Both sexes,9.1
+AMR,Americas,HTI,Haiti,2013,Both sexes,9.1
+AMR,Americas,DOM,Dominican Republic,2013,Female,9.2
+AFR,Africa,ETH,Ethiopia,2013,Male,9.2
+EMR,Eastern Mediterranean,PAK,Pakistan,2013,Female,9.2
+EMR,Eastern Mediterranean,BHR,Bahrain,2013,Female,9.3
+AFR,Africa,STP,Sao Tome and Principe,2013,Male,9.4
+AFR,Africa,CMR,Cameroon,2013,Both sexes,9.5
+AFR,Africa,LBR,Liberia,2013,Both sexes,9.6
+EMR,Eastern Mediterranean,OMN,Oman,2013,Both sexes,9.6
+AMR,Americas,COL,Colombia,2013,Both sexes,9.7
+AFR,Africa,NGA,Nigeria,2013,Male,9.9
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2010,Female,0
+EUR,Europe,AZE,Azerbaijan,2010,Female,0.2
+AFR,Africa,ERI,Eritrea,2010,Female,0.5
+EMR,Eastern Mediterranean,EGY,Egypt,2010,Female,0.6
+AFR,Africa,GHA,Ghana,2010,Female,0.6
+AFR,Africa,NGA,Nigeria,2010,Female,0.9
+EMR,Eastern Mediterranean,OMN,Oman,2010,Female,0.9
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2010,Female,1
+AFR,Africa,ETH,Ethiopia,2010,Female,1.1
+AFR,Africa,SEN,Senegal,2010,Female,1.2
+EMR,Eastern Mediterranean,MAR,Morocco,2010,Female,1.3
+AFR,Africa,NER,Niger,2010,Female,1.3
+EUR,Europe,UZB,Uzbekistan,2010,Female,1.3
+AFR,Africa,CMR,Cameroon,2010,Female,1.7
+WPR,Western Pacific,MYS,Malaysia,2010,Female,1.7
+EMR,Eastern Mediterranean,QAT,Qatar,2010,Female,1.7
+AFR,Africa,DZA,Algeria,2010,Female,1.8
+EUR,Europe,ARM,Armenia,2010,Female,1.9
+AFR,Africa,ZWE,Zimbabwe,2010,Female,1.9
+AMR,Americas,PAN,Panama,2010,Both sexes,10.1
+AFR,Africa,BEN,Benin,2010,Both sexes,10.4
+AFR,Africa,LBR,Liberia,2010,Both sexes,10.4
+AMR,Americas,DOM,Dominican Republic,2010,Female,10.5
+AFR,Africa,NGA,Nigeria,2010,Male,10.5
+WPR,Western Pacific,KHM,Cambodia,2010,Female,10.7
+AMR,Americas,COL,Colombia,2010,Both sexes,11
+AMR,Americas,BHS,Bahamas,2010,Both sexes,11.1
+AFR,Africa,SWZ,Eswatini,2010,Both sexes,11.1
+EUR,Europe,BLR,Belarus,2010,Female,11.2
+AFR,Africa,SEN,Senegal,2010,Both sexes,11.2
+EMR,Eastern Mediterranean,PAK,Pakistan,2010,Female,11.4
+EUR,Europe,UKR,Ukraine,2010,Female,12.1
+WPR,Western Pacific,JPN,Japan,2010,Female,12.2
+EMR,Eastern Mediterranean,YEM,Yemen,2010,Female,12.2
+AFR,Africa,MLI,Mali,2010,Both sexes,12.3
+WPR,Western Pacific,FJI,Fiji,2010,Female,12.5
+AMR,Americas,DOM,Dominican Republic,2010,Both sexes,12.6
+AFR,Africa,BFA,Burkina Faso,2010,Female,12.7
+AMR,Americas,CRI,Costa Rica,2010,Both sexes,12.8
+AFR,Africa,NAM,Namibia,2010,Female,12.8
+AFR,Africa,TCD,Chad,2010,Both sexes,13
+SEAR,South-East Asia,TLS,Timor-Leste,2010,Female,13.1
+WPR,Western Pacific,TON,Tonga,2010,Female,13.1
+AFR,Africa,COG,Congo,2010,Both sexes,13.5
+AFR,Africa,SLE,Sierra Leone,2010,Female,13.5
+EUR,Europe,UZB,Uzbekistan,2010,Both sexes,13.8
+WPR,Western Pacific,PLW,Palau,2010,Female,13.9
+AMR,Americas,JAM,Jamaica,2010,Both sexes,14
+EUR,Europe,RUS,Russian Federation,2010,Female,14.3
+AFR,Africa,KEN,Kenya,2010,Both sexes,14.4
+EMR,Eastern Mediterranean,QAT,Qatar,2010,Both sexes,14.5
+AMR,Americas,DOM,Dominican Republic,2010,Male,14.8
+AFR,Africa,UGA,Uganda,2010,Both sexes,14.8
+AFR,Africa,NER,Niger,2010,Male,15
+AMR,Americas,SLV,El Salvador,2010,Both sexes,15.1
+AMR,Americas,HTI,Haiti,2010,Male,15.1
+AFR,Africa,BWA,Botswana,2010,Female,15.5
+AFR,Africa,BDI,Burundi,2010,Both sexes,15.5
+AFR,Africa,CIV,Côte d’Ivoire,2010,Both sexes,15.6
+AFR,Africa,TGO,Togo,2010,Male,15.6
+AFR,Africa,ZWE,Zimbabwe,2010,Both sexes,15.6
+AMR,Americas,BRA,Brazil,2010,Female,15.9
+AFR,Africa,RWA,Rwanda,2010,Both sexes,15.9
+AMR,Americas,BRB,Barbados,2010,Male,16.1
+WPR,Western Pacific,BRN,Brunei Darussalam,2010,Both sexes,16.1
+AMR,Americas,COL,Colombia,2010,Male,16.2
+AMR,Americas,PAN,Panama,2010,Male,16.4
+EUR,Europe,TUR,Turkey,2010,Female,16.4
+WPR,Western Pacific,SGP,Singapore,2010,Both sexes,16.5
+AMR,Americas,PER,Peru,2010,Both sexes,16.6
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2010,Both sexes,16.6
+AFR,Africa,ZMB,Zambia,2010,Both sexes,16.7
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2010,Both sexes,16.8
+AFR,Africa,TZA,United Republic of Tanzania,2010,Both sexes,17
+AFR,Africa,GMB,Gambia,2010,Both sexes,17.1
+AMR,Americas,GUY,Guyana,2010,Both sexes,17.1
+AFR,Africa,MDG,Madagascar,2010,Female,17.4
+AFR,Africa,MWI,Malawi,2010,Both sexes,17.4
+AFR,Africa,CMR,Cameroon,2010,Male,17.5
+AFR,Africa,BEN,Benin,2010,Male,17.6
+AFR,Africa,LBR,Liberia,2010,Male,17.7
+AMR,Americas,MEX,Mexico,2010,Both sexes,17.7
+WPR,Western Pacific,AUS,Australia,2010,Female,17.9
+AFR,Africa,ERI,Eritrea,2010,Male,18
+EMR,Eastern Mediterranean,MAR,Morocco,2010,Both sexes,18
+EMR,Eastern Mediterranean,OMN,Oman,2010,Male,18.2
+AFR,Africa,COM,Comoros,2010,Female,18.3
+AMR,Americas,BHS,Bahamas,2010,Male,18.4
+AMR,Americas,CAN,Canada,2010,Female,18.5
+AMR,Americas,PRY,Paraguay,2010,Both sexes,18.5
+EUR,Europe,ISL,Iceland,2010,Female,18.6
+EUR,Europe,ISR,Israel,2010,Female,18.7
+EUR,Europe,PRT,Portugal,2010,Female,18.7
+AFR,Africa,SWZ,Eswatini,2010,Male,18.9
+AMR,Americas,CRI,Costa Rica,2010,Male,19
+WPR,Western Pacific,NZL,New Zealand,2010,Female,19
+AFR,Africa,MOZ,Mozambique,2010,Both sexes,19.2
+EUR,Europe,ISL,Iceland,2010,Both sexes,19.4
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2010,Both sexes,19.4
+SEAR,South-East Asia,IND,India,2010,Female,19.7
+WPR,Western Pacific,WSM,Samoa,2010,Female,19.7
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2010,Both sexes,19.8
+EUR,Europe,ITA,Italy,2010,Female,19.8
+EUR,Europe,LTU,Lithuania,2010,Female,19.9
+AFR,Africa,STP,Sao Tome and Principe,2010,Female,2.1
+WPR,Western Pacific,CHN,China,2010,Female,2.3
+AFR,Africa,MLI,Mali,2010,Female,2.3
+AFR,Africa,GMB,Gambia,2010,Female,2.4
+AMR,Americas,BRB,Barbados,2010,Female,2.6
+AFR,Africa,COG,Congo,2010,Female,2.7
+AFR,Africa,CIV,Côte d’Ivoire,2010,Female,2.7
+AFR,Africa,TGO,Togo,2010,Female,2.7
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2010,Female,2.9
+AFR,Africa,DZA,Algeria,2010,Both sexes,20
+EUR,Europe,ISL,Iceland,2010,Male,20.1
+WPR,Western Pacific,NZL,New Zealand,2010,Both sexes,20.1
+WPR,Western Pacific,AUS,Australia,2010,Both sexes,20.4
+AFR,Africa,BFA,Burkina Faso,2010,Both sexes,20.4
+AFR,Africa,NAM,Namibia,2010,Both sexes,20.4
+EUR,Europe,FIN,Finland,2010,Female,20.6
+AFR,Africa,ZAF,South Africa,2010,Female,20.9
+AMR,Americas,CUB,Cuba,2010,Female,21
+EMR,Eastern Mediterranean,EGY,Egypt,2010,Both sexes,21.2
+WPR,Western Pacific,NZL,New Zealand,2010,Male,21.2
+AFR,Africa,SEN,Senegal,2010,Male,21.2
+EUR,Europe,ROU,Romania,2010,Female,21.4
+EUR,Europe,SVN,Slovenia,2010,Female,21.6
+AMR,Americas,USA,United States of America,2010,Female,21.8
+EUR,Europe,LUX,Luxembourg,2010,Female,21.9
+AMR,Americas,JAM,Jamaica,2010,Male,22.1
+AFR,Africa,TCD,Chad,2010,Male,22.2
+AMR,Americas,BRA,Brazil,2010,Both sexes,22.3
+AFR,Africa,BDI,Burundi,2010,Male,22.3
+EUR,Europe,CYP,Cyprus,2010,Female,22.4
+AFR,Africa,MLI,Mali,2010,Male,22.4
+WPR,Western Pacific,SLB,Solomon Islands,2010,Female,22.4
+EUR,Europe,AZE,Azerbaijan,2010,Both sexes,22.8
+AFR,Africa,UGA,Uganda,2010,Male,22.8
+AMR,Americas,ARG,Argentina,2010,Female,22.9
+WPR,Western Pacific,AUS,Australia,2010,Male,22.9
+AFR,Africa,SYC,Seychelles,2010,Both sexes,22.9
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2010,Female,23.1
+AFR,Africa,RWA,Rwanda,2010,Male,23.1
+EUR,Europe,CHE,Switzerland,2010,Female,23.1
+EUR,Europe,SVK,Slovakia,2010,Female,23.3
+EUR,Europe,FIN,Finland,2010,Both sexes,23.4
+EMR,Eastern Mediterranean,KWT,Kuwait,2010,Both sexes,23.6
+EUR,Europe,MLT,Malta,2010,Female,23.8
+EUR,Europe,SVN,Slovenia,2010,Both sexes,23.8
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,Female,23.9
+EUR,Europe,BEL,Belgium,2010,Female,24
+AMR,Americas,URY,Uruguay,2010,Female,24
+EUR,Europe,DNK,Denmark,2010,Female,24.1
+AFR,Africa,COG,Congo,2010,Male,24.2
+EMR,Eastern Mediterranean,IRQ,Iraq,2010,Both sexes,24.2
+EUR,Europe,LVA,Latvia,2010,Female,24.2
+WPR,Western Pacific,MYS,Malaysia,2010,Both sexes,24.5
+EMR,Eastern Mediterranean,YEM,Yemen,2010,Both sexes,24.5
+SEAR,South-East Asia,LKA,Sri Lanka,2010,Both sexes,24.6
+SEAR,South-East Asia,BGD,Bangladesh,2010,Female,24.7
+AMR,Americas,CAN,Canada,2010,Both sexes,24.7
+EUR,Europe,ITA,Italy,2010,Both sexes,24.7
+EUR,Europe,NLD,Netherlands,2010,Female,24.7
+EUR,Europe,MDA,Republic of Moldova,2010,Both sexes,24.8
+EUR,Europe,LUX,Luxembourg,2010,Both sexes,24.9
+AFR,Africa,KEN,Kenya,2010,Male,25.1
+EUR,Europe,DNK,Denmark,2010,Both sexes,25.3
+EUR,Europe,EST,Estonia,2010,Female,25.3
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,Both sexes,25.4
+AFR,Africa,SLE,Sierra Leone,2010,Both sexes,25.7
+EUR,Europe,SVN,Slovenia,2010,Male,25.9
+EMR,Eastern Mediterranean,BHR,Bahrain,2010,Both sexes,26
+AFR,Africa,LSO,Lesotho,2010,Both sexes,26
+EUR,Europe,FIN,Finland,2010,Male,26.1
+EUR,Europe,NOR,Norway,2010,Female,26.1
+EUR,Europe,UZB,Uzbekistan,2010,Male,26.2
+AFR,Africa,BWA,Botswana,2010,Both sexes,26.4
+EUR,Europe,DNK,Denmark,2010,Male,26.4
+WPR,Western Pacific,JPN,Japan,2010,Both sexes,26.4
+EUR,Europe,PRT,Portugal,2010,Both sexes,26.4
+SEAR,South-East Asia,THA,Thailand,2010,Both sexes,26.5
+WPR,Western Pacific,CHN,China,2010,Both sexes,26.6
+AFR,Africa,COM,Comoros,2010,Both sexes,26.6
+EUR,Europe,CHE,Switzerland,2010,Both sexes,26.6
+AMR,Americas,MEX,Mexico,2010,Male,26.7
+EUR,Europe,POL,Poland,2010,Female,26.7
+AFR,Africa,MWI,Malawi,2010,Male,26.8
+EUR,Europe,NOR,Norway,2010,Both sexes,26.8
+AMR,Americas,PER,Peru,2010,Male,26.8
+AMR,Americas,SLV,El Salvador,2010,Male,26.9
+EUR,Europe,IRL,Ireland,2010,Female,26.9
+WPR,Western Pacific,KOR,Republic of Korea,2010,Both sexes,26.9
+EUR,Europe,BEL,Belgium,2010,Both sexes,27
+EUR,Europe,NLD,Netherlands,2010,Both sexes,27
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,Male,27
+EMR,Eastern Mediterranean,PAK,Pakistan,2010,Both sexes,27.1
+WPR,Western Pacific,VUT,Vanuatu,2010,Both sexes,27.2
+EMR,Eastern Mediterranean,QAT,Qatar,2010,Male,27.4
+EUR,Europe,DEU,Germany,2010,Female,27.5
+EUR,Europe,NOR,Norway,2010,Male,27.6
+WPR,Western Pacific,PLW,Palau,2010,Both sexes,27.7
+WPR,Western Pacific,SGP,Singapore,2010,Male,27.7
+EUR,Europe,ISR,Israel,2010,Both sexes,27.8
+EUR,Europe,ESP,Spain,2010,Female,27.8
+AFR,Africa,ZMB,Zambia,2010,Male,27.8
+WPR,Western Pacific,COK,Cook Islands,2010,Female,27.9
+EUR,Europe,CZE,Czechia,2010,Female,27.9
+EUR,Europe,KAZ,Kazakhstan,2010,Both sexes,27.9
+EUR,Europe,LUX,Luxembourg,2010,Male,27.9
+SEAR,South-East Asia,NPL,Nepal,2010,Female,27.9
+AMR,Americas,USA,United States of America,2010,Both sexes,27.9
+AFR,Africa,NAM,Namibia,2010,Male,28
+AFR,Africa,BFA,Burkina Faso,2010,Male,28.1
+EUR,Europe,IRL,Ireland,2010,Both sexes,28.2
+AMR,Americas,URY,Uruguay,2010,Both sexes,28.3
+AFR,Africa,CIV,Côte d’Ivoire,2010,Male,28.5
+EUR,Europe,MLT,Malta,2010,Both sexes,28.6
+WPR,Western Pacific,PHL,Philippines,2010,Both sexes,28.6
+AMR,Americas,BRA,Brazil,2010,Male,28.8
+WPR,Western Pacific,BRN,Brunei Darussalam,2010,Male,28.9
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2010,Male,28.9
+WPR,Western Pacific,FJI,Fiji,2010,Both sexes,29
+SEAR,South-East Asia,MMR,Myanmar,2010,Female,29
+AMR,Americas,PRY,Paraguay,2010,Male,29.1
+EUR,Europe,IRL,Ireland,2010,Male,29.4
+EUR,Europe,KGZ,Kyrgyzstan,2010,Both sexes,29.4
+EUR,Europe,NLD,Netherlands,2010,Male,29.4
+AFR,Africa,ZWE,Zimbabwe,2010,Male,29.4
+EUR,Europe,AND,Andorra,2010,Female,29.5
+EUR,Europe,HUN,Hungary,2010,Female,29.5
+EUR,Europe,ITA,Italy,2010,Male,29.6
+AFR,Africa,TZA,United Republic of Tanzania,2010,Male,29.7
+AFR,Africa,LBR,Liberia,2010,Female,3.1
+AFR,Africa,BEN,Benin,2010,Female,3.2
+AMR,Americas,GUY,Guyana,2010,Female,3.2
+WPR,Western Pacific,BRN,Brunei Darussalam,2010,Female,3.3
+AMR,Americas,SLV,El Salvador,2010,Female,3.4
+AFR,Africa,SWZ,Eswatini,2010,Female,3.4
+AFR,Africa,KEN,Kenya,2010,Female,3.6
+AMR,Americas,BHS,Bahamas,2010,Female,3.8
+AFR,Africa,TCD,Chad,2010,Female,3.8
+AMR,Americas,PAN,Panama,2010,Female,3.9
+WPR,Western Pacific,VUT,Vanuatu,2010,Female,3.9
+EUR,Europe,ARM,Armenia,2010,Both sexes,30
+EUR,Europe,BEL,Belgium,2010,Male,30
+AMR,Americas,ARG,Argentina,2010,Both sexes,30.1
+AFR,Africa,MUS,Mauritius,2010,Both sexes,30.1
+EUR,Europe,CHE,Switzerland,2010,Male,30.1
+EUR,Europe,DEU,Germany,2010,Both sexes,30.3
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2010,Male,30.4
+AFR,Africa,MOZ,Mozambique,2010,Male,30.5
+WPR,Western Pacific,KHM,Cambodia,2010,Both sexes,30.6
+EUR,Europe,RUS,Russian Federation,2010,Both sexes,30.6
+EUR,Europe,UKR,Ukraine,2010,Both sexes,30.7
+EUR,Europe,LTU,Lithuania,2010,Both sexes,30.8
+AMR,Americas,CAN,Canada,2010,Male,30.9
+EUR,Europe,BLR,Belarus,2010,Both sexes,31
+AMR,Americas,GUY,Guyana,2010,Male,31
+EUR,Europe,ALB,Albania,2010,Both sexes,31.1
+WPR,Western Pacific,TON,Tonga,2010,Both sexes,31.3
+EMR,Eastern Mediterranean,TUN,Tunisia,2010,Both sexes,31.3
+EUR,Europe,HRV,Croatia,2010,Female,31.6
+EUR,Europe,GEO,Georgia,2010,Both sexes,31.6
+EUR,Europe,POL,Poland,2010,Both sexes,31.6
+EUR,Europe,ROU,Romania,2010,Both sexes,31.6
+EUR,Europe,ESP,Spain,2010,Both sexes,31.6
+EUR,Europe,TUR,Turkey,2010,Both sexes,31.7
+AFR,Africa,GMB,Gambia,2010,Male,31.9
+WPR,Western Pacific,MNG,Mongolia,2010,Both sexes,31.9
+EUR,Europe,SVK,Slovakia,2010,Both sexes,31.9
+EUR,Europe,FRA,France,2010,Female,32
+EUR,Europe,BIH,Bosnia and Herzegovina,2010,Female,32.1
+AMR,Americas,URY,Uruguay,2010,Male,32.5
+WPR,Western Pacific,COK,Cook Islands,2010,Both sexes,32.7
+EUR,Europe,CZE,Czechia,2010,Both sexes,32.9
+EUR,Europe,DEU,Germany,2010,Male,33.1
+EUR,Europe,MLT,Malta,2010,Male,33.4
+EUR,Europe,AUT,Austria,2010,Female,33.5
+WPR,Western Pacific,WSM,Samoa,2010,Both sexes,33.5
+AFR,Africa,ZAF,South Africa,2010,Both sexes,33.9
+AMR,Americas,USA,United States of America,2010,Male,33.9
+AFR,Africa,MDG,Madagascar,2010,Both sexes,34
+EUR,Europe,PRT,Portugal,2010,Male,34.1
+EUR,Europe,HUN,Hungary,2010,Both sexes,34.2
+AMR,Americas,CUB,Cuba,2010,Both sexes,34.4
+WPR,Western Pacific,TUV,Tuvalu,2010,Female,34.4
+EUR,Europe,FRA,France,2010,Both sexes,34.5
+EUR,Europe,AND,Andorra,2010,Both sexes,34.7
+EUR,Europe,EST,Estonia,2010,Both sexes,34.7
+AFR,Africa,COM,Comoros,2010,Male,34.8
+SEAR,South-East Asia,IND,India,2010,Both sexes,34.8
+EMR,Eastern Mediterranean,MAR,Morocco,2010,Male,34.8
+EUR,Europe,ESP,Spain,2010,Male,35.4
+EUR,Europe,HRV,Croatia,2010,Both sexes,35.6
+EUR,Europe,SWE,Sweden,2010,Male,36
+EUR,Europe,AUT,Austria,2010,Both sexes,36.1
+EUR,Europe,GRC,Greece,2010,Female,36.4
+EMR,Eastern Mediterranean,LBN,Lebanon,2010,Female,36.5
+EUR,Europe,POL,Poland,2010,Male,36.5
+EUR,Europe,BGR,Bulgaria,2010,Female,36.8
+EUR,Europe,ISR,Israel,2010,Male,36.8
+EMR,Eastern Mediterranean,YEM,Yemen,2010,Male,36.9
+EUR,Europe,FRA,France,2010,Male,37
+AMR,Americas,ARG,Argentina,2010,Male,37.2
+AFR,Africa,BWA,Botswana,2010,Male,37.3
+WPR,Western Pacific,COK,Cook Islands,2010,Male,37.6
+EUR,Europe,SWE,Sweden,2010,Both sexes,37.6
+EUR,Europe,CZE,Czechia,2010,Male,37.8
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2010,Male,37.9
+AFR,Africa,SLE,Sierra Leone,2010,Male,38
+AFR,Africa,SYC,Seychelles,2010,Male,38.1
+AFR,Africa,DZA,Algeria,2010,Male,38.3
+EUR,Europe,LVA,Latvia,2010,Both sexes,38.4
+EUR,Europe,AUT,Austria,2010,Male,38.8
+EUR,Europe,CYP,Cyprus,2010,Both sexes,38.8
+SEAR,South-East Asia,IDN,Indonesia,2010,Both sexes,38.8
+EUR,Europe,HUN,Hungary,2010,Male,39
+EUR,Europe,SWE,Sweden,2010,Female,39.1
+WPR,Western Pacific,SLB,Solomon Islands,2010,Both sexes,39.5
+EUR,Europe,HRV,Croatia,2010,Male,39.6
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2010,Male,39.6
+EUR,Europe,AND,Andorra,2010,Male,39.9
+EUR,Europe,KGZ,Kyrgyzstan,2010,Female,4
+EMR,Eastern Mediterranean,TUN,Tunisia,2010,Female,4
+SEAR,South-East Asia,THA,Thailand,2010,Female,4.1
+AMR,Americas,HTI,Haiti,2010,Female,4.3
+AFR,Africa,TZA,United Republic of Tanzania,2010,Female,4.3
+EMR,Eastern Mediterranean,KWT,Kuwait,2010,Female,4.5
+SEAR,South-East Asia,LKA,Sri Lanka,2010,Female,4.6
+AFR,Africa,GHA,Ghana,2010,Both sexes,4.7
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2010,Female,4.8
+EUR,Europe,SRB,Serbia,2010,Female,40.4
+EUR,Europe,SVK,Slovakia,2010,Male,40.5
+WPR,Western Pacific,JPN,Japan,2010,Male,40.6
+EUR,Europe,BIH,Bosnia and Herzegovina,2010,Both sexes,41.4
+WPR,Western Pacific,PLW,Palau,2010,Male,41.5
+EUR,Europe,LTU,Lithuania,2010,Male,41.7
+EUR,Europe,ROU,Romania,2010,Male,41.8
+EMR,Eastern Mediterranean,EGY,Egypt,2010,Male,41.9
+EMR,Eastern Mediterranean,BHR,Bahrain,2010,Male,42.2
+WPR,Western Pacific,KIR,Kiribati,2010,Female,42.5
+EMR,Eastern Mediterranean,KWT,Kuwait,2010,Male,42.6
+EUR,Europe,SRB,Serbia,2010,Both sexes,42.7
+EMR,Eastern Mediterranean,LBN,Lebanon,2010,Both sexes,42.9
+EMR,Eastern Mediterranean,PAK,Pakistan,2010,Male,42.9
+EUR,Europe,BGR,Bulgaria,2010,Both sexes,43.1
+EMR,Eastern Mediterranean,IRQ,Iraq,2010,Male,43.1
+EUR,Europe,GRC,Greece,2010,Both sexes,43.4
+SEAR,South-East Asia,NPL,Nepal,2010,Both sexes,43.4
+SEAR,South-East Asia,BGD,Bangladesh,2010,Both sexes,43.5
+EUR,Europe,MDA,Republic of Moldova,2010,Male,44
+AMR,Americas,CHL,Chile,2010,Female,44.1
+EUR,Europe,EST,Estonia,2010,Male,44.1
+SEAR,South-East Asia,LKA,Sri Lanka,2010,Male,44.7
+EUR,Europe,SRB,Serbia,2010,Male,45.1
+EUR,Europe,AZE,Azerbaijan,2010,Male,45.3
+AFR,Africa,LSO,Lesotho,2010,Male,45.3
+WPR,Western Pacific,FJI,Fiji,2010,Male,45.4
+SEAR,South-East Asia,TLS,Timor-Leste,2010,Both sexes,45.6
+EUR,Europe,RUS,Russian Federation,2010,Male,46.8
+AFR,Africa,ZAF,South Africa,2010,Male,46.9
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2010,Both sexes,47
+EUR,Europe,TUR,Turkey,2010,Male,47
+WPR,Western Pacific,MYS,Malaysia,2010,Male,47.2
+WPR,Western Pacific,KOR,Republic of Korea,2010,Male,47.4
+WPR,Western Pacific,WSM,Samoa,2010,Male,47.4
+AMR,Americas,CUB,Cuba,2010,Male,47.7
+EUR,Europe,KAZ,Kazakhstan,2010,Male,47.8
+WPR,Western Pacific,PHL,Philippines,2010,Male,47.8
+AMR,Americas,CHL,Chile,2010,Both sexes,48.3
+SEAR,South-East Asia,THA,Thailand,2010,Male,49
+EMR,Eastern Mediterranean,LBN,Lebanon,2010,Male,49.3
+EUR,Europe,UKR,Ukraine,2010,Male,49.3
+EUR,Europe,BGR,Bulgaria,2010,Male,49.4
+WPR,Western Pacific,TON,Tonga,2010,Male,49.5
+SEAR,South-East Asia,IND,India,2010,Male,49.8
+EMR,Eastern Mediterranean,IRQ,Iraq,2010,Female,5.2
+WPR,Western Pacific,SGP,Singapore,2010,Female,5.3
+AFR,Africa,ETH,Ethiopia,2010,Both sexes,5.5
+EUR,Europe,GEO,Georgia,2010,Female,5.6
+AFR,Africa,ZMB,Zambia,2010,Female,5.6
+AFR,Africa,NGA,Nigeria,2010,Both sexes,5.7
+EUR,Europe,MDA,Republic of Moldova,2010,Female,5.7
+AFR,Africa,STP,Sao Tome and Principe,2010,Both sexes,5.7
+AMR,Americas,COL,Colombia,2010,Female,5.8
+AMR,Americas,JAM,Jamaica,2010,Female,5.9
+WPR,Western Pacific,KHM,Cambodia,2010,Male,50.5
+EUR,Europe,GRC,Greece,2010,Male,50.5
+WPR,Western Pacific,VUT,Vanuatu,2010,Male,50.5
+AFR,Africa,MDG,Madagascar,2010,Male,50.6
+EUR,Europe,BLR,Belarus,2010,Male,50.7
+EUR,Europe,BIH,Bosnia and Herzegovina,2010,Male,50.7
+WPR,Western Pacific,CHN,China,2010,Male,50.9
+AFR,Africa,MUS,Mauritius,2010,Male,52.2
+AMR,Americas,CHL,Chile,2010,Male,52.5
+SEAR,South-East Asia,MMR,Myanmar,2010,Both sexes,52.5
+EUR,Europe,LVA,Latvia,2010,Male,52.6
+EUR,Europe,ALB,Albania,2010,Male,53.2
+WPR,Western Pacific,TUV,Tuvalu,2010,Both sexes,54.4
+EUR,Europe,KGZ,Kyrgyzstan,2010,Male,54.9
+EUR,Europe,CYP,Cyprus,2010,Male,55.2
+WPR,Western Pacific,MNG,Mongolia,2010,Male,55.5
+WPR,Western Pacific,SLB,Solomon Islands,2010,Male,56.7
+EUR,Europe,GEO,Georgia,2010,Male,57.5
+WPR,Western Pacific,NRU,Nauru,2010,Male,57.5
+WPR,Western Pacific,KIR,Kiribati,2010,Both sexes,58.1
+EUR,Europe,ARM,Armenia,2010,Male,58.2
+EMR,Eastern Mediterranean,TUN,Tunisia,2010,Male,58.5
+SEAR,South-East Asia,NPL,Nepal,2010,Male,58.9
+WPR,Western Pacific,NRU,Nauru,2010,Both sexes,59.5
+WPR,Western Pacific,KOR,Republic of Korea,2010,Female,6.3
+AMR,Americas,PER,Peru,2010,Female,6.5
+AFR,Africa,LSO,Lesotho,2010,Female,6.6
+AMR,Americas,CRI,Costa Rica,2010,Female,6.7
+AFR,Africa,UGA,Uganda,2010,Female,6.8
+WPR,Western Pacific,NRU,Nauru,2010,Female,61.6
+SEAR,South-East Asia,BGD,Bangladesh,2010,Male,62.4
+SEAR,South-East Asia,IDN,Indonesia,2010,Male,68.7
+AFR,Africa,SYC,Seychelles,2010,Female,7.6
+AFR,Africa,MOZ,Mozambique,2010,Female,7.9
+AMR,Americas,PRY,Paraguay,2010,Female,7.9
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2010,Male,71
+WPR,Western Pacific,KIR,Kiribati,2010,Male,73.7
+WPR,Western Pacific,TUV,Tuvalu,2010,Male,74.4
+SEAR,South-East Asia,MMR,Myanmar,2010,Male,76.1
+SEAR,South-East Asia,TLS,Timor-Leste,2010,Male,78
+AFR,Africa,MWI,Malawi,2010,Female,8
+AFR,Africa,MUS,Mauritius,2010,Female,8
+EUR,Europe,KAZ,Kazakhstan,2010,Female,8.1
+AFR,Africa,NER,Niger,2010,Both sexes,8.1
+WPR,Western Pacific,MNG,Mongolia,2010,Female,8.3
+AFR,Africa,RWA,Rwanda,2010,Female,8.6
+AFR,Africa,BDI,Burundi,2010,Female,8.7
+AFR,Africa,GHA,Ghana,2010,Male,8.7
+AMR,Americas,MEX,Mexico,2010,Female,8.7
+SEAR,South-East Asia,IDN,Indonesia,2010,Female,8.9
+EUR,Europe,ALB,Albania,2010,Female,9.1
+AFR,Africa,ERI,Eritrea,2010,Both sexes,9.2
+AFR,Africa,TGO,Togo,2010,Both sexes,9.2
+AMR,Americas,BRB,Barbados,2010,Both sexes,9.3
+WPR,Western Pacific,PHL,Philippines,2010,Female,9.3
+AFR,Africa,STP,Sao Tome and Principe,2010,Male,9.3
+AFR,Africa,CMR,Cameroon,2010,Both sexes,9.6
+EMR,Eastern Mediterranean,OMN,Oman,2010,Both sexes,9.6
+AMR,Americas,HTI,Haiti,2010,Both sexes,9.7
+AFR,Africa,ETH,Ethiopia,2010,Male,9.8
+EMR,Eastern Mediterranean,BHR,Bahrain,2010,Female,9.9
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2005,Female,0
+EUR,Europe,AZE,Azerbaijan,2005,Female,0.3
+AFR,Africa,ERI,Eritrea,2005,Female,0.6
+EMR,Eastern Mediterranean,EGY,Egypt,2005,Female,0.8
+AFR,Africa,GHA,Ghana,2005,Female,0.9
+EMR,Eastern Mediterranean,OMN,Oman,2005,Female,1
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2005,Female,1.1
+AFR,Africa,NGA,Nigeria,2005,Female,1.2
+AFR,Africa,ETH,Ethiopia,2005,Female,1.3
+EUR,Europe,UZB,Uzbekistan,2005,Female,1.4
+AFR,Africa,SEN,Senegal,2005,Female,1.6
+EMR,Eastern Mediterranean,MAR,Morocco,2005,Female,1.7
+AFR,Africa,NER,Niger,2005,Female,1.7
+EUR,Europe,ALB,Albania,2005,Female,10
+WPR,Western Pacific,MNG,Mongolia,2005,Female,10
+AFR,Africa,MOZ,Mozambique,2005,Female,10
+AFR,Africa,GHA,Ghana,2005,Male,10.1
+AFR,Africa,RWA,Rwanda,2005,Female,10.1
+AFR,Africa,MWI,Malawi,2005,Female,10.3
+AFR,Africa,MUS,Mauritius,2005,Female,10.3
+AMR,Americas,MEX,Mexico,2005,Female,10.5
+AFR,Africa,TGO,Togo,2005,Both sexes,10.5
+AFR,Africa,BDI,Burundi,2005,Female,10.7
+AMR,Americas,PRY,Paraguay,2005,Female,10.8
+EMR,Eastern Mediterranean,BHR,Bahrain,2005,Female,10.9
+AFR,Africa,ERI,Eritrea,2005,Both sexes,10.9
+AFR,Africa,ETH,Ethiopia,2005,Male,10.9
+AMR,Americas,HTI,Haiti,2005,Both sexes,10.9
+WPR,Western Pacific,PHL,Philippines,2005,Female,11.1
+AMR,Americas,BHS,Bahamas,2005,Both sexes,11.3
+AFR,Africa,SWZ,Eswatini,2005,Both sexes,11.6
+AFR,Africa,NGA,Nigeria,2005,Male,11.6
+EUR,Europe,BLR,Belarus,2005,Female,11.8
+AFR,Africa,LBR,Liberia,2005,Both sexes,12
+AFR,Africa,COG,Congo,2005,Both sexes,12.2
+SEAR,South-East Asia,IDN,Indonesia,2005,Female,12.3
+AFR,Africa,MLI,Mali,2005,Both sexes,12.6
+AFR,Africa,SEN,Senegal,2005,Both sexes,12.8
+AMR,Americas,DOM,Dominican Republic,2005,Female,13
+AMR,Americas,PAN,Panama,2005,Both sexes,13
+AFR,Africa,BEN,Benin,2005,Both sexes,13.3
+WPR,Western Pacific,JPN,Japan,2005,Female,13.3
+AMR,Americas,COL,Colombia,2005,Both sexes,13.5
+EUR,Europe,UKR,Ukraine,2005,Female,13.5
+EUR,Europe,RUS,Russian Federation,2005,Female,13.6
+WPR,Western Pacific,FJI,Fiji,2005,Female,13.7
+WPR,Western Pacific,TON,Tonga,2005,Female,13.9
+AFR,Africa,TCD,Chad,2005,Both sexes,14
+AFR,Africa,NER,Niger,2005,Male,14.3
+EMR,Eastern Mediterranean,YEM,Yemen,2005,Female,14.6
+EUR,Europe,UZB,Uzbekistan,2005,Both sexes,14.9
+EMR,Eastern Mediterranean,QAT,Qatar,2005,Both sexes,15
+WPR,Western Pacific,KHM,Cambodia,2005,Female,15.1
+AMR,Americas,CRI,Costa Rica,2005,Both sexes,15.2
+SEAR,South-East Asia,TLS,Timor-Leste,2005,Female,15.2
+AMR,Americas,DOM,Dominican Republic,2005,Both sexes,15.4
+WPR,Western Pacific,PLW,Palau,2005,Female,16.1
+EUR,Europe,TUR,Turkey,2005,Female,16.1
+AMR,Americas,JAM,Jamaica,2005,Both sexes,16.4
+AFR,Africa,KEN,Kenya,2005,Both sexes,16.4
+EMR,Eastern Mediterranean,PAK,Pakistan,2005,Female,16.5
+AMR,Americas,HTI,Haiti,2005,Male,16.6
+WPR,Western Pacific,SGP,Singapore,2005,Both sexes,16.6
+WPR,Western Pacific,BRN,Brunei Darussalam,2005,Both sexes,16.7
+EUR,Europe,PRT,Portugal,2005,Female,16.8
+AMR,Americas,BRB,Barbados,2005,Male,16.9
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2005,Both sexes,16.9
+AMR,Americas,SLV,El Salvador,2005,Both sexes,17
+AFR,Africa,ZWE,Zimbabwe,2005,Both sexes,17
+AFR,Africa,TGO,Togo,2005,Male,17.3
+AFR,Africa,CMR,Cameroon,2005,Male,17.5
+AFR,Africa,BDI,Burundi,2005,Both sexes,17.8
+AFR,Africa,CIV,Côte d’Ivoire,2005,Both sexes,17.8
+AMR,Americas,DOM,Dominican Republic,2005,Male,17.9
+AFR,Africa,RWA,Rwanda,2005,Both sexes,17.9
+EMR,Eastern Mediterranean,OMN,Oman,2005,Male,18
+AFR,Africa,NAM,Namibia,2005,Female,18.1
+AFR,Africa,SLE,Sierra Leone,2005,Female,18.1
+AFR,Africa,ZMB,Zambia,2005,Both sexes,18.2
+AMR,Americas,BHS,Bahamas,2005,Male,18.4
+AFR,Africa,BFA,Burkina Faso,2005,Female,18.4
+AFR,Africa,SWZ,Eswatini,2005,Male,18.8
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2005,Both sexes,19
+AMR,Americas,COL,Colombia,2005,Male,19.2
+AFR,Africa,GMB,Gambia,2005,Both sexes,19.2
+AFR,Africa,UGA,Uganda,2005,Both sexes,19.2
+AMR,Americas,BRA,Brazil,2005,Female,19.5
+AFR,Africa,LBR,Liberia,2005,Male,19.8
+EUR,Europe,ITA,Italy,2005,Female,19.9
+AFR,Africa,DZA,Algeria,2005,Female,2
+EMR,Eastern Mediterranean,QAT,Qatar,2005,Female,2.1
+EUR,Europe,ARM,Armenia,2005,Female,2.2
+AFR,Africa,CMR,Cameroon,2005,Female,2.2
+WPR,Western Pacific,MYS,Malaysia,2005,Female,2.3
+AFR,Africa,ZWE,Zimbabwe,2005,Female,2.3
+WPR,Western Pacific,CHN,China,2005,Female,2.7
+AMR,Americas,BRB,Barbados,2005,Female,2.8
+AFR,Africa,MLI,Mali,2005,Female,2.8
+AFR,Africa,STP,Sao Tome and Principe,2005,Female,2.8
+AFR,Africa,TZA,United Republic of Tanzania,2005,Both sexes,20
+AFR,Africa,BWA,Botswana,2005,Female,20.4
+EMR,Eastern Mediterranean,MAR,Morocco,2005,Both sexes,20.5
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2005,Both sexes,20.6
+EUR,Europe,LTU,Lithuania,2005,Female,20.6
+AMR,Americas,MEX,Mexico,2005,Both sexes,20.6
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2005,Both sexes,20.6
+EUR,Europe,ISR,Israel,2005,Female,20.9
+AFR,Africa,COG,Congo,2005,Male,21
+AFR,Africa,DZA,Algeria,2005,Both sexes,21.1
+AFR,Africa,MWI,Malawi,2005,Both sexes,21.1
+AFR,Africa,ERI,Eritrea,2005,Male,21.2
+AMR,Americas,PAN,Panama,2005,Male,21.2
+WPR,Western Pacific,AUS,Australia,2005,Female,21.3
+EMR,Eastern Mediterranean,EGY,Egypt,2005,Both sexes,21.3
+AMR,Americas,GUY,Guyana,2005,Both sexes,21.4
+WPR,Western Pacific,WSM,Samoa,2005,Female,21.8
+EUR,Europe,CYP,Cyprus,2005,Female,21.9
+EUR,Europe,SVK,Slovakia,2005,Female,21.9
+AFR,Africa,BEN,Benin,2005,Male,22.1
+EUR,Europe,FIN,Finland,2005,Female,22.2
+AMR,Americas,CRI,Costa Rica,2005,Male,22.3
+AFR,Africa,MLI,Mali,2005,Male,22.4
+EUR,Europe,SVN,Slovenia,2005,Female,22.5
+AFR,Africa,TCD,Chad,2005,Male,22.7
+EUR,Europe,ISL,Iceland,2005,Female,22.8
+AFR,Africa,MOZ,Mozambique,2005,Both sexes,23
+AFR,Africa,NAM,Namibia,2005,Both sexes,23.1
+EUR,Europe,LUX,Luxembourg,2005,Female,23.2
+AFR,Africa,MDG,Madagascar,2005,Female,23.3
+AMR,Americas,PRY,Paraguay,2005,Both sexes,23.4
+EUR,Europe,CHE,Switzerland,2005,Female,23.4
+WPR,Western Pacific,AUS,Australia,2005,Both sexes,23.8
+WPR,Western Pacific,NZL,New Zealand,2005,Female,23.8
+AMR,Americas,PER,Peru,2005,Both sexes,23.8
+AMR,Americas,USA,United States of America,2005,Female,23.8
+AMR,Americas,CAN,Canada,2005,Female,23.9
+AFR,Africa,SEN,Senegal,2005,Male,23.9
+EUR,Europe,ISL,Iceland,2005,Both sexes,24.3
+WPR,Western Pacific,SLB,Solomon Islands,2005,Female,24.3
+AFR,Africa,BFA,Burkina Faso,2005,Both sexes,24.4
+EUR,Europe,LVA,Latvia,2005,Female,24.4
+WPR,Western Pacific,NZL,New Zealand,2005,Both sexes,24.4
+AFR,Africa,SYC,Seychelles,2005,Both sexes,24.4
+AFR,Africa,LSO,Lesotho,2005,Both sexes,24.5
+EUR,Europe,MDA,Republic of Moldova,2005,Both sexes,24.6
+EUR,Europe,SVN,Slovenia,2005,Both sexes,24.6
+AFR,Africa,ZAF,South Africa,2005,Female,24.6
+EUR,Europe,BEL,Belgium,2005,Female,24.7
+EUR,Europe,MLT,Malta,2005,Female,24.8
+AFR,Africa,BDI,Burundi,2005,Male,24.9
+EMR,Eastern Mediterranean,KWT,Kuwait,2005,Both sexes,25
+WPR,Western Pacific,NZL,New Zealand,2005,Male,25.1
+EUR,Europe,AZE,Azerbaijan,2005,Both sexes,25.3
+EUR,Europe,ITA,Italy,2005,Both sexes,25.5
+AMR,Americas,JAM,Jamaica,2005,Male,25.6
+EUR,Europe,ISL,Iceland,2005,Male,25.7
+AFR,Africa,RWA,Rwanda,2005,Male,25.7
+EUR,Europe,PRT,Portugal,2005,Both sexes,25.8
+EUR,Europe,ROU,Romania,2005,Female,25.8
+EMR,Eastern Mediterranean,IRQ,Iraq,2005,Both sexes,25.9
+EUR,Europe,EST,Estonia,2005,Female,26.1
+EUR,Europe,FIN,Finland,2005,Both sexes,26.1
+SEAR,South-East Asia,LKA,Sri Lanka,2005,Both sexes,26.1
+WPR,Western Pacific,AUS,Australia,2005,Male,26.4
+WPR,Western Pacific,MYS,Malaysia,2005,Both sexes,26.5
+EUR,Europe,SVN,Slovenia,2005,Male,26.6
+AMR,Americas,CUB,Cuba,2005,Female,26.7
+SEAR,South-East Asia,IND,India,2005,Female,26.8
+EMR,Eastern Mediterranean,BHR,Bahrain,2005,Both sexes,27
+AMR,Americas,BRA,Brazil,2005,Both sexes,27
+EUR,Europe,NLD,Netherlands,2005,Female,27
+EUR,Europe,LUX,Luxembourg,2005,Both sexes,27.1
+EMR,Eastern Mediterranean,YEM,Yemen,2005,Both sexes,27.4
+EUR,Europe,CHE,Switzerland,2005,Both sexes,27.5
+WPR,Western Pacific,SGP,Singapore,2005,Male,27.6
+WPR,Western Pacific,CHN,China,2005,Both sexes,27.8
+EMR,Eastern Mediterranean,QAT,Qatar,2005,Male,28
+AFR,Africa,NAM,Namibia,2005,Male,28.1
+AMR,Americas,URY,Uruguay,2005,Female,28.2
+AFR,Africa,COM,Comoros,2005,Female,28.3
+EUR,Europe,CZE,Czechia,2005,Female,28.3
+EUR,Europe,DNK,Denmark,2005,Female,28.3
+EUR,Europe,DEU,Germany,2005,Female,28.4
+AFR,Africa,KEN,Kenya,2005,Male,28.4
+EUR,Europe,UZB,Uzbekistan,2005,Male,28.4
+EUR,Europe,BEL,Belgium,2005,Both sexes,28.5
+EUR,Europe,ESP,Spain,2005,Female,28.6
+AFR,Africa,BWA,Botswana,2005,Both sexes,28.9
+SEAR,South-East Asia,THA,Thailand,2005,Both sexes,28.9
+AFR,Africa,UGA,Uganda,2005,Male,28.9
+WPR,Western Pacific,VUT,Vanuatu,2005,Both sexes,29.3
+WPR,Western Pacific,BRN,Brunei Darussalam,2005,Male,29.4
+EUR,Europe,ISR,Israel,2005,Both sexes,29.5
+EUR,Europe,NLD,Netherlands,2005,Both sexes,29.5
+EUR,Europe,AND,Andorra,2005,Female,29.6
+WPR,Western Pacific,JPN,Japan,2005,Both sexes,29.6
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2005,Female,29.6
+AMR,Americas,ARG,Argentina,2005,Female,29.7
+EUR,Europe,HRV,Croatia,2005,Female,29.7
+AFR,Africa,ZMB,Zambia,2005,Male,29.7
+AMR,Americas,SLV,El Salvador,2005,Male,29.9
+AFR,Africa,GMB,Gambia,2005,Female,3.2
+AFR,Africa,COG,Congo,2005,Female,3.3
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2005,Female,3.7
+AFR,Africa,TGO,Togo,2005,Female,3.7
+AFR,Africa,CIV,Côte d’Ivoire,2005,Female,3.9
+EUR,Europe,FIN,Finland,2005,Male,30
+AMR,Americas,USA,United States of America,2005,Both sexes,30
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2005,Male,30.1
+EUR,Europe,KGZ,Kyrgyzstan,2005,Both sexes,30.4
+EUR,Europe,POL,Poland,2005,Female,30.4
+AFR,Africa,BFA,Burkina Faso,2005,Male,30.5
+SEAR,South-East Asia,BGD,Bangladesh,2005,Female,30.6
+WPR,Western Pacific,FJI,Fiji,2005,Both sexes,30.6
+EUR,Europe,KAZ,Kazakhstan,2005,Both sexes,30.6
+AMR,Americas,CAN,Canada,2005,Both sexes,30.7
+AMR,Americas,MEX,Mexico,2005,Male,30.7
+WPR,Western Pacific,KOR,Republic of Korea,2005,Both sexes,30.7
+AFR,Africa,SLE,Sierra Leone,2005,Both sexes,30.7
+EUR,Europe,DNK,Denmark,2005,Both sexes,30.9
+EUR,Europe,LUX,Luxembourg,2005,Male,30.9
+WPR,Western Pacific,PLW,Palau,2005,Both sexes,30.9
+EUR,Europe,ITA,Italy,2005,Male,31
+EUR,Europe,MLT,Malta,2005,Both sexes,31.2
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,Male,31.3
+EUR,Europe,FRA,France,2005,Female,31.4
+EUR,Europe,IRL,Ireland,2005,Female,31.4
+EUR,Europe,CHE,Switzerland,2005,Male,31.6
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,Both sexes,31.6
+AFR,Africa,ZWE,Zimbabwe,2005,Male,31.6
+AFR,Africa,CIV,Côte d’Ivoire,2005,Male,31.7
+EUR,Europe,IRL,Ireland,2005,Both sexes,31.7
+WPR,Western Pacific,PHL,Philippines,2005,Both sexes,31.7
+EUR,Europe,DEU,Germany,2005,Both sexes,31.8
+EUR,Europe,HUN,Hungary,2005,Female,31.8
+EUR,Europe,IRL,Ireland,2005,Male,31.9
+AFR,Africa,MWI,Malawi,2005,Male,31.9
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,Female,31.9
+EUR,Europe,NLD,Netherlands,2005,Male,32
+EUR,Europe,SVK,Slovakia,2005,Both sexes,32
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2005,Male,32.2
+EUR,Europe,RUS,Russian Federation,2005,Both sexes,32.2
+WPR,Western Pacific,TON,Tonga,2005,Both sexes,32.2
+EUR,Europe,ARM,Armenia,2005,Both sexes,32.3
+EUR,Europe,BEL,Belgium,2005,Male,32.3
+WPR,Western Pacific,COK,Cook Islands,2005,Female,32.6
+EUR,Europe,ALB,Albania,2005,Both sexes,32.7
+EUR,Europe,GEO,Georgia,2005,Both sexes,32.7
+AFR,Africa,MUS,Mauritius,2005,Both sexes,32.7
+EUR,Europe,NOR,Norway,2005,Female,33.1
+AMR,Americas,URY,Uruguay,2005,Both sexes,33.1
+EMR,Eastern Mediterranean,PAK,Pakistan,2005,Both sexes,33.3
+EUR,Europe,BIH,Bosnia and Herzegovina,2005,Female,33.4
+EUR,Europe,DNK,Denmark,2005,Male,33.4
+EUR,Europe,LTU,Lithuania,2005,Both sexes,33.4
+EUR,Europe,TUR,Turkey,2005,Both sexes,33.4
+AFR,Africa,COM,Comoros,2005,Both sexes,33.5
+EUR,Europe,CZE,Czechia,2005,Both sexes,33.7
+EUR,Europe,BLR,Belarus,2005,Both sexes,34
+EUR,Europe,NOR,Norway,2005,Both sexes,34
+EUR,Europe,ESP,Spain,2005,Both sexes,34.4
+EUR,Europe,UKR,Ukraine,2005,Both sexes,34.4
+EUR,Europe,FRA,France,2005,Both sexes,34.5
+AMR,Americas,BRA,Brazil,2005,Male,34.6
+WPR,Western Pacific,MNG,Mongolia,2005,Both sexes,34.7
+EUR,Europe,PRT,Portugal,2005,Male,34.8
+AFR,Africa,TZA,United Republic of Tanzania,2005,Male,34.8
+EUR,Europe,NOR,Norway,2005,Male,34.9
+EUR,Europe,HRV,Croatia,2005,Both sexes,35.2
+AFR,Africa,GMB,Gambia,2005,Male,35.2
+EUR,Europe,DEU,Germany,2005,Male,35.2
+EMR,Eastern Mediterranean,TUN,Tunisia,2005,Both sexes,35.3
+EUR,Europe,AND,Andorra,2005,Both sexes,35.4
+SEAR,South-East Asia,MMR,Myanmar,2005,Female,35.7
+EUR,Europe,POL,Poland,2005,Both sexes,35.8
+AFR,Africa,ZAF,South Africa,2005,Both sexes,35.8
+AMR,Americas,PRY,Paraguay,2005,Male,35.9
+AFR,Africa,MOZ,Mozambique,2005,Male,36
+AMR,Americas,USA,United States of America,2005,Male,36.1
+EUR,Europe,ROU,Romania,2005,Both sexes,36.3
+WPR,Western Pacific,TUV,Tuvalu,2005,Female,36.6
+EUR,Europe,HUN,Hungary,2005,Both sexes,37
+AMR,Americas,ARG,Argentina,2005,Both sexes,37.1
+EMR,Eastern Mediterranean,LBN,Lebanon,2005,Female,37.2
+WPR,Western Pacific,WSM,Samoa,2005,Both sexes,37.2
+WPR,Western Pacific,KHM,Cambodia,2005,Both sexes,37.4
+AMR,Americas,CAN,Canada,2005,Male,37.4
+AFR,Africa,BWA,Botswana,2005,Male,37.5
+EUR,Europe,FRA,France,2005,Male,37.5
+WPR,Western Pacific,COK,Cook Islands,2005,Both sexes,37.6
+EUR,Europe,MLT,Malta,2005,Male,37.6
+EUR,Europe,BGR,Bulgaria,2005,Female,37.7
+EUR,Europe,EST,Estonia,2005,Both sexes,37.7
+AMR,Americas,URY,Uruguay,2005,Male,37.9
+EUR,Europe,AUT,Austria,2005,Female,38
+EUR,Europe,ISR,Israel,2005,Male,38
+AMR,Americas,PER,Peru,2005,Male,38.1
+AFR,Africa,MDG,Madagascar,2005,Both sexes,38.5
+AFR,Africa,COM,Comoros,2005,Male,38.7
+AMR,Americas,GUY,Guyana,2005,Male,38.7
+EUR,Europe,CZE,Czechia,2005,Male,39.1
+EUR,Europe,GRC,Greece,2005,Female,39.1
+EMR,Eastern Mediterranean,MAR,Morocco,2005,Male,39.3
+EUR,Europe,LVA,Latvia,2005,Both sexes,39.4
+EUR,Europe,SRB,Serbia,2005,Female,39.9
+WPR,Western Pacific,BRN,Brunei Darussalam,2005,Female,4
+AMR,Americas,SLV,El Salvador,2005,Female,4.2
+AMR,Americas,GUY,Guyana,2005,Female,4.2
+AMR,Americas,BHS,Bahamas,2005,Female,4.3
+AFR,Africa,SWZ,Eswatini,2005,Female,4.3
+AFR,Africa,KEN,Kenya,2005,Female,4.3
+AFR,Africa,LBR,Liberia,2005,Female,4.3
+WPR,Western Pacific,VUT,Vanuatu,2005,Female,4.4
+AFR,Africa,BEN,Benin,2005,Female,4.5
+EUR,Europe,KGZ,Kyrgyzstan,2005,Female,4.5
+SEAR,South-East Asia,THA,Thailand,2005,Female,4.8
+AMR,Americas,PAN,Panama,2005,Female,4.9
+EMR,Eastern Mediterranean,TUN,Tunisia,2005,Female,4.9
+SEAR,South-East Asia,IDN,Indonesia,2005,Both sexes,40
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2005,Male,40
+AFR,Africa,DZA,Algeria,2005,Male,40.2
+AMR,Americas,CUB,Cuba,2005,Both sexes,40.2
+EMR,Eastern Mediterranean,YEM,Yemen,2005,Male,40.2
+EUR,Europe,ESP,Spain,2005,Male,40.3
+AFR,Africa,LSO,Lesotho,2005,Male,40.5
+SEAR,South-East Asia,NPL,Nepal,2005,Female,40.5
+EUR,Europe,CYP,Cyprus,2005,Both sexes,40.6
+AFR,Africa,SYC,Seychelles,2005,Male,40.7
+EUR,Europe,HRV,Croatia,2005,Male,40.8
+WPR,Western Pacific,SLB,Solomon Islands,2005,Both sexes,40.8
+EUR,Europe,POL,Poland,2005,Male,41.1
+EUR,Europe,AND,Andorra,2005,Male,41.2
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2005,Male,41.3
+SEAR,South-East Asia,IND,India,2005,Both sexes,41.3
+EUR,Europe,AUT,Austria,2005,Both sexes,41.7
+EMR,Eastern Mediterranean,EGY,Egypt,2005,Male,41.9
+EUR,Europe,SWE,Sweden,2005,Male,41.9
+EUR,Europe,SVK,Slovakia,2005,Male,42
+EUR,Europe,HUN,Hungary,2005,Male,42.2
+WPR,Western Pacific,COK,Cook Islands,2005,Male,42.6
+EMR,Eastern Mediterranean,BHR,Bahrain,2005,Male,43.2
+AFR,Africa,SLE,Sierra Leone,2005,Male,43.3
+EMR,Eastern Mediterranean,LBN,Lebanon,2005,Both sexes,43.5
+EUR,Europe,BIH,Bosnia and Herzegovina,2005,Both sexes,43.7
+EUR,Europe,MDA,Republic of Moldova,2005,Male,43.8
+EUR,Europe,SRB,Serbia,2005,Both sexes,44.2
+EMR,Eastern Mediterranean,KWT,Kuwait,2005,Male,44.4
+AMR,Americas,ARG,Argentina,2005,Male,44.6
+EUR,Europe,SWE,Sweden,2005,Both sexes,44.6
+EMR,Eastern Mediterranean,IRQ,Iraq,2005,Male,45
+EUR,Europe,AUT,Austria,2005,Male,45.4
+WPR,Western Pacific,PLW,Palau,2005,Male,45.6
+SEAR,South-East Asia,LKA,Sri Lanka,2005,Male,45.8
+WPR,Western Pacific,JPN,Japan,2005,Male,46
+EUR,Europe,BGR,Bulgaria,2005,Both sexes,46.1
+EUR,Europe,LTU,Lithuania,2005,Male,46.1
+EUR,Europe,GRC,Greece,2005,Both sexes,46.7
+AMR,Americas,CHL,Chile,2005,Female,46.8
+EUR,Europe,ROU,Romania,2005,Male,46.9
+AFR,Africa,ZAF,South Africa,2005,Male,47
+SEAR,South-East Asia,BGD,Bangladesh,2005,Both sexes,47.2
+EUR,Europe,SWE,Sweden,2005,Female,47.3
+WPR,Western Pacific,FJI,Fiji,2005,Male,47.5
+WPR,Western Pacific,KIR,Kiribati,2005,Female,48
+EUR,Europe,SRB,Serbia,2005,Male,48.5
+EUR,Europe,EST,Estonia,2005,Male,49.3
+EMR,Eastern Mediterranean,LBN,Lebanon,2005,Male,49.7
+AMR,Americas,HTI,Haiti,2005,Female,5.2
+AFR,Africa,TCD,Chad,2005,Female,5.3
+AFR,Africa,TZA,United Republic of Tanzania,2005,Female,5.3
+AFR,Africa,GHA,Ghana,2005,Both sexes,5.5
+EMR,Eastern Mediterranean,KWT,Kuwait,2005,Female,5.5
+EUR,Europe,MDA,Republic of Moldova,2005,Female,5.5
+WPR,Western Pacific,SGP,Singapore,2005,Female,5.5
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2005,Female,5.8
+EUR,Europe,GEO,Georgia,2005,Female,5.9
+EUR,Europe,AZE,Azerbaijan,2005,Male,50.2
+EMR,Eastern Mediterranean,PAK,Pakistan,2005,Male,50.2
+SEAR,South-East Asia,TLS,Timor-Leste,2005,Both sexes,50.4
+WPR,Western Pacific,TON,Tonga,2005,Male,50.5
+AMR,Americas,CHL,Chile,2005,Both sexes,50.7
+WPR,Western Pacific,MYS,Malaysia,2005,Male,50.7
+EUR,Europe,RUS,Russian Federation,2005,Male,50.7
+EUR,Europe,TUR,Turkey,2005,Male,50.8
+EUR,Europe,KAZ,Kazakhstan,2005,Male,52
+WPR,Western Pacific,PHL,Philippines,2005,Male,52.2
+WPR,Western Pacific,WSM,Samoa,2005,Male,52.5
+SEAR,South-East Asia,THA,Thailand,2005,Male,52.9
+WPR,Western Pacific,CHN,China,2005,Male,53
+SEAR,South-East Asia,NPL,Nepal,2005,Both sexes,53.4
+AMR,Americas,CUB,Cuba,2005,Male,53.7
+AFR,Africa,MDG,Madagascar,2005,Male,53.7
+EUR,Europe,BIH,Bosnia and Herzegovina,2005,Male,54
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2005,Both sexes,54
+WPR,Western Pacific,VUT,Vanuatu,2005,Male,54.1
+EUR,Europe,GRC,Greece,2005,Male,54.4
+EUR,Europe,LVA,Latvia,2005,Male,54.4
+EUR,Europe,BGR,Bulgaria,2005,Male,54.5
+AMR,Americas,CHL,Chile,2005,Male,54.6
+WPR,Western Pacific,KOR,Republic of Korea,2005,Male,54.7
+AFR,Africa,MUS,Mauritius,2005,Male,55.1
+EUR,Europe,ALB,Albania,2005,Male,55.3
+EUR,Europe,UKR,Ukraine,2005,Male,55.3
+SEAR,South-East Asia,IND,India,2005,Male,55.8
+EUR,Europe,BLR,Belarus,2005,Male,56.2
+EUR,Europe,KGZ,Kyrgyzstan,2005,Male,56.2
+WPR,Western Pacific,SLB,Solomon Islands,2005,Male,57.4
+SEAR,South-East Asia,MMR,Myanmar,2005,Both sexes,57.7
+WPR,Western Pacific,TUV,Tuvalu,2005,Both sexes,58.2
+EUR,Europe,CYP,Cyprus,2005,Male,59.3
+WPR,Western Pacific,MNG,Mongolia,2005,Male,59.5
+EUR,Europe,GEO,Georgia,2005,Male,59.6
+WPR,Western Pacific,KHM,Cambodia,2005,Male,59.8
+AFR,Africa,STP,Sao Tome and Principe,2005,Both sexes,6
+AFR,Africa,ETH,Ethiopia,2005,Both sexes,6.1
+SEAR,South-East Asia,LKA,Sri Lanka,2005,Female,6.3
+AFR,Africa,NGA,Nigeria,2005,Both sexes,6.4
+EMR,Eastern Mediterranean,IRQ,Iraq,2005,Female,6.7
+WPR,Western Pacific,KOR,Republic of Korea,2005,Female,6.7
+AFR,Africa,ZMB,Zambia,2005,Female,6.7
+WPR,Western Pacific,NRU,Nauru,2005,Male,61.7
+EUR,Europe,ARM,Armenia,2005,Male,62.4
+WPR,Western Pacific,KIR,Kiribati,2005,Both sexes,62.9
+SEAR,South-East Asia,BGD,Bangladesh,2005,Male,63.8
+WPR,Western Pacific,NRU,Nauru,2005,Both sexes,65
+EMR,Eastern Mediterranean,TUN,Tunisia,2005,Male,65.7
+SEAR,South-East Asia,NPL,Nepal,2005,Male,66.3
+SEAR,South-East Asia,IDN,Indonesia,2005,Male,67.7
+WPR,Western Pacific,NRU,Nauru,2005,Female,68.3
+AMR,Americas,JAM,Jamaica,2005,Female,7.3
+AMR,Americas,COL,Colombia,2005,Female,7.8
+WPR,Western Pacific,KIR,Kiribati,2005,Male,77.8
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2005,Male,78.3
+SEAR,South-East Asia,MMR,Myanmar,2005,Male,79.7
+WPR,Western Pacific,TUV,Tuvalu,2005,Male,79.9
+AFR,Africa,NER,Niger,2005,Both sexes,8
+AMR,Americas,CRI,Costa Rica,2005,Female,8.1
+AFR,Africa,SYC,Seychelles,2005,Female,8.2
+AFR,Africa,LSO,Lesotho,2005,Female,8.4
+SEAR,South-East Asia,TLS,Timor-Leste,2005,Male,85.7
+EUR,Europe,KAZ,Kazakhstan,2005,Female,9.2
+AFR,Africa,STP,Sao Tome and Principe,2005,Male,9.2
+AFR,Africa,UGA,Uganda,2005,Female,9.4
+EMR,Eastern Mediterranean,OMN,Oman,2005,Both sexes,9.5
+AMR,Americas,PER,Peru,2005,Female,9.5
+AMR,Americas,BRB,Barbados,2005,Both sexes,9.8
+AFR,Africa,CMR,Cameroon,2005,Both sexes,9.8
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2000,Female,0
+EUR,Europe,AZE,Azerbaijan,2000,Female,0.4
+AFR,Africa,ERI,Eritrea,2000,Female,0.7
+EMR,Eastern Mediterranean,EGY,Egypt,2000,Female,1
+AFR,Africa,GHA,Ghana,2000,Female,1.2
+EMR,Eastern Mediterranean,OMN,Oman,2000,Female,1.2
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2000,Female,1.3
+EUR,Europe,UZB,Uzbekistan,2000,Female,1.4
+AFR,Africa,ETH,Ethiopia,2000,Female,1.5
+AFR,Africa,NGA,Nigeria,2000,Female,1.7
+AMR,Americas,CRI,Costa Rica,2000,Female,10
+AFR,Africa,CMR,Cameroon,2000,Both sexes,10.2
+AMR,Americas,BRB,Barbados,2000,Both sexes,10.5
+AMR,Americas,COL,Colombia,2000,Female,10.5
+EUR,Europe,KAZ,Kazakhstan,2000,Female,10.5
+AFR,Africa,LSO,Lesotho,2000,Female,10.8
+EUR,Europe,ALB,Albania,2000,Female,11.1
+AFR,Africa,COG,Congo,2000,Both sexes,11.2
+AFR,Africa,GHA,Ghana,2000,Male,11.7
+AFR,Africa,RWA,Rwanda,2000,Female,11.7
+AMR,Americas,BHS,Bahamas,2000,Both sexes,11.8
+EMR,Eastern Mediterranean,BHR,Bahrain,2000,Female,12
+AFR,Africa,ETH,Ethiopia,2000,Male,12.2
+WPR,Western Pacific,MNG,Mongolia,2000,Female,12.2
+AFR,Africa,TGO,Togo,2000,Both sexes,12.2
+AFR,Africa,SWZ,Eswatini,2000,Both sexes,12.3
+EUR,Europe,BLR,Belarus,2000,Female,12.4
+AMR,Americas,HTI,Haiti,2000,Both sexes,12.4
+AMR,Americas,MEX,Mexico,2000,Female,12.7
+AFR,Africa,ERI,Eritrea,2000,Both sexes,12.8
+AFR,Africa,MOZ,Mozambique,2000,Female,12.9
+AFR,Africa,NGA,Nigeria,2000,Male,12.9
+EUR,Europe,RUS,Russian Federation,2000,Female,12.9
+AFR,Africa,MLI,Mali,2000,Both sexes,13
+AFR,Africa,BDI,Burundi,2000,Female,13.1
+AFR,Africa,MUS,Mauritius,2000,Female,13.2
+WPR,Western Pacific,PHL,Philippines,2000,Female,13.2
+AFR,Africa,UGA,Uganda,2000,Female,13.2
+AFR,Africa,MWI,Malawi,2000,Female,13.4
+AFR,Africa,NER,Niger,2000,Male,13.6
+AMR,Americas,PER,Peru,2000,Female,13.9
+AFR,Africa,LBR,Liberia,2000,Both sexes,14.2
+WPR,Western Pacific,JPN,Japan,2000,Female,14.5
+AFR,Africa,SEN,Senegal,2000,Both sexes,14.7
+WPR,Western Pacific,TON,Tonga,2000,Female,14.8
+WPR,Western Pacific,FJI,Fiji,2000,Female,15
+AMR,Americas,PRY,Paraguay,2000,Female,15
+EUR,Europe,PRT,Portugal,2000,Female,15
+EUR,Europe,UKR,Ukraine,2000,Female,15.3
+AFR,Africa,TCD,Chad,2000,Both sexes,15.4
+EMR,Eastern Mediterranean,QAT,Qatar,2000,Both sexes,15.6
+EUR,Europe,TUR,Turkey,2000,Female,15.7
+EUR,Europe,UZB,Uzbekistan,2000,Both sexes,16.1
+AMR,Americas,DOM,Dominican Republic,2000,Female,16.2
+WPR,Western Pacific,SGP,Singapore,2000,Both sexes,16.6
+AMR,Americas,COL,Colombia,2000,Both sexes,16.8
+AMR,Americas,PAN,Panama,2000,Both sexes,16.9
+SEAR,South-East Asia,IDN,Indonesia,2000,Female,17
+AFR,Africa,BEN,Benin,2000,Both sexes,17.1
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2000,Both sexes,17.2
+WPR,Western Pacific,BRN,Brunei Darussalam,2000,Both sexes,17.4
+EMR,Eastern Mediterranean,YEM,Yemen,2000,Female,17.5
+AFR,Africa,CMR,Cameroon,2000,Male,17.6
+SEAR,South-East Asia,TLS,Timor-Leste,2000,Female,17.7
+AMR,Americas,BRB,Barbados,2000,Male,17.9
+EMR,Eastern Mediterranean,OMN,Oman,2000,Male,17.9
+AMR,Americas,CRI,Costa Rica,2000,Both sexes,18.2
+AFR,Africa,ZWE,Zimbabwe,2000,Both sexes,18.3
+AFR,Africa,COG,Congo,2000,Male,18.4
+AMR,Americas,HTI,Haiti,2000,Male,18.5
+AMR,Americas,BHS,Bahamas,2000,Male,18.7
+AFR,Africa,KEN,Kenya,2000,Both sexes,18.7
+WPR,Western Pacific,PLW,Palau,2000,Female,18.7
+AMR,Americas,DOM,Dominican Republic,2000,Both sexes,18.9
+AFR,Africa,SWZ,Eswatini,2000,Male,18.9
+AMR,Americas,SLV,El Salvador,2000,Both sexes,19.1
+AFR,Africa,TGO,Togo,2000,Male,19.1
+AMR,Americas,JAM,Jamaica,2000,Both sexes,19.3
+EUR,Europe,ITA,Italy,2000,Female,19.9
+AFR,Africa,ZMB,Zambia,2000,Both sexes,19.9
+EMR,Eastern Mediterranean,MAR,Morocco,2000,Female,2.2
+AFR,Africa,NER,Niger,2000,Female,2.2
+AFR,Africa,SEN,Senegal,2000,Female,2.2
+AFR,Africa,DZA,Algeria,2000,Female,2.4
+EMR,Eastern Mediterranean,QAT,Qatar,2000,Female,2.5
+EUR,Europe,ARM,Armenia,2000,Female,2.6
+AFR,Africa,CMR,Cameroon,2000,Female,2.8
+AFR,Africa,ZWE,Zimbabwe,2000,Female,2.9
+AFR,Africa,RWA,Rwanda,2000,Both sexes,20.2
+AFR,Africa,CIV,Côte d’Ivoire,2000,Both sexes,20.4
+AFR,Africa,BDI,Burundi,2000,Both sexes,20.6
+EUR,Europe,SVK,Slovakia,2000,Female,20.6
+WPR,Western Pacific,KHM,Cambodia,2000,Female,21.2
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2000,Both sexes,21.4
+EUR,Europe,LTU,Lithuania,2000,Female,21.4
+EMR,Eastern Mediterranean,EGY,Egypt,2000,Both sexes,21.5
+EUR,Europe,CYP,Cyprus,2000,Female,21.6
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2000,Both sexes,21.7
+AMR,Americas,DOM,Dominican Republic,2000,Male,21.7
+AFR,Africa,GMB,Gambia,2000,Both sexes,21.7
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2000,Both sexes,21.8
+AFR,Africa,LBR,Liberia,2000,Male,22.2
+AFR,Africa,DZA,Algeria,2000,Both sexes,22.4
+AFR,Africa,MLI,Mali,2000,Male,22.5
+AMR,Americas,COL,Colombia,2000,Male,23.2
+EUR,Europe,ISR,Israel,2000,Female,23.3
+EMR,Eastern Mediterranean,MAR,Morocco,2000,Both sexes,23.4
+AFR,Africa,TCD,Chad,2000,Male,23.5
+AFR,Africa,LSO,Lesotho,2000,Both sexes,23.5
+EUR,Europe,SVN,Slovenia,2000,Female,23.5
+AFR,Africa,TZA,United Republic of Tanzania,2000,Both sexes,23.6
+EUR,Europe,CHE,Switzerland,2000,Female,23.9
+EUR,Europe,FIN,Finland,2000,Female,24
+AMR,Americas,BRA,Brazil,2000,Female,24.1
+AMR,Americas,MEX,Mexico,2000,Both sexes,24.1
+EMR,Eastern Mediterranean,PAK,Pakistan,2000,Female,24.1
+WPR,Western Pacific,WSM,Samoa,2000,Female,24.1
+AFR,Africa,SLE,Sierra Leone,2000,Female,24.4
+EUR,Europe,MDA,Republic of Moldova,2000,Both sexes,24.5
+EUR,Europe,LVA,Latvia,2000,Female,24.7
+AFR,Africa,ERI,Eritrea,2000,Male,24.9
+EUR,Europe,LUX,Luxembourg,2000,Female,24.9
+WPR,Western Pacific,AUS,Australia,2000,Female,25.2
+EUR,Europe,BEL,Belgium,2000,Female,25.2
+AFR,Africa,UGA,Uganda,2000,Both sexes,25.2
+EUR,Europe,PRT,Portugal,2000,Both sexes,25.3
+EUR,Europe,SVN,Slovenia,2000,Both sexes,25.3
+EUR,Europe,MLT,Malta,2000,Female,25.7
+AFR,Africa,NAM,Namibia,2000,Female,25.7
+AFR,Africa,SYC,Seychelles,2000,Both sexes,25.7
+AFR,Africa,MWI,Malawi,2000,Both sexes,25.8
+AMR,Americas,USA,United States of America,2000,Female,25.9
+EMR,Eastern Mediterranean,KWT,Kuwait,2000,Both sexes,26.3
+EUR,Europe,ITA,Italy,2000,Both sexes,26.4
+WPR,Western Pacific,SLB,Solomon Islands,2000,Female,26.4
+AMR,Americas,CRI,Costa Rica,2000,Male,26.5
+AFR,Africa,BWA,Botswana,2000,Female,26.6
+AFR,Africa,BFA,Burkina Faso,2000,Female,26.6
+EUR,Europe,EST,Estonia,2000,Female,26.8
+AMR,Americas,GUY,Guyana,2000,Both sexes,26.9
+AFR,Africa,NAM,Namibia,2000,Both sexes,27
+EUR,Europe,SVN,Slovenia,2000,Male,27
+AFR,Africa,SEN,Senegal,2000,Male,27.3
+WPR,Western Pacific,SGP,Singapore,2000,Male,27.4
+WPR,Western Pacific,AUS,Australia,2000,Both sexes,27.6
+AFR,Africa,BEN,Benin,2000,Male,27.7
+EUR,Europe,ISL,Iceland,2000,Female,27.7
+AMR,Americas,PAN,Panama,2000,Male,27.7
+EUR,Europe,HRV,Croatia,2000,Female,27.8
+AFR,Africa,MOZ,Mozambique,2000,Both sexes,27.8
+EMR,Eastern Mediterranean,IRQ,Iraq,2000,Both sexes,28
+EUR,Europe,AZE,Azerbaijan,2000,Both sexes,28.1
+EMR,Eastern Mediterranean,BHR,Bahrain,2000,Both sexes,28.1
+AFR,Africa,BDI,Burundi,2000,Male,28.1
+AFR,Africa,NAM,Namibia,2000,Male,28.3
+SEAR,South-East Asia,LKA,Sri Lanka,2000,Both sexes,28.3
+EUR,Europe,CHE,Switzerland,2000,Both sexes,28.5
+AFR,Africa,RWA,Rwanda,2000,Male,28.6
+EMR,Eastern Mediterranean,QAT,Qatar,2000,Male,28.7
+EUR,Europe,CZE,Czechia,2000,Female,28.9
+WPR,Western Pacific,MYS,Malaysia,2000,Both sexes,28.9
+AFR,Africa,ZAF,South Africa,2000,Female,28.9
+EUR,Europe,FIN,Finland,2000,Both sexes,29.1
+WPR,Western Pacific,CHN,China,2000,Both sexes,29.2
+EUR,Europe,ESP,Spain,2000,Female,29.4
+EUR,Europe,LUX,Luxembourg,2000,Both sexes,29.5
+AMR,Americas,JAM,Jamaica,2000,Male,29.6
+EUR,Europe,NLD,Netherlands,2000,Female,29.6
+WPR,Western Pacific,NZL,New Zealand,2000,Both sexes,29.6
+WPR,Western Pacific,NZL,New Zealand,2000,Female,29.6
+EUR,Europe,DEU,Germany,2000,Female,29.7
+WPR,Western Pacific,NZL,New Zealand,2000,Male,29.7
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2000,Male,29.7
+WPR,Western Pacific,BRN,Brunei Darussalam,2000,Male,29.8
+AMR,Americas,PRY,Paraguay,2000,Both sexes,29.8
+EUR,Europe,AND,Andorra,2000,Female,29.9
+WPR,Western Pacific,AUS,Australia,2000,Male,29.9
+EUR,Europe,BEL,Belgium,2000,Both sexes,29.9
+AFR,Africa,BFA,Burkina Faso,2000,Both sexes,29.9
+AMR,Americas,BRB,Barbados,2000,Female,3.1
+WPR,Western Pacific,CHN,China,2000,Female,3.2
+WPR,Western Pacific,MYS,Malaysia,2000,Female,3.2
+AFR,Africa,MLI,Mali,2000,Female,3.4
+AFR,Africa,STP,Sao Tome and Principe,2000,Female,3.6
+EUR,Europe,ISL,Iceland,2000,Both sexes,30.3
+EUR,Europe,FRA,France,2000,Female,30.7
+AMR,Americas,CAN,Canada,2000,Female,30.8
+EUR,Europe,UZB,Uzbekistan,2000,Male,30.8
+EMR,Eastern Mediterranean,YEM,Yemen,2000,Both sexes,30.9
+EUR,Europe,ISR,Israel,2000,Both sexes,31.3
+EUR,Europe,ROU,Romania,2000,Female,31.5
+AFR,Africa,MDG,Madagascar,2000,Female,31.6
+EUR,Europe,KGZ,Kyrgyzstan,2000,Both sexes,31.7
+SEAR,South-East Asia,THA,Thailand,2000,Both sexes,31.8
+AFR,Africa,ZMB,Zambia,2000,Male,31.9
+AFR,Africa,BWA,Botswana,2000,Both sexes,32.1
+EUR,Europe,SVK,Slovakia,2000,Both sexes,32.1
+WPR,Western Pacific,VUT,Vanuatu,2000,Both sexes,32.1
+AFR,Africa,KEN,Kenya,2000,Male,32.2
+EUR,Europe,NLD,Netherlands,2000,Both sexes,32.2
+AMR,Americas,USA,United States of America,2000,Both sexes,32.3
+WPR,Western Pacific,FJI,Fiji,2000,Both sexes,32.7
+AMR,Americas,BRA,Brazil,2000,Both sexes,32.8
+EUR,Europe,ISL,Iceland,2000,Male,32.8
+EUR,Europe,ITA,Italy,2000,Male,32.9
+AMR,Americas,SLV,El Salvador,2000,Male,33.1
+EUR,Europe,CHE,Switzerland,2000,Male,33.1
+AFR,Africa,BFA,Burkina Faso,2000,Male,33.2
+EUR,Europe,KAZ,Kazakhstan,2000,Both sexes,33.2
+EUR,Europe,DNK,Denmark,2000,Female,33.3
+WPR,Western Pacific,JPN,Japan,2000,Both sexes,33.3
+WPR,Western Pacific,TON,Tonga,2000,Both sexes,33.3
+AMR,Americas,URY,Uruguay,2000,Female,33.5
+EUR,Europe,DEU,Germany,2000,Both sexes,33.6
+AFR,Africa,ZWE,Zimbabwe,2000,Male,33.7
+EUR,Europe,MLT,Malta,2000,Both sexes,33.9
+AMR,Americas,PER,Peru,2000,Both sexes,33.9
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,Female,33.9
+EUR,Europe,LUX,Luxembourg,2000,Male,34.1
+EUR,Europe,ALB,Albania,2000,Both sexes,34.2
+AMR,Americas,CUB,Cuba,2000,Female,34.2
+EUR,Europe,FIN,Finland,2000,Male,34.2
+EUR,Europe,RUS,Russian Federation,2000,Both sexes,34.2
+EUR,Europe,ARM,Armenia,2000,Both sexes,34.3
+EUR,Europe,HUN,Hungary,2000,Female,34.3
+WPR,Western Pacific,PLW,Palau,2000,Both sexes,34.3
+EUR,Europe,GEO,Georgia,2000,Both sexes,34.4
+EUR,Europe,IRL,Ireland,2000,Male,34.4
+EUR,Europe,FRA,France,2000,Both sexes,34.6
+EUR,Europe,BEL,Belgium,2000,Male,34.7
+EUR,Europe,CZE,Czechia,2000,Both sexes,34.8
+EUR,Europe,NLD,Netherlands,2000,Male,34.8
+EUR,Europe,HRV,Croatia,2000,Both sexes,34.9
+EUR,Europe,BIH,Bosnia and Herzegovina,2000,Female,35
+WPR,Western Pacific,KOR,Republic of Korea,2000,Both sexes,35
+EUR,Europe,POL,Poland,2000,Female,35.1
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,Both sexes,35.2
+AFR,Africa,CIV,Côte d’Ivoire,2000,Male,35.3
+WPR,Western Pacific,PHL,Philippines,2000,Both sexes,35.3
+EUR,Europe,TUR,Turkey,2000,Both sexes,35.4
+EUR,Europe,IRL,Ireland,2000,Both sexes,35.5
+AMR,Americas,MEX,Mexico,2000,Male,35.5
+SEAR,South-East Asia,IND,India,2000,Female,35.6
+EUR,Europe,PRT,Portugal,2000,Male,35.6
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2000,Male,35.7
+AFR,Africa,MUS,Mauritius,2000,Both sexes,35.9
+AFR,Africa,LSO,Lesotho,2000,Male,36.2
+EUR,Europe,AND,Andorra,2000,Both sexes,36.3
+EUR,Europe,LTU,Lithuania,2000,Both sexes,36.3
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,Male,36.5
+EUR,Europe,IRL,Ireland,2000,Female,36.6
+AFR,Africa,SLE,Sierra Leone,2000,Both sexes,37
+AFR,Africa,UGA,Uganda,2000,Male,37.1
+EUR,Europe,BLR,Belarus,2000,Both sexes,37.3
+EUR,Europe,DEU,Germany,2000,Male,37.5
+EUR,Europe,ESP,Spain,2000,Both sexes,37.5
+EUR,Europe,DNK,Denmark,2000,Both sexes,37.6
+AFR,Africa,BWA,Botswana,2000,Male,37.7
+SEAR,South-East Asia,BGD,Bangladesh,2000,Female,37.8
+AMR,Americas,CAN,Canada,2000,Both sexes,37.9
+AFR,Africa,ZAF,South Africa,2000,Both sexes,38.1
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2000,Female,38.3
+EMR,Eastern Mediterranean,LBN,Lebanon,2000,Female,38.3
+AFR,Africa,MWI,Malawi,2000,Male,38.3
+EUR,Europe,FRA,France,2000,Male,38.5
+WPR,Western Pacific,MNG,Mongolia,2000,Both sexes,38.5
+AMR,Americas,USA,United States of America,2000,Male,38.6
+WPR,Western Pacific,COK,Cook Islands,2000,Female,38.7
+EUR,Europe,UKR,Ukraine,2000,Both sexes,38.8
+AMR,Americas,ARG,Argentina,2000,Female,39
+AMR,Americas,URY,Uruguay,2000,Both sexes,39
+AFR,Africa,GMB,Gambia,2000,Male,39.1
+WPR,Western Pacific,TUV,Tuvalu,2000,Female,39.1
+EUR,Europe,BGR,Bulgaria,2000,Female,39.2
+EUR,Europe,ISR,Israel,2000,Male,39.3
+EUR,Europe,SRB,Serbia,2000,Female,39.4
+EMR,Eastern Mediterranean,TUN,Tunisia,2000,Both sexes,39.7
+AFR,Africa,COG,Congo,2000,Female,4
+AFR,Africa,GMB,Gambia,2000,Female,4.3
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2000,Female,4.7
+AMR,Americas,BHS,Bahamas,2000,Female,4.8
+WPR,Western Pacific,BRN,Brunei Darussalam,2000,Female,4.9
+EUR,Europe,HUN,Hungary,2000,Both sexes,40
+EUR,Europe,LVA,Latvia,2000,Both sexes,40.5
+EUR,Europe,CZE,Czechia,2000,Male,40.7
+AFR,Africa,TZA,United Republic of Tanzania,2000,Male,40.7
+EUR,Europe,POL,Poland,2000,Both sexes,40.8
+EUR,Europe,EST,Estonia,2000,Both sexes,41.1
+WPR,Western Pacific,WSM,Samoa,2000,Both sexes,41.3
+EMR,Eastern Mediterranean,PAK,Pakistan,2000,Both sexes,41.5
+AMR,Americas,BRA,Brazil,2000,Male,41.6
+EUR,Europe,DNK,Denmark,2000,Male,41.8
+EUR,Europe,GRC,Greece,2000,Female,41.8
+SEAR,South-East Asia,IDN,Indonesia,2000,Both sexes,41.8
+EMR,Eastern Mediterranean,EGY,Egypt,2000,Male,41.9
+EUR,Europe,HRV,Croatia,2000,Male,42
+EUR,Europe,NOR,Norway,2000,Female,42
+EUR,Europe,ROU,Romania,2000,Both sexes,42
+EUR,Europe,MLT,Malta,2000,Male,42.1
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2000,Male,42.3
+AFR,Africa,DZA,Algeria,2000,Male,42.4
+WPR,Western Pacific,SLB,Solomon Islands,2000,Both sexes,42.4
+EUR,Europe,CYP,Cyprus,2000,Both sexes,42.5
+EUR,Europe,AND,Andorra,2000,Male,42.6
+AFR,Africa,MOZ,Mozambique,2000,Male,42.7
+AFR,Africa,SYC,Seychelles,2000,Male,42.7
+EUR,Europe,NOR,Norway,2000,Both sexes,43
+EUR,Europe,AUT,Austria,2000,Female,43.1
+AFR,Africa,COM,Comoros,2000,Male,43.1
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2000,Male,43.4
+WPR,Western Pacific,COK,Cook Islands,2000,Both sexes,43.6
+EUR,Europe,MDA,Republic of Moldova,2000,Male,43.6
+EUR,Europe,SVK,Slovakia,2000,Male,43.6
+AFR,Africa,COM,Comoros,2000,Both sexes,43.7
+SEAR,South-East Asia,MMR,Myanmar,2000,Female,43.7
+AFR,Africa,MDG,Madagascar,2000,Both sexes,44
+EUR,Europe,NOR,Norway,2000,Male,44
+EMR,Eastern Mediterranean,BHR,Bahrain,2000,Male,44.1
+EMR,Eastern Mediterranean,LBN,Lebanon,2000,Both sexes,44.1
+EMR,Eastern Mediterranean,YEM,Yemen,2000,Male,44.2
+AFR,Africa,COM,Comoros,2000,Female,44.3
+WPR,Western Pacific,KHM,Cambodia,2000,Both sexes,44.4
+AMR,Americas,PRY,Paraguay,2000,Male,44.5
+AMR,Americas,URY,Uruguay,2000,Male,44.5
+EMR,Eastern Mediterranean,MAR,Morocco,2000,Male,44.7
+AMR,Americas,CAN,Canada,2000,Male,45.1
+EUR,Europe,ESP,Spain,2000,Male,45.6
+EUR,Europe,HUN,Hungary,2000,Male,45.8
+EMR,Eastern Mediterranean,KWT,Kuwait,2000,Male,45.9
+EUR,Europe,SRB,Serbia,2000,Both sexes,45.9
+AMR,Americas,ARG,Argentina,2000,Both sexes,46.2
+EUR,Europe,BIH,Bosnia and Herzegovina,2000,Both sexes,46.3
+EUR,Europe,POL,Poland,2000,Male,46.5
+AFR,Africa,ZAF,South Africa,2000,Male,47.3
+EMR,Eastern Mediterranean,IRQ,Iraq,2000,Male,47.4
+AMR,Americas,CUB,Cuba,2000,Both sexes,47.5
+SEAR,South-East Asia,LKA,Sri Lanka,2000,Male,47.7
+EUR,Europe,AUT,Austria,2000,Both sexes,48.1
+AMR,Americas,GUY,Guyana,2000,Male,48.3
+WPR,Western Pacific,COK,Cook Islands,2000,Male,48.6
+EUR,Europe,SWE,Sweden,2000,Male,48.8
+SEAR,South-East Asia,IND,India,2000,Both sexes,48.9
+EUR,Europe,BGR,Bulgaria,2000,Both sexes,49.6
+AMR,Americas,CHL,Chile,2000,Female,49.7
+AFR,Africa,SLE,Sierra Leone,2000,Male,49.7
+WPR,Western Pacific,VUT,Vanuatu,2000,Female,5
+AMR,Americas,SLV,El Salvador,2000,Female,5.1
+EUR,Europe,KGZ,Kyrgyzstan,2000,Female,5.1
+AFR,Africa,KEN,Kenya,2000,Female,5.2
+AFR,Africa,TGO,Togo,2000,Female,5.2
+AMR,Americas,GUY,Guyana,2000,Female,5.4
+EUR,Europe,MDA,Republic of Moldova,2000,Female,5.4
+AFR,Africa,CIV,Côte d’Ivoire,2000,Female,5.5
+AFR,Africa,SWZ,Eswatini,2000,Female,5.7
+WPR,Western Pacific,SGP,Singapore,2000,Female,5.7
+SEAR,South-East Asia,THA,Thailand,2000,Female,5.7
+EMR,Eastern Mediterranean,LBN,Lebanon,2000,Male,50
+WPR,Western Pacific,PLW,Palau,2000,Male,50
+EUR,Europe,GRC,Greece,2000,Both sexes,50.2
+WPR,Western Pacific,FJI,Fiji,2000,Male,50.4
+EUR,Europe,LTU,Lithuania,2000,Male,51.2
+SEAR,South-East Asia,BGD,Bangladesh,2000,Both sexes,51.5
+WPR,Western Pacific,TON,Tonga,2000,Male,51.8
+WPR,Western Pacific,JPN,Japan,2000,Male,52.1
+EUR,Europe,ROU,Romania,2000,Male,52.4
+EUR,Europe,SRB,Serbia,2000,Male,52.4
+EUR,Europe,SWE,Sweden,2000,Both sexes,52.7
+EUR,Europe,AUT,Austria,2000,Male,53
+AMR,Americas,CHL,Chile,2000,Both sexes,53.4
+AMR,Americas,ARG,Argentina,2000,Male,53.5
+AMR,Americas,PER,Peru,2000,Male,54
+WPR,Western Pacific,KIR,Kiribati,2000,Female,54.1
+SEAR,South-East Asia,TLS,Timor-Leste,2000,Both sexes,54.4
+SEAR,South-East Asia,NPL,Nepal,2000,Female,54.5
+WPR,Western Pacific,MYS,Malaysia,2000,Male,54.6
+WPR,Western Pacific,CHN,China,2000,Male,55.1
+EUR,Europe,TUR,Turkey,2000,Male,55.1
+EUR,Europe,EST,Estonia,2000,Male,55.3
+EUR,Europe,RUS,Russian Federation,2000,Male,55.5
+EUR,Europe,AZE,Azerbaijan,2000,Male,55.9
+EUR,Europe,KAZ,Kazakhstan,2000,Male,55.9
+EUR,Europe,LVA,Latvia,2000,Male,56.4
+AFR,Africa,MDG,Madagascar,2000,Male,56.4
+EUR,Europe,SWE,Sweden,2000,Female,56.6
+AMR,Americas,CHL,Chile,2000,Male,57.1
+WPR,Western Pacific,PHL,Philippines,2000,Male,57.3
+EUR,Europe,ALB,Albania,2000,Male,57.4
+EUR,Europe,BIH,Bosnia and Herzegovina,2000,Male,57.7
+SEAR,South-East Asia,THA,Thailand,2000,Male,57.9
+EUR,Europe,KGZ,Kyrgyzstan,2000,Male,58.4
+AFR,Africa,MUS,Mauritius,2000,Male,58.5
+WPR,Western Pacific,WSM,Samoa,2000,Male,58.5
+WPR,Western Pacific,SLB,Solomon Islands,2000,Male,58.5
+EUR,Europe,GRC,Greece,2000,Male,58.6
+EMR,Eastern Mediterranean,PAK,Pakistan,2000,Male,58.9
+WPR,Western Pacific,VUT,Vanuatu,2000,Male,59.1
+EUR,Europe,BGR,Bulgaria,2000,Male,59.9
+EUR,Europe,GEO,Georgia,2000,Female,6.2
+AFR,Africa,LBR,Liberia,2000,Female,6.2
+AMR,Americas,PAN,Panama,2000,Female,6.2
+EMR,Eastern Mediterranean,TUN,Tunisia,2000,Female,6.2
+AMR,Americas,HTI,Haiti,2000,Female,6.3
+AFR,Africa,BEN,Benin,2000,Female,6.4
+AFR,Africa,STP,Sao Tome and Principe,2000,Both sexes,6.4
+AFR,Africa,GHA,Ghana,2000,Both sexes,6.5
+AFR,Africa,TZA,United Republic of Tanzania,2000,Female,6.5
+AFR,Africa,ETH,Ethiopia,2000,Both sexes,6.8
+EMR,Eastern Mediterranean,KWT,Kuwait,2000,Female,6.8
+AMR,Americas,CUB,Cuba,2000,Male,60.9
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2000,Both sexes,61.1
+WPR,Western Pacific,TUV,Tuvalu,2000,Both sexes,61.8
+EUR,Europe,BLR,Belarus,2000,Male,62.1
+SEAR,South-East Asia,IND,India,2000,Male,62.1
+EUR,Europe,UKR,Ukraine,2000,Male,62.2
+EUR,Europe,GEO,Georgia,2000,Male,62.5
+WPR,Western Pacific,KOR,Republic of Korea,2000,Male,63
+EUR,Europe,CYP,Cyprus,2000,Male,63.3
+SEAR,South-East Asia,MMR,Myanmar,2000,Both sexes,63.3
+SEAR,South-East Asia,NPL,Nepal,2000,Both sexes,64.2
+WPR,Western Pacific,MNG,Mongolia,2000,Male,64.9
+SEAR,South-East Asia,BGD,Bangladesh,2000,Male,65.3
+EUR,Europe,ARM,Armenia,2000,Male,66.1
+WPR,Western Pacific,NRU,Nauru,2000,Male,66.4
+SEAR,South-East Asia,IDN,Indonesia,2000,Male,66.7
+WPR,Western Pacific,KHM,Cambodia,2000,Male,67.7
+WPR,Western Pacific,KIR,Kiribati,2000,Both sexes,67.9
+WPR,Western Pacific,KOR,Republic of Korea,2000,Female,7
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2000,Female,7.2
+AFR,Africa,NGA,Nigeria,2000,Both sexes,7.3
+AFR,Africa,TCD,Chad,2000,Female,7.4
+AFR,Africa,NER,Niger,2000,Both sexes,7.9
+AFR,Africa,ZMB,Zambia,2000,Female,7.9
+WPR,Western Pacific,NRU,Nauru,2000,Both sexes,71
+EMR,Eastern Mediterranean,TUN,Tunisia,2000,Male,73.2
+SEAR,South-East Asia,NPL,Nepal,2000,Male,73.9
+WPR,Western Pacific,NRU,Nauru,2000,Female,75.5
+EMR,Eastern Mediterranean,IRQ,Iraq,2000,Female,8.6
+AFR,Africa,SYC,Seychelles,2000,Female,8.7
+SEAR,South-East Asia,LKA,Sri Lanka,2000,Female,8.9
+WPR,Western Pacific,KIR,Kiribati,2000,Male,81.7
+SEAR,South-East Asia,MMR,Myanmar,2000,Male,83
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2000,Male,84
+WPR,Western Pacific,TUV,Tuvalu,2000,Male,84.6
+AMR,Americas,JAM,Jamaica,2000,Female,9.1
+AFR,Africa,STP,Sao Tome and Principe,2000,Male,9.2
+EMR,Eastern Mediterranean,OMN,Oman,2000,Both sexes,9.5
+SEAR,South-East Asia,TLS,Timor-Leste,2000,Male,91
